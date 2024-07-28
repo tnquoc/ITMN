@@ -188,8 +188,7 @@ def train(params, save_model_path):
     for epoch in range(num_epochs):
         print(f'####### Epoch [{epoch + 1}/{num_epochs}] #######')
         for param_group in optimizer.param_groups:
-            # if (epoch + 1) % 15 == 0:
-            if (epoch + 1) % 25 == 0:
+            if (epoch + 1) % 15 == 0:
                 param_group['lr'] /= 10
             print('LR: {:.6f}'.format(param_group['lr']))
 

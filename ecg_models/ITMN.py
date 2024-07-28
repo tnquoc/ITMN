@@ -150,12 +150,5 @@ if __name__ == '__main__':
     x = torch.rand((4, 1000, 12)).to(device)
     model = ITMN(d_model=64, n_classes=5).to(device)
     print(sum(p.numel() for p in model.parameters() if p.requires_grad))
-    exp_type = 'super'
-    ckpt_path = f'/usr/diem/Documents/code/ptb_xl_1.0.1_Q_test/logs/losses/FOCAL1/PTB-XL_{exp_type.upper()}_ITMN_DB.pth'
-    checkpoint = torch.load(ckpt_path, map_location=device)
-    print(checkpoint['model_state_dict'].keys())
-    model.load_state_dict(checkpoint['model_state_dict'])
-    model.eval()
-
     out = model(x)
     print(out.shape)
