@@ -1,0 +1,2199 @@
+ecg_id,filename_lr,filename_hr,diagnostic_subclass
+9,records100/00000/00009_lr,records500/00000/00009_hr,['NORM']
+38,records100/00000/00038_lr,records500/00000/00038_hr,['NORM']
+40,records100/00000/00040_lr,records500/00000/00040_hr,['NORM']
+57,records100/00000/00057_lr,records500/00000/00057_hr,['NORM']
+59,records100/00000/00059_lr,records500/00000/00059_hr,['NORM']
+63,records100/00000/00063_lr,records500/00000/00063_hr,['AMI']
+65,records100/00000/00065_lr,records500/00000/00065_hr,['IRBBB']
+75,records100/00000/00075_lr,records500/00000/00075_hr,['NORM']
+76,records100/00000/00076_lr,records500/00000/00076_hr,['NORM']
+79,records100/00000/00079_lr,records500/00000/00079_hr,['NORM']
+93,records100/00000/00093_lr,records500/00000/00093_hr,['NORM']
+100,records100/00000/00100_lr,records500/00000/00100_hr,['NORM']
+112,records100/00000/00112_lr,records500/00000/00112_hr,['NORM']
+115,records100/00000/00115_lr,records500/00000/00115_hr,['NORM']
+116,records100/00000/00116_lr,records500/00000/00116_hr,['STTC']
+117,records100/00000/00117_lr,records500/00000/00117_hr,['NORM']
+119,records100/00000/00119_lr,records500/00000/00119_hr,['NORM']
+121,records100/00000/00121_lr,records500/00000/00121_hr,['NORM']
+122,records100/00000/00122_lr,records500/00000/00122_hr,['NORM']
+128,records100/00000/00128_lr,records500/00000/00128_hr,['STTC']
+129,records100/00000/00129_lr,records500/00000/00129_hr,['NORM']
+132,records100/00000/00132_lr,records500/00000/00132_hr,['NORM']
+157,records100/00000/00157_lr,records500/00000/00157_hr,['LAFB/LPFB']
+160,records100/00000/00160_lr,records500/00000/00160_hr,['NST_']
+162,records100/00000/00162_lr,records500/00000/00162_hr,"['LAFB/LPFB', 'ISC_', 'LVH', 'AMI']"
+167,records100/00000/00167_lr,records500/00000/00167_hr,['ISCA']
+172,records100/00000/00172_lr,records500/00000/00172_hr,"['LAFB/LPFB', 'CRBBB']"
+175,records100/00000/00175_lr,records500/00000/00175_hr,['IMI']
+180,records100/00000/00180_lr,records500/00000/00180_hr,['CLBBB']
+201,records100/00000/00201_lr,records500/00000/00201_hr,['NORM']
+203,records100/00000/00203_lr,records500/00000/00203_hr,['NORM']
+208,records100/00000/00208_lr,records500/00000/00208_hr,['NORM']
+210,records100/00000/00210_lr,records500/00000/00210_hr,['IMI']
+218,records100/00000/00218_lr,records500/00000/00218_hr,"['NORM', '_AVB']"
+240,records100/00000/00240_lr,records500/00000/00240_hr,['IMI']
+241,records100/00000/00241_lr,records500/00000/00241_hr,['NORM']
+243,records100/00000/00243_lr,records500/00000/00243_hr,['NORM']
+245,records100/00000/00245_lr,records500/00000/00245_hr,['NORM']
+252,records100/00000/00252_lr,records500/00000/00252_hr,['NORM']
+271,records100/00000/00271_lr,records500/00000/00271_hr,"['ISC_', 'LVH', 'AMI']"
+274,records100/00000/00274_lr,records500/00000/00274_hr,"['ISC_', 'LVH', 'LAO/LAE', 'AMI']"
+299,records100/00000/00299_lr,records500/00000/00299_hr,"['ISC_', 'LAO/LAE', 'LVH']"
+318,records100/00000/00318_lr,records500/00000/00318_hr,['STTC']
+334,records100/00000/00334_lr,records500/00000/00334_hr,['NORM']
+336,records100/00000/00336_lr,records500/00000/00336_hr,"['NST_', 'ISC_', 'LVH']"
+347,records100/00000/00347_lr,records500/00000/00347_hr,"['_AVB', 'NST_', 'ISC_', 'LVH', 'LAO/LAE']"
+361,records100/00000/00361_lr,records500/00000/00361_hr,['NORM']
+364,records100/00000/00364_lr,records500/00000/00364_hr,['NORM']
+377,records100/00000/00377_lr,records500/00000/00377_hr,['LAFB/LPFB']
+378,records100/00000/00378_lr,records500/00000/00378_hr,['LAFB/LPFB']
+382,records100/00000/00382_lr,records500/00000/00382_hr,[]
+388,records100/00000/00388_lr,records500/00000/00388_hr,['NST_']
+397,records100/00000/00397_lr,records500/00000/00397_hr,['NORM']
+400,records100/00000/00400_lr,records500/00000/00400_hr,['STTC']
+405,records100/00000/00405_lr,records500/00000/00405_hr,['NORM']
+417,records100/00000/00417_lr,records500/00000/00417_hr,['NORM']
+427,records100/00000/00427_lr,records500/00000/00427_hr,['STTC']
+430,records100/00000/00430_lr,records500/00000/00430_hr,['AMI']
+440,records100/00000/00440_lr,records500/00000/00440_hr,['NORM']
+448,records100/00000/00448_lr,records500/00000/00448_hr,['LAFB/LPFB']
+449,records100/00000/00449_lr,records500/00000/00449_hr,[]
+452,records100/00000/00452_lr,records500/00000/00452_hr,"['ISC_', 'LVH']"
+472,records100/00000/00472_lr,records500/00000/00472_hr,['NORM']
+473,records100/00000/00473_lr,records500/00000/00473_hr,['NORM']
+478,records100/00000/00478_lr,records500/00000/00478_hr,"['NORM', 'IRBBB']"
+499,records100/00000/00499_lr,records500/00000/00499_hr,['STTC']
+504,records100/00000/00504_lr,records500/00000/00504_hr,['NORM']
+512,records100/00000/00512_lr,records500/00000/00512_hr,"['AMI', 'CRBBB']"
+514,records100/00000/00514_lr,records500/00000/00514_hr,['IMI']
+516,records100/00000/00516_lr,records500/00000/00516_hr,"['ISC_', 'LVH']"
+526,records100/00000/00526_lr,records500/00000/00526_hr,['AMI']
+527,records100/00000/00527_lr,records500/00000/00527_hr,"['IVCD', 'STTC']"
+534,records100/00000/00534_lr,records500/00000/00534_hr,"['ISC_', 'LVH']"
+559,records100/00000/00559_lr,records500/00000/00559_hr,['NORM']
+564,records100/00000/00564_lr,records500/00000/00564_hr,"['ISCA', 'STTC', 'AMI']"
+569,records100/00000/00569_lr,records500/00000/00569_hr,"['NST_', 'IRBBB', 'LAFB/LPFB']"
+570,records100/00000/00570_lr,records500/00000/00570_hr,['NORM']
+573,records100/00000/00573_lr,records500/00000/00573_hr,"['STTC', 'LAO/LAE']"
+581,records100/00000/00581_lr,records500/00000/00581_hr,"['NST_', 'IVCD', 'AMI']"
+582,records100/00000/00582_lr,records500/00000/00582_hr,['NORM']
+584,records100/00000/00584_lr,records500/00000/00584_hr,['NORM']
+598,records100/00000/00598_lr,records500/00000/00598_hr,['CLBBB']
+611,records100/00000/00611_lr,records500/00000/00611_hr,['NORM']
+618,records100/00000/00618_lr,records500/00000/00618_hr,['CLBBB']
+619,records100/00000/00619_lr,records500/00000/00619_hr,['NORM']
+658,records100/00000/00658_lr,records500/00000/00658_hr,['IVCD']
+685,records100/00000/00685_lr,records500/00000/00685_hr,"['ILBBB', 'IMI', '_AVB']"
+687,records100/00000/00687_lr,records500/00000/00687_hr,['NORM']
+688,records100/00000/00688_lr,records500/00000/00688_hr,"['IVCD', 'ISCI', '_AVB']"
+694,records100/00000/00694_lr,records500/00000/00694_hr,['NORM']
+696,records100/00000/00696_lr,records500/00000/00696_hr,['NORM']
+707,records100/00000/00707_lr,records500/00000/00707_hr,['STTC']
+723,records100/00000/00723_lr,records500/00000/00723_hr,"['ISCI', 'AMI']"
+726,records100/00000/00726_lr,records500/00000/00726_hr,"['NORM', 'IRBBB', 'LAFB/LPFB']"
+732,records100/00000/00732_lr,records500/00000/00732_hr,['NORM']
+751,records100/00000/00751_lr,records500/00000/00751_hr,['NORM']
+756,records100/00000/00756_lr,records500/00000/00756_hr,['NST_']
+758,records100/00000/00758_lr,records500/00000/00758_hr,['NORM']
+764,records100/00000/00764_lr,records500/00000/00764_hr,['NORM']
+765,records100/00000/00765_lr,records500/00000/00765_hr,"['IMI', 'AMI']"
+775,records100/00000/00775_lr,records500/00000/00775_hr,['NORM']
+779,records100/00000/00779_lr,records500/00000/00779_hr,['NORM']
+789,records100/00000/00789_lr,records500/00000/00789_hr,['LAFB/LPFB']
+795,records100/00000/00795_lr,records500/00000/00795_hr,['NORM']
+799,records100/00000/00799_lr,records500/00000/00799_hr,['IMI']
+805,records100/00000/00805_lr,records500/00000/00805_hr,['NORM']
+806,records100/00000/00806_lr,records500/00000/00806_hr,['IRBBB']
+821,records100/00000/00821_lr,records500/00000/00821_hr,['IMI']
+848,records100/00000/00848_lr,records500/00000/00848_hr,['NORM']
+854,records100/00000/00854_lr,records500/00000/00854_hr,"['ISCA', 'AMI']"
+861,records100/00000/00861_lr,records500/00000/00861_hr,['NST_']
+886,records100/00000/00886_lr,records500/00000/00886_hr,['NORM']
+892,records100/00000/00892_lr,records500/00000/00892_hr,['NORM']
+911,records100/00000/00911_lr,records500/00000/00911_hr,['NORM']
+917,records100/00000/00917_lr,records500/00000/00917_hr,['NORM']
+928,records100/00000/00928_lr,records500/00000/00928_hr,['NORM']
+931,records100/00000/00931_lr,records500/00000/00931_hr,"['IVCD', 'NORM']"
+935,records100/00000/00935_lr,records500/00000/00935_hr,['NORM']
+943,records100/00000/00943_lr,records500/00000/00943_hr,"['RAO/RAE', 'LAO/LAE', 'AMI']"
+947,records100/00000/00947_lr,records500/00000/00947_hr,['IMI']
+949,records100/00000/00949_lr,records500/00000/00949_hr,['NORM']
+950,records100/00000/00950_lr,records500/00000/00950_hr,['IRBBB']
+952,records100/00000/00952_lr,records500/00000/00952_hr,['NORM']
+958,records100/00000/00958_lr,records500/00000/00958_hr,['NORM']
+959,records100/00000/00959_lr,records500/00000/00959_hr,"['_AVB', 'IRBBB', 'AMI']"
+963,records100/00000/00963_lr,records500/00000/00963_hr,['STTC']
+968,records100/00000/00968_lr,records500/00000/00968_hr,"['IMI', 'AMI']"
+975,records100/00000/00975_lr,records500/00000/00975_hr,"['LAFB/LPFB', 'IRBBB', 'AMI']"
+1009,records100/01000/01009_lr,records500/01000/01009_hr,['STTC']
+1013,records100/01000/01013_lr,records500/01000/01013_hr,"['ISC_', 'LVH']"
+1014,records100/01000/01014_lr,records500/01000/01014_hr,"['_AVB', 'AMI']"
+1016,records100/01000/01016_lr,records500/01000/01016_hr,['NORM']
+1031,records100/01000/01031_lr,records500/01000/01031_hr,['NORM']
+1051,records100/01000/01051_lr,records500/01000/01051_hr,['NORM']
+1054,records100/01000/01054_lr,records500/01000/01054_hr,['NORM']
+1056,records100/01000/01056_lr,records500/01000/01056_hr,"['_AVB', 'CLBBB', 'IMI', 'AMI']"
+1061,records100/01000/01061_lr,records500/01000/01061_hr,['NORM']
+1068,records100/01000/01068_lr,records500/01000/01068_hr,"['NST_', 'STTC']"
+1078,records100/01000/01078_lr,records500/01000/01078_hr,['NORM']
+1084,records100/01000/01084_lr,records500/01000/01084_hr,['NORM']
+1093,records100/01000/01093_lr,records500/01000/01093_hr,"['NST_', 'IMI', 'CRBBB']"
+1094,records100/01000/01094_lr,records500/01000/01094_hr,['NORM']
+1100,records100/01000/01100_lr,records500/01000/01100_hr,['NORM']
+1101,records100/01000/01101_lr,records500/01000/01101_hr,['NORM']
+1113,records100/01000/01113_lr,records500/01000/01113_hr,['NORM']
+1120,records100/01000/01120_lr,records500/01000/01120_hr,['IRBBB']
+1133,records100/01000/01133_lr,records500/01000/01133_hr,['NORM']
+1147,records100/01000/01147_lr,records500/01000/01147_hr,['NORM']
+1157,records100/01000/01157_lr,records500/01000/01157_hr,"['LAFB/LPFB', 'IMI', 'CRBBB']"
+1158,records100/01000/01158_lr,records500/01000/01158_hr,['NORM']
+1166,records100/01000/01166_lr,records500/01000/01166_hr,['NORM']
+1169,records100/01000/01169_lr,records500/01000/01169_hr,['NORM']
+1172,records100/01000/01172_lr,records500/01000/01172_hr,['NORM']
+1175,records100/01000/01175_lr,records500/01000/01175_hr,['ISCI']
+1186,records100/01000/01186_lr,records500/01000/01186_hr,['NORM']
+1197,records100/01000/01197_lr,records500/01000/01197_hr,['NORM']
+1200,records100/01000/01200_lr,records500/01000/01200_hr,"['IRBBB', 'IMI']"
+1219,records100/01000/01219_lr,records500/01000/01219_hr,['LVH']
+1220,records100/01000/01220_lr,records500/01000/01220_hr,"['NORM', 'LAFB/LPFB']"
+1246,records100/01000/01246_lr,records500/01000/01246_hr,['NORM']
+1251,records100/01000/01251_lr,records500/01000/01251_hr,['NORM']
+1266,records100/01000/01266_lr,records500/01000/01266_hr,['NORM']
+1268,records100/01000/01268_lr,records500/01000/01268_hr,['STTC']
+1275,records100/01000/01275_lr,records500/01000/01275_hr,['AMI']
+1280,records100/01000/01280_lr,records500/01000/01280_hr,['NORM']
+1282,records100/01000/01282_lr,records500/01000/01282_hr,['NORM']
+1287,records100/01000/01287_lr,records500/01000/01287_hr,['NORM']
+1307,records100/01000/01307_lr,records500/01000/01307_hr,['LVH']
+1311,records100/01000/01311_lr,records500/01000/01311_hr,['NORM']
+1315,records100/01000/01315_lr,records500/01000/01315_hr,['NORM']
+1320,records100/01000/01320_lr,records500/01000/01320_hr,"['ISC_', 'LVH', 'IMI', 'AMI']"
+1343,records100/01000/01343_lr,records500/01000/01343_hr,['IMI']
+1351,records100/01000/01351_lr,records500/01000/01351_hr,['NORM']
+1353,records100/01000/01353_lr,records500/01000/01353_hr,['NORM']
+1355,records100/01000/01355_lr,records500/01000/01355_hr,['NORM']
+1377,records100/01000/01377_lr,records500/01000/01377_hr,['STTC']
+1386,records100/01000/01386_lr,records500/01000/01386_hr,['LVH']
+1391,records100/01000/01391_lr,records500/01000/01391_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+1394,records100/01000/01394_lr,records500/01000/01394_hr,['ISCI']
+1405,records100/01000/01405_lr,records500/01000/01405_hr,['AMI']
+1416,records100/01000/01416_lr,records500/01000/01416_hr,['IVCD']
+1424,records100/01000/01424_lr,records500/01000/01424_hr,"['ISCI', 'CRBBB']"
+1426,records100/01000/01426_lr,records500/01000/01426_hr,"['ISCI', 'LVH']"
+1429,records100/01000/01429_lr,records500/01000/01429_hr,['ISCA']
+1447,records100/01000/01447_lr,records500/01000/01447_hr,"['LAO/LAE', 'AMI']"
+1456,records100/01000/01456_lr,records500/01000/01456_hr,['ISC_']
+1458,records100/01000/01458_lr,records500/01000/01458_hr,['NORM']
+1468,records100/01000/01468_lr,records500/01000/01468_hr,['NORM']
+1479,records100/01000/01479_lr,records500/01000/01479_hr,['NORM']
+1480,records100/01000/01480_lr,records500/01000/01480_hr,"['STTC', 'IMI', 'LVH']"
+1487,records100/01000/01487_lr,records500/01000/01487_hr,['NORM']
+1491,records100/01000/01491_lr,records500/01000/01491_hr,['NORM']
+1494,records100/01000/01494_lr,records500/01000/01494_hr,['NORM']
+1498,records100/01000/01498_lr,records500/01000/01498_hr,['NORM']
+1522,records100/01000/01522_lr,records500/01000/01522_hr,['LVH']
+1534,records100/01000/01534_lr,records500/01000/01534_hr,['LVH']
+1556,records100/01000/01556_lr,records500/01000/01556_hr,"['IMI', 'LAO/LAE']"
+1564,records100/01000/01564_lr,records500/01000/01564_hr,['CLBBB']
+1571,records100/01000/01571_lr,records500/01000/01571_hr,"['IVCD', 'IMI']"
+1589,records100/01000/01589_lr,records500/01000/01589_hr,['NORM']
+1617,records100/01000/01617_lr,records500/01000/01617_hr,['NORM']
+1618,records100/01000/01618_lr,records500/01000/01618_hr,['NORM']
+1624,records100/01000/01624_lr,records500/01000/01624_hr,['STTC']
+1630,records100/01000/01630_lr,records500/01000/01630_hr,['NORM']
+1632,records100/01000/01632_lr,records500/01000/01632_hr,['NORM']
+1639,records100/01000/01639_lr,records500/01000/01639_hr,['NORM']
+1655,records100/01000/01655_lr,records500/01000/01655_hr,['NORM']
+1697,records100/01000/01697_lr,records500/01000/01697_hr,['NORM']
+1700,records100/01000/01700_lr,records500/01000/01700_hr,['NORM']
+1705,records100/01000/01705_lr,records500/01000/01705_hr,['NORM']
+1708,records100/01000/01708_lr,records500/01000/01708_hr,['NORM']
+1717,records100/01000/01717_lr,records500/01000/01717_hr,[]
+1736,records100/01000/01736_lr,records500/01000/01736_hr,['STTC']
+1737,records100/01000/01737_lr,records500/01000/01737_hr,['IMI']
+1741,records100/01000/01741_lr,records500/01000/01741_hr,['NORM']
+1745,records100/01000/01745_lr,records500/01000/01745_hr,['LAO/LAE']
+1746,records100/01000/01746_lr,records500/01000/01746_hr,['NORM']
+1747,records100/01000/01747_lr,records500/01000/01747_hr,['IMI']
+1753,records100/01000/01753_lr,records500/01000/01753_hr,['LMI']
+1757,records100/01000/01757_lr,records500/01000/01757_hr,['NORM']
+1769,records100/01000/01769_lr,records500/01000/01769_hr,['IMI']
+1775,records100/01000/01775_lr,records500/01000/01775_hr,['NORM']
+1780,records100/01000/01780_lr,records500/01000/01780_hr,['NORM']
+1785,records100/01000/01785_lr,records500/01000/01785_hr,['RAO/RAE']
+1790,records100/01000/01790_lr,records500/01000/01790_hr,['NORM']
+1792,records100/01000/01792_lr,records500/01000/01792_hr,['STTC']
+1812,records100/01000/01812_lr,records500/01000/01812_hr,['AMI']
+1825,records100/01000/01825_lr,records500/01000/01825_hr,['NORM']
+1835,records100/01000/01835_lr,records500/01000/01835_hr,['NORM']
+1838,records100/01000/01838_lr,records500/01000/01838_hr,['NORM']
+1843,records100/01000/01843_lr,records500/01000/01843_hr,['NORM']
+1850,records100/01000/01850_lr,records500/01000/01850_hr,['NORM']
+1853,records100/01000/01853_lr,records500/01000/01853_hr,"['IMI', 'AMI']"
+1857,records100/01000/01857_lr,records500/01000/01857_hr,['NORM']
+1860,records100/01000/01860_lr,records500/01000/01860_hr,['NORM']
+1864,records100/01000/01864_lr,records500/01000/01864_hr,"['ISC_', 'LAO/LAE', 'LVH']"
+1867,records100/01000/01867_lr,records500/01000/01867_hr,['NORM']
+1870,records100/01000/01870_lr,records500/01000/01870_hr,['NORM']
+1885,records100/01000/01885_lr,records500/01000/01885_hr,['NORM']
+1899,records100/01000/01899_lr,records500/01000/01899_hr,['NORM']
+1901,records100/01000/01901_lr,records500/01000/01901_hr,['AMI']
+1920,records100/01000/01920_lr,records500/01000/01920_hr,['NST_']
+1933,records100/01000/01933_lr,records500/01000/01933_hr,['NORM']
+1938,records100/01000/01938_lr,records500/01000/01938_hr,['NORM']
+1940,records100/01000/01940_lr,records500/01000/01940_hr,"['ISCI', 'LAFB/LPFB']"
+1944,records100/01000/01944_lr,records500/01000/01944_hr,"['ISCA', 'IMI']"
+1946,records100/01000/01946_lr,records500/01000/01946_hr,['NORM']
+1950,records100/01000/01950_lr,records500/01000/01950_hr,['IMI']
+1958,records100/01000/01958_lr,records500/01000/01958_hr,['NORM']
+1961,records100/01000/01961_lr,records500/01000/01961_hr,"['LVH', 'AMI']"
+1972,records100/01000/01972_lr,records500/01000/01972_hr,['NORM']
+1988,records100/01000/01988_lr,records500/01000/01988_hr,['NORM']
+1993,records100/01000/01993_lr,records500/01000/01993_hr,['NORM']
+1994,records100/01000/01994_lr,records500/01000/01994_hr,['NST_']
+1998,records100/01000/01998_lr,records500/01000/01998_hr,"['STTC', 'IRBBB', 'IMI']"
+2019,records100/02000/02019_lr,records500/02000/02019_hr,"['LAFB/LPFB', 'IRBBB', 'AMI']"
+2039,records100/02000/02039_lr,records500/02000/02039_hr,['STTC']
+2045,records100/02000/02045_lr,records500/02000/02045_hr,['NORM']
+2050,records100/02000/02050_lr,records500/02000/02050_hr,"['ISCA', 'AMI']"
+2055,records100/02000/02055_lr,records500/02000/02055_hr,"['LMI', 'ISCI', 'AMI']"
+2064,records100/02000/02064_lr,records500/02000/02064_hr,['ISC_']
+2083,records100/02000/02083_lr,records500/02000/02083_hr,['NORM']
+2101,records100/02000/02101_lr,records500/02000/02101_hr,['ISCA']
+2103,records100/02000/02103_lr,records500/02000/02103_hr,"['ISC_', 'LVH']"
+2104,records100/02000/02104_lr,records500/02000/02104_hr,"['ISC_', 'LVH', 'AMI']"
+2110,records100/02000/02110_lr,records500/02000/02110_hr,['STTC']
+2119,records100/02000/02119_lr,records500/02000/02119_hr,['LVH']
+2144,records100/02000/02144_lr,records500/02000/02144_hr,['NORM']
+2146,records100/02000/02146_lr,records500/02000/02146_hr,['_AVB']
+2151,records100/02000/02151_lr,records500/02000/02151_hr,['STTC']
+2153,records100/02000/02153_lr,records500/02000/02153_hr,['LAFB/LPFB']
+2158,records100/02000/02158_lr,records500/02000/02158_hr,['NORM']
+2160,records100/02000/02160_lr,records500/02000/02160_hr,['ISCA']
+2170,records100/02000/02170_lr,records500/02000/02170_hr,['STTC']
+2180,records100/02000/02180_lr,records500/02000/02180_hr,['STTC']
+2192,records100/02000/02192_lr,records500/02000/02192_hr,['NORM']
+2193,records100/02000/02193_lr,records500/02000/02193_hr,['NORM']
+2203,records100/02000/02203_lr,records500/02000/02203_hr,['NORM']
+2210,records100/02000/02210_lr,records500/02000/02210_hr,['STTC']
+2213,records100/02000/02213_lr,records500/02000/02213_hr,"['STTC', 'LVH']"
+2221,records100/02000/02221_lr,records500/02000/02221_hr,"['STTC', 'IMI', 'AMI']"
+2224,records100/02000/02224_lr,records500/02000/02224_hr,['NORM']
+2226,records100/02000/02226_lr,records500/02000/02226_hr,['NORM']
+2235,records100/02000/02235_lr,records500/02000/02235_hr,"['IMI', 'AMI']"
+2238,records100/02000/02238_lr,records500/02000/02238_hr,['NORM']
+2252,records100/02000/02252_lr,records500/02000/02252_hr,['LAFB/LPFB']
+2267,records100/02000/02267_lr,records500/02000/02267_hr,['NORM']
+2270,records100/02000/02270_lr,records500/02000/02270_hr,['NORM']
+2277,records100/02000/02277_lr,records500/02000/02277_hr,['NORM']
+2279,records100/02000/02279_lr,records500/02000/02279_hr,"['STTC', 'LAFB/LPFB']"
+2281,records100/02000/02281_lr,records500/02000/02281_hr,['IRBBB']
+2282,records100/02000/02282_lr,records500/02000/02282_hr,['NORM']
+2285,records100/02000/02285_lr,records500/02000/02285_hr,['LAFB/LPFB']
+2293,records100/02000/02293_lr,records500/02000/02293_hr,['STTC']
+2302,records100/02000/02302_lr,records500/02000/02302_hr,['NORM']
+2317,records100/02000/02317_lr,records500/02000/02317_hr,"['ISC_', 'STTC', 'LVH']"
+2322,records100/02000/02322_lr,records500/02000/02322_hr,"['ISC_', 'LVH', 'AMI']"
+2324,records100/02000/02324_lr,records500/02000/02324_hr,"['IRBBB', 'LAO/LAE', 'AMI']"
+2341,records100/02000/02341_lr,records500/02000/02341_hr,['NORM']
+2345,records100/02000/02345_lr,records500/02000/02345_hr,"['LAFB/LPFB', 'AMI']"
+2355,records100/02000/02355_lr,records500/02000/02355_hr,['NORM']
+2368,records100/02000/02368_lr,records500/02000/02368_hr,"['NORM', 'IRBBB']"
+2369,records100/02000/02369_lr,records500/02000/02369_hr,['NORM']
+2370,records100/02000/02370_lr,records500/02000/02370_hr,['LAFB/LPFB']
+2375,records100/02000/02375_lr,records500/02000/02375_hr,['IRBBB']
+2379,records100/02000/02379_lr,records500/02000/02379_hr,['NORM']
+2381,records100/02000/02381_lr,records500/02000/02381_hr,['STTC']
+2386,records100/02000/02386_lr,records500/02000/02386_hr,['NORM']
+2387,records100/02000/02387_lr,records500/02000/02387_hr,['NORM']
+2390,records100/02000/02390_lr,records500/02000/02390_hr,['STTC']
+2403,records100/02000/02403_lr,records500/02000/02403_hr,['STTC']
+2409,records100/02000/02409_lr,records500/02000/02409_hr,"['RVH', 'IRBBB', 'LAFB/LPFB']"
+2416,records100/02000/02416_lr,records500/02000/02416_hr,['NORM']
+2417,records100/02000/02417_lr,records500/02000/02417_hr,['RVH']
+2419,records100/02000/02419_lr,records500/02000/02419_hr,['IVCD']
+2422,records100/02000/02422_lr,records500/02000/02422_hr,['IMI']
+2427,records100/02000/02427_lr,records500/02000/02427_hr,['NORM']
+2432,records100/02000/02432_lr,records500/02000/02432_hr,['NORM']
+2433,records100/02000/02433_lr,records500/02000/02433_hr,['CRBBB']
+2449,records100/02000/02449_lr,records500/02000/02449_hr,['NORM']
+2455,records100/02000/02455_lr,records500/02000/02455_hr,['NORM']
+2473,records100/02000/02473_lr,records500/02000/02473_hr,['LVH']
+2476,records100/02000/02476_lr,records500/02000/02476_hr,['NORM']
+2492,records100/02000/02492_lr,records500/02000/02492_hr,['AMI']
+2507,records100/02000/02507_lr,records500/02000/02507_hr,['NORM']
+2549,records100/02000/02549_lr,records500/02000/02549_hr,"['ISCI', 'AMI']"
+2550,records100/02000/02550_lr,records500/02000/02550_hr,"['NORM', 'IRBBB']"
+2551,records100/02000/02551_lr,records500/02000/02551_hr,['NORM']
+2556,records100/02000/02556_lr,records500/02000/02556_hr,['STTC']
+2560,records100/02000/02560_lr,records500/02000/02560_hr,['NORM']
+2561,records100/02000/02561_lr,records500/02000/02561_hr,['LMI']
+2565,records100/02000/02565_lr,records500/02000/02565_hr,"['ISC_', 'LVH']"
+2569,records100/02000/02569_lr,records500/02000/02569_hr,['IMI']
+2579,records100/02000/02579_lr,records500/02000/02579_hr,['NORM']
+2587,records100/02000/02587_lr,records500/02000/02587_hr,[]
+2592,records100/02000/02592_lr,records500/02000/02592_hr,[]
+2596,records100/02000/02596_lr,records500/02000/02596_hr,['NORM']
+2598,records100/02000/02598_lr,records500/02000/02598_hr,"['STTC', 'AMI']"
+2602,records100/02000/02602_lr,records500/02000/02602_hr,"['NST_', 'LVH']"
+2605,records100/02000/02605_lr,records500/02000/02605_hr,['IMI']
+2606,records100/02000/02606_lr,records500/02000/02606_hr,"['IMI', '_AVB']"
+2626,records100/02000/02626_lr,records500/02000/02626_hr,['IRBBB']
+2627,records100/02000/02627_lr,records500/02000/02627_hr,['IMI']
+2638,records100/02000/02638_lr,records500/02000/02638_hr,['NORM']
+2649,records100/02000/02649_lr,records500/02000/02649_hr,['NORM']
+2693,records100/02000/02693_lr,records500/02000/02693_hr,['ISC_']
+2694,records100/02000/02694_lr,records500/02000/02694_hr,['NORM']
+2722,records100/02000/02722_lr,records500/02000/02722_hr,['LAFB/LPFB']
+2734,records100/02000/02734_lr,records500/02000/02734_hr,['STTC']
+2736,records100/02000/02736_lr,records500/02000/02736_hr,['IMI']
+2764,records100/02000/02764_lr,records500/02000/02764_hr,['NORM']
+2767,records100/02000/02767_lr,records500/02000/02767_hr,"['NORM', 'IRBBB']"
+2776,records100/02000/02776_lr,records500/02000/02776_hr,"['IMI', 'AMI']"
+2779,records100/02000/02779_lr,records500/02000/02779_hr,['NORM']
+2785,records100/02000/02785_lr,records500/02000/02785_hr,['NORM']
+2786,records100/02000/02786_lr,records500/02000/02786_hr,['NORM']
+2789,records100/02000/02789_lr,records500/02000/02789_hr,['NORM']
+2791,records100/02000/02791_lr,records500/02000/02791_hr,['NORM']
+2802,records100/02000/02802_lr,records500/02000/02802_hr,"['ISC_', 'LVH', 'AMI']"
+2813,records100/02000/02813_lr,records500/02000/02813_hr,['NORM']
+2819,records100/02000/02819_lr,records500/02000/02819_hr,['NORM']
+2830,records100/02000/02830_lr,records500/02000/02830_hr,['NORM']
+2839,records100/02000/02839_lr,records500/02000/02839_hr,['NORM']
+2848,records100/02000/02848_lr,records500/02000/02848_hr,['NORM']
+2854,records100/02000/02854_lr,records500/02000/02854_hr,['NORM']
+2865,records100/02000/02865_lr,records500/02000/02865_hr,['NST_']
+2867,records100/02000/02867_lr,records500/02000/02867_hr,['STTC']
+2871,records100/02000/02871_lr,records500/02000/02871_hr,['NORM']
+2905,records100/02000/02905_lr,records500/02000/02905_hr,"['NORM', 'IRBBB']"
+2909,records100/02000/02909_lr,records500/02000/02909_hr,"['IVCD', 'NORM']"
+2910,records100/02000/02910_lr,records500/02000/02910_hr,['NORM']
+2913,records100/02000/02913_lr,records500/02000/02913_hr,['NORM']
+2920,records100/02000/02920_lr,records500/02000/02920_hr,['NORM']
+2921,records100/02000/02921_lr,records500/02000/02921_hr,['NORM']
+2922,records100/02000/02922_lr,records500/02000/02922_hr,['ISCA']
+2928,records100/02000/02928_lr,records500/02000/02928_hr,['NORM']
+2929,records100/02000/02929_lr,records500/02000/02929_hr,['NORM']
+2935,records100/02000/02935_lr,records500/02000/02935_hr,['NORM']
+2938,records100/02000/02938_lr,records500/02000/02938_hr,['STTC']
+2939,records100/02000/02939_lr,records500/02000/02939_hr,['NORM']
+2941,records100/02000/02941_lr,records500/02000/02941_hr,['NORM']
+2942,records100/02000/02942_lr,records500/02000/02942_hr,['NORM']
+2963,records100/02000/02963_lr,records500/02000/02963_hr,['NORM']
+2965,records100/02000/02965_lr,records500/02000/02965_hr,['NORM']
+2987,records100/02000/02987_lr,records500/02000/02987_hr,['NORM']
+3009,records100/03000/03009_lr,records500/03000/03009_hr,"['STTC', 'IMI']"
+3022,records100/03000/03022_lr,records500/03000/03022_hr,['NORM']
+3027,records100/03000/03027_lr,records500/03000/03027_hr,['NORM']
+3033,records100/03000/03033_lr,records500/03000/03033_hr,['STTC']
+3035,records100/03000/03035_lr,records500/03000/03035_hr,"['NORM', 'IRBBB']"
+3043,records100/03000/03043_lr,records500/03000/03043_hr,['NORM']
+3052,records100/03000/03052_lr,records500/03000/03052_hr,['IMI']
+3060,records100/03000/03060_lr,records500/03000/03060_hr,['NORM']
+3073,records100/03000/03073_lr,records500/03000/03073_hr,['NORM']
+3078,records100/03000/03078_lr,records500/03000/03078_hr,"['ISCA', 'ISCI']"
+3092,records100/03000/03092_lr,records500/03000/03092_hr,['LVH']
+3103,records100/03000/03103_lr,records500/03000/03103_hr,['NORM']
+3108,records100/03000/03108_lr,records500/03000/03108_hr,['NORM']
+3112,records100/03000/03112_lr,records500/03000/03112_hr,['NORM']
+3122,records100/03000/03122_lr,records500/03000/03122_hr,['IMI']
+3128,records100/03000/03128_lr,records500/03000/03128_hr,['NORM']
+3148,records100/03000/03148_lr,records500/03000/03148_hr,['NORM']
+3159,records100/03000/03159_lr,records500/03000/03159_hr,['NORM']
+3164,records100/03000/03164_lr,records500/03000/03164_hr,['NORM']
+3165,records100/03000/03165_lr,records500/03000/03165_hr,['NORM']
+3174,records100/03000/03174_lr,records500/03000/03174_hr,['NORM']
+3201,records100/03000/03201_lr,records500/03000/03201_hr,['LAFB/LPFB']
+3208,records100/03000/03208_lr,records500/03000/03208_hr,"['STTC', 'IMI']"
+3215,records100/03000/03215_lr,records500/03000/03215_hr,"['NST_', 'LVH']"
+3220,records100/03000/03220_lr,records500/03000/03220_hr,['STTC']
+3235,records100/03000/03235_lr,records500/03000/03235_hr,['NORM']
+3241,records100/03000/03241_lr,records500/03000/03241_hr,"['IMI', 'AMI']"
+3246,records100/03000/03246_lr,records500/03000/03246_hr,"['IVCD', 'AMI']"
+3248,records100/03000/03248_lr,records500/03000/03248_hr,"['IVCD', 'NORM']"
+3272,records100/03000/03272_lr,records500/03000/03272_hr,"['NST_', 'STTC', 'AMI']"
+3275,records100/03000/03275_lr,records500/03000/03275_hr,"['IMI', 'IVCD', 'ISC_', 'LVH', 'LAO/LAE']"
+3281,records100/03000/03281_lr,records500/03000/03281_hr,"['ISC_', 'LVH']"
+3282,records100/03000/03282_lr,records500/03000/03282_hr,['STTC']
+3299,records100/03000/03299_lr,records500/03000/03299_hr,"['NORM', 'IRBBB']"
+3315,records100/03000/03315_lr,records500/03000/03315_hr,"['IMI', 'AMI']"
+3317,records100/03000/03317_lr,records500/03000/03317_hr,['NST_']
+3320,records100/03000/03320_lr,records500/03000/03320_hr,['NORM']
+3326,records100/03000/03326_lr,records500/03000/03326_hr,"['NST_', 'STTC']"
+3336,records100/03000/03336_lr,records500/03000/03336_hr,['IMI']
+3342,records100/03000/03342_lr,records500/03000/03342_hr,['STTC']
+3350,records100/03000/03350_lr,records500/03000/03350_hr,['NORM']
+3356,records100/03000/03356_lr,records500/03000/03356_hr,['LAFB/LPFB']
+3363,records100/03000/03363_lr,records500/03000/03363_hr,['STTC']
+3371,records100/03000/03371_lr,records500/03000/03371_hr,['LVH']
+3384,records100/03000/03384_lr,records500/03000/03384_hr,['NORM']
+3406,records100/03000/03406_lr,records500/03000/03406_hr,['NORM']
+3414,records100/03000/03414_lr,records500/03000/03414_hr,['NORM']
+3435,records100/03000/03435_lr,records500/03000/03435_hr,['NORM']
+3452,records100/03000/03452_lr,records500/03000/03452_hr,['LAFB/LPFB']
+3454,records100/03000/03454_lr,records500/03000/03454_hr,"['ISC_', 'LVH', 'AMI']"
+3479,records100/03000/03479_lr,records500/03000/03479_hr,"['CLBBB', '_AVB']"
+3484,records100/03000/03484_lr,records500/03000/03484_hr,"['CLBBB', 'ISCA']"
+3486,records100/03000/03486_lr,records500/03000/03486_hr,"['IVCD', 'NORM', 'LAO/LAE', '_AVB']"
+3487,records100/03000/03487_lr,records500/03000/03487_hr,['NORM']
+3497,records100/03000/03497_lr,records500/03000/03497_hr,['NORM']
+3507,records100/03000/03507_lr,records500/03000/03507_hr,['NORM']
+3508,records100/03000/03508_lr,records500/03000/03508_hr,['STTC']
+3515,records100/03000/03515_lr,records500/03000/03515_hr,['NORM']
+3521,records100/03000/03521_lr,records500/03000/03521_hr,['NORM']
+3522,records100/03000/03522_lr,records500/03000/03522_hr,['NORM']
+3537,records100/03000/03537_lr,records500/03000/03537_hr,['NORM']
+3544,records100/03000/03544_lr,records500/03000/03544_hr,['AMI']
+3558,records100/03000/03558_lr,records500/03000/03558_hr,['NORM']
+3559,records100/03000/03559_lr,records500/03000/03559_hr,"['IVCD', 'LMI']"
+3568,records100/03000/03568_lr,records500/03000/03568_hr,"['IRBBB', 'AMI']"
+3579,records100/03000/03579_lr,records500/03000/03579_hr,['IMI']
+3582,records100/03000/03582_lr,records500/03000/03582_hr,"['CRBBB', 'IMI', 'AMI']"
+3585,records100/03000/03585_lr,records500/03000/03585_hr,['NORM']
+3590,records100/03000/03590_lr,records500/03000/03590_hr,['ISCA']
+3600,records100/03000/03600_lr,records500/03000/03600_hr,['IMI']
+3603,records100/03000/03603_lr,records500/03000/03603_hr,['LVH']
+3606,records100/03000/03606_lr,records500/03000/03606_hr,"['LVH', 'AMI']"
+3610,records100/03000/03610_lr,records500/03000/03610_hr,['IMI']
+3612,records100/03000/03612_lr,records500/03000/03612_hr,['NST_']
+3613,records100/03000/03613_lr,records500/03000/03613_hr,"['IVCD', 'IMI']"
+3615,records100/03000/03615_lr,records500/03000/03615_hr,['NORM']
+3618,records100/03000/03618_lr,records500/03000/03618_hr,['NORM']
+3625,records100/03000/03625_lr,records500/03000/03625_hr,['NORM']
+3629,records100/03000/03629_lr,records500/03000/03629_hr,"['IRBBB', 'AMI']"
+3632,records100/03000/03632_lr,records500/03000/03632_hr,['IMI']
+3634,records100/03000/03634_lr,records500/03000/03634_hr,['NORM']
+3635,records100/03000/03635_lr,records500/03000/03635_hr,"['IVCD', 'NORM']"
+3641,records100/03000/03641_lr,records500/03000/03641_hr,"['IRBBB', 'LAFB/LPFB']"
+3652,records100/03000/03652_lr,records500/03000/03652_hr,['NORM']
+3657,records100/03000/03657_lr,records500/03000/03657_hr,['NORM']
+3660,records100/03000/03660_lr,records500/03000/03660_hr,['LVH']
+3665,records100/03000/03665_lr,records500/03000/03665_hr,['NORM']
+3669,records100/03000/03669_lr,records500/03000/03669_hr,['NORM']
+3688,records100/03000/03688_lr,records500/03000/03688_hr,"['IVCD', 'LVH']"
+3689,records100/03000/03689_lr,records500/03000/03689_hr,"['LMI', 'STTC']"
+3692,records100/03000/03692_lr,records500/03000/03692_hr,"['NST_', 'IMI']"
+3696,records100/03000/03696_lr,records500/03000/03696_hr,['IMI']
+3699,records100/03000/03699_lr,records500/03000/03699_hr,['LAFB/LPFB']
+3702,records100/03000/03702_lr,records500/03000/03702_hr,['NORM']
+3704,records100/03000/03704_lr,records500/03000/03704_hr,['NORM']
+3708,records100/03000/03708_lr,records500/03000/03708_hr,['IRBBB']
+3712,records100/03000/03712_lr,records500/03000/03712_hr,['NORM']
+3723,records100/03000/03723_lr,records500/03000/03723_hr,[]
+3740,records100/03000/03740_lr,records500/03000/03740_hr,"['NORM', 'IRBBB']"
+3755,records100/03000/03755_lr,records500/03000/03755_hr,"['IVCD', '_AVB', 'AMI']"
+3756,records100/03000/03756_lr,records500/03000/03756_hr,['NORM']
+3785,records100/03000/03785_lr,records500/03000/03785_hr,['LVH']
+3791,records100/03000/03791_lr,records500/03000/03791_hr,['IRBBB']
+3793,records100/03000/03793_lr,records500/03000/03793_hr,[]
+3805,records100/03000/03805_lr,records500/03000/03805_hr,"['LMI', 'AMI']"
+3827,records100/03000/03827_lr,records500/03000/03827_hr,"['IMI', 'AMI', 'LVH', 'ISC_', 'LAFB/LPFB']"
+3842,records100/03000/03842_lr,records500/03000/03842_hr,"['NST_', 'LVH']"
+3855,records100/03000/03855_lr,records500/03000/03855_hr,"['_AVB', 'AMI']"
+3863,records100/03000/03863_lr,records500/03000/03863_hr,['NORM']
+3867,records100/03000/03867_lr,records500/03000/03867_hr,"['ISC_', 'LVH']"
+3869,records100/03000/03869_lr,records500/03000/03869_hr,"['ISC_', 'LVH']"
+3872,records100/03000/03872_lr,records500/03000/03872_hr,"['NORM', 'IRBBB']"
+3875,records100/03000/03875_lr,records500/03000/03875_hr,['AMI']
+3878,records100/03000/03878_lr,records500/03000/03878_hr,['NORM']
+3892,records100/03000/03892_lr,records500/03000/03892_hr,['NORM']
+3895,records100/03000/03895_lr,records500/03000/03895_hr,"['ISC_', 'LVH']"
+3904,records100/03000/03904_lr,records500/03000/03904_hr,['NORM']
+3908,records100/03000/03908_lr,records500/03000/03908_hr,['AMI']
+3909,records100/03000/03909_lr,records500/03000/03909_hr,['NORM']
+3910,records100/03000/03910_lr,records500/03000/03910_hr,"['ISC_', 'IMI', 'LVH']"
+3913,records100/03000/03913_lr,records500/03000/03913_hr,['AMI']
+3914,records100/03000/03914_lr,records500/03000/03914_hr,['AMI']
+3918,records100/03000/03918_lr,records500/03000/03918_hr,['NORM']
+3923,records100/03000/03923_lr,records500/03000/03923_hr,['NORM']
+3925,records100/03000/03925_lr,records500/03000/03925_hr,"['LVH', 'LAFB/LPFB']"
+3926,records100/03000/03926_lr,records500/03000/03926_hr,['NORM']
+3937,records100/03000/03937_lr,records500/03000/03937_hr,['NORM']
+3947,records100/03000/03947_lr,records500/03000/03947_hr,"['LAFB/LPFB', 'CRBBB']"
+3948,records100/03000/03948_lr,records500/03000/03948_hr,['_AVB']
+3949,records100/03000/03949_lr,records500/03000/03949_hr,"['IMI', 'AMI']"
+3967,records100/03000/03967_lr,records500/03000/03967_hr,['AMI']
+3984,records100/03000/03984_lr,records500/03000/03984_hr,['NORM']
+3986,records100/03000/03986_lr,records500/03000/03986_hr,['NORM']
+3990,records100/03000/03990_lr,records500/03000/03990_hr,[]
+4016,records100/04000/04016_lr,records500/04000/04016_hr,['CLBBB']
+4025,records100/04000/04025_lr,records500/04000/04025_hr,['NORM']
+4059,records100/04000/04059_lr,records500/04000/04059_hr,['NORM']
+4066,records100/04000/04066_lr,records500/04000/04066_hr,['NORM']
+4070,records100/04000/04070_lr,records500/04000/04070_hr,['LAFB/LPFB']
+4072,records100/04000/04072_lr,records500/04000/04072_hr,"['ISCA', 'AMI']"
+4079,records100/04000/04079_lr,records500/04000/04079_hr,['NORM']
+4090,records100/04000/04090_lr,records500/04000/04090_hr,['NORM']
+4097,records100/04000/04097_lr,records500/04000/04097_hr,['NORM']
+4103,records100/04000/04103_lr,records500/04000/04103_hr,['NORM']
+4110,records100/04000/04110_lr,records500/04000/04110_hr,['NORM']
+4123,records100/04000/04123_lr,records500/04000/04123_hr,['NORM']
+4137,records100/04000/04137_lr,records500/04000/04137_hr,['AMI']
+4149,records100/04000/04149_lr,records500/04000/04149_hr,['NST_']
+4153,records100/04000/04153_lr,records500/04000/04153_hr,['IMI']
+4167,records100/04000/04167_lr,records500/04000/04167_hr,"['IVCD', 'NORM', 'LAO/LAE']"
+4175,records100/04000/04175_lr,records500/04000/04175_hr,['AMI']
+4177,records100/04000/04177_lr,records500/04000/04177_hr,['AMI']
+4203,records100/04000/04203_lr,records500/04000/04203_hr,['IMI']
+4220,records100/04000/04220_lr,records500/04000/04220_hr,['LAFB/LPFB']
+4224,records100/04000/04224_lr,records500/04000/04224_hr,['NORM']
+4225,records100/04000/04225_lr,records500/04000/04225_hr,['IMI']
+4226,records100/04000/04226_lr,records500/04000/04226_hr,['LAFB/LPFB']
+4229,records100/04000/04229_lr,records500/04000/04229_hr,['NORM']
+4230,records100/04000/04230_lr,records500/04000/04230_hr,['STTC']
+4235,records100/04000/04235_lr,records500/04000/04235_hr,['NORM']
+4238,records100/04000/04238_lr,records500/04000/04238_hr,['IRBBB']
+4239,records100/04000/04239_lr,records500/04000/04239_hr,['NORM']
+4245,records100/04000/04245_lr,records500/04000/04245_hr,"['NORM', 'IRBBB']"
+4254,records100/04000/04254_lr,records500/04000/04254_hr,['IRBBB']
+4257,records100/04000/04257_lr,records500/04000/04257_hr,['IMI']
+4261,records100/04000/04261_lr,records500/04000/04261_hr,['NORM']
+4266,records100/04000/04266_lr,records500/04000/04266_hr,['NORM']
+4269,records100/04000/04269_lr,records500/04000/04269_hr,['AMI']
+4278,records100/04000/04278_lr,records500/04000/04278_hr,['LVH']
+4295,records100/04000/04295_lr,records500/04000/04295_hr,['NORM']
+4329,records100/04000/04329_lr,records500/04000/04329_hr,['STTC']
+4335,records100/04000/04335_lr,records500/04000/04335_hr,"['ISC_', 'LVH']"
+4336,records100/04000/04336_lr,records500/04000/04336_hr,"['LVH', 'STTC', 'LAFB/LPFB']"
+4342,records100/04000/04342_lr,records500/04000/04342_hr,"['NST_', 'NORM']"
+4354,records100/04000/04354_lr,records500/04000/04354_hr,['NORM']
+4362,records100/04000/04362_lr,records500/04000/04362_hr,['IMI']
+4363,records100/04000/04363_lr,records500/04000/04363_hr,"['IRBBB', 'LAO/LAE']"
+4391,records100/04000/04391_lr,records500/04000/04391_hr,['IMI']
+4410,records100/04000/04410_lr,records500/04000/04410_hr,['ISC_']
+4414,records100/04000/04414_lr,records500/04000/04414_hr,['NORM']
+4417,records100/04000/04417_lr,records500/04000/04417_hr,['NORM']
+4432,records100/04000/04432_lr,records500/04000/04432_hr,['CLBBB']
+4444,records100/04000/04444_lr,records500/04000/04444_hr,['LAFB/LPFB']
+4448,records100/04000/04448_lr,records500/04000/04448_hr,"['IMI', 'AMI']"
+4458,records100/04000/04458_lr,records500/04000/04458_hr,['LVH']
+4476,records100/04000/04476_lr,records500/04000/04476_hr,['STTC']
+4501,records100/04000/04501_lr,records500/04000/04501_hr,['ISCI']
+4506,records100/04000/04506_lr,records500/04000/04506_hr,['NORM']
+4508,records100/04000/04508_lr,records500/04000/04508_hr,['STTC']
+4518,records100/04000/04518_lr,records500/04000/04518_hr,['IMI']
+4542,records100/04000/04542_lr,records500/04000/04542_hr,['NORM']
+4546,records100/04000/04546_lr,records500/04000/04546_hr,"['RAO/RAE', 'IRBBB']"
+4547,records100/04000/04547_lr,records500/04000/04547_hr,['LVH']
+4556,records100/04000/04556_lr,records500/04000/04556_hr,['NORM']
+4560,records100/04000/04560_lr,records500/04000/04560_hr,['CLBBB']
+4565,records100/04000/04565_lr,records500/04000/04565_hr,['NORM']
+4576,records100/04000/04576_lr,records500/04000/04576_hr,['AMI']
+4602,records100/04000/04602_lr,records500/04000/04602_hr,"['RVH', 'IRBBB', 'LAFB/LPFB']"
+4609,records100/04000/04609_lr,records500/04000/04609_hr,['NORM']
+4614,records100/04000/04614_lr,records500/04000/04614_hr,"['ISC_', 'LVH', 'AMI']"
+4615,records100/04000/04615_lr,records500/04000/04615_hr,['AMI']
+4618,records100/04000/04618_lr,records500/04000/04618_hr,"['LAFB/LPFB', 'STTC', 'IMI', 'AMI']"
+4619,records100/04000/04619_lr,records500/04000/04619_hr,['LAFB/LPFB']
+4646,records100/04000/04646_lr,records500/04000/04646_hr,"['STTC', 'AMI']"
+4656,records100/04000/04656_lr,records500/04000/04656_hr,"['ISCA', 'LVH', 'STTC', 'AMI']"
+4672,records100/04000/04672_lr,records500/04000/04672_hr,['NORM']
+4676,records100/04000/04676_lr,records500/04000/04676_hr,"['IVCD', 'ISC_']"
+4687,records100/04000/04687_lr,records500/04000/04687_hr,['STTC']
+4704,records100/04000/04704_lr,records500/04000/04704_hr,['NORM']
+4719,records100/04000/04719_lr,records500/04000/04719_hr,['NORM']
+4747,records100/04000/04747_lr,records500/04000/04747_hr,['NORM']
+4749,records100/04000/04749_lr,records500/04000/04749_hr,"['ISC_', 'LVH', 'STTC', 'AMI']"
+4755,records100/04000/04755_lr,records500/04000/04755_hr,"['ISCA', 'IMI']"
+4758,records100/04000/04758_lr,records500/04000/04758_hr,['CRBBB']
+4769,records100/04000/04769_lr,records500/04000/04769_hr,['ISCI']
+4771,records100/04000/04771_lr,records500/04000/04771_hr,['LAFB/LPFB']
+4785,records100/04000/04785_lr,records500/04000/04785_hr,['STTC']
+4786,records100/04000/04786_lr,records500/04000/04786_hr,['NORM']
+4797,records100/04000/04797_lr,records500/04000/04797_hr,['NST_']
+4805,records100/04000/04805_lr,records500/04000/04805_hr,['NORM']
+4809,records100/04000/04809_lr,records500/04000/04809_hr,['STTC']
+4820,records100/04000/04820_lr,records500/04000/04820_hr,['NORM']
+4822,records100/04000/04822_lr,records500/04000/04822_hr,['NORM']
+4825,records100/04000/04825_lr,records500/04000/04825_hr,['WPW']
+4836,records100/04000/04836_lr,records500/04000/04836_hr,['NORM']
+4866,records100/04000/04866_lr,records500/04000/04866_hr,['IMI']
+4873,records100/04000/04873_lr,records500/04000/04873_hr,['NORM']
+4880,records100/04000/04880_lr,records500/04000/04880_hr,['NORM']
+4893,records100/04000/04893_lr,records500/04000/04893_hr,['CLBBB']
+4900,records100/04000/04900_lr,records500/04000/04900_hr,['NORM']
+4922,records100/04000/04922_lr,records500/04000/04922_hr,[]
+4926,records100/04000/04926_lr,records500/04000/04926_hr,['STTC']
+4945,records100/04000/04945_lr,records500/04000/04945_hr,['NORM']
+4951,records100/04000/04951_lr,records500/04000/04951_hr,['NORM']
+4960,records100/04000/04960_lr,records500/04000/04960_hr,['NORM']
+4979,records100/04000/04979_lr,records500/04000/04979_hr,"['NST_', 'NORM']"
+4995,records100/04000/04995_lr,records500/04000/04995_hr,"['RAO/RAE', 'STTC', 'LAO/LAE', '_AVB']"
+5000,records100/05000/05000_lr,records500/05000/05000_hr,['NORM']
+5029,records100/05000/05029_lr,records500/05000/05029_hr,"['IMI', 'LAFB/LPFB']"
+5054,records100/05000/05054_lr,records500/05000/05054_hr,['STTC']
+5067,records100/05000/05067_lr,records500/05000/05067_hr,['NORM']
+5087,records100/05000/05087_lr,records500/05000/05087_hr,"['ISC_', 'LVH']"
+5099,records100/05000/05099_lr,records500/05000/05099_hr,['NORM']
+5117,records100/05000/05117_lr,records500/05000/05117_hr,"['NORM', 'IRBBB']"
+5122,records100/05000/05122_lr,records500/05000/05122_hr,['STTC']
+5126,records100/05000/05126_lr,records500/05000/05126_hr,['NORM']
+5147,records100/05000/05147_lr,records500/05000/05147_hr,['AMI']
+5151,records100/05000/05151_lr,records500/05000/05151_hr,['NORM']
+5154,records100/05000/05154_lr,records500/05000/05154_hr,"['IRBBB', 'AMI']"
+5159,records100/05000/05159_lr,records500/05000/05159_hr,['AMI']
+5163,records100/05000/05163_lr,records500/05000/05163_hr,"['IVCD', 'ISC_', 'IMI', 'LVH']"
+5170,records100/05000/05170_lr,records500/05000/05170_hr,['IRBBB']
+5172,records100/05000/05172_lr,records500/05000/05172_hr,['NORM']
+5182,records100/05000/05182_lr,records500/05000/05182_hr,['NORM']
+5185,records100/05000/05185_lr,records500/05000/05185_hr,['IMI']
+5212,records100/05000/05212_lr,records500/05000/05212_hr,['CRBBB']
+5217,records100/05000/05217_lr,records500/05000/05217_hr,['NORM']
+5219,records100/05000/05219_lr,records500/05000/05219_hr,"['CRBBB', 'IMI', 'AMI']"
+5251,records100/05000/05251_lr,records500/05000/05251_hr,['AMI']
+5252,records100/05000/05252_lr,records500/05000/05252_hr,[]
+5257,records100/05000/05257_lr,records500/05000/05257_hr,['AMI']
+5269,records100/05000/05269_lr,records500/05000/05269_hr,['NORM']
+5275,records100/05000/05275_lr,records500/05000/05275_hr,['NORM']
+5276,records100/05000/05276_lr,records500/05000/05276_hr,"['IMI', 'AMI']"
+5278,records100/05000/05278_lr,records500/05000/05278_hr,['NST_']
+5281,records100/05000/05281_lr,records500/05000/05281_hr,['NORM']
+5289,records100/05000/05289_lr,records500/05000/05289_hr,"['STTC', 'LAO/LAE']"
+5298,records100/05000/05298_lr,records500/05000/05298_hr,['NORM']
+5299,records100/05000/05299_lr,records500/05000/05299_hr,['STTC']
+5304,records100/05000/05304_lr,records500/05000/05304_hr,['NORM']
+5316,records100/05000/05316_lr,records500/05000/05316_hr,['NORM']
+5331,records100/05000/05331_lr,records500/05000/05331_hr,['NORM']
+5336,records100/05000/05336_lr,records500/05000/05336_hr,['NORM']
+5337,records100/05000/05337_lr,records500/05000/05337_hr,['IVCD']
+5338,records100/05000/05338_lr,records500/05000/05338_hr,"['RVH', 'IRBBB', 'LAFB/LPFB']"
+5343,records100/05000/05343_lr,records500/05000/05343_hr,"['_AVB', 'IMI', 'LAO/LAE', 'AMI']"
+5351,records100/05000/05351_lr,records500/05000/05351_hr,"['ISCA', 'IMI', 'AMI']"
+5360,records100/05000/05360_lr,records500/05000/05360_hr,['IMI']
+5370,records100/05000/05370_lr,records500/05000/05370_hr,['NORM']
+5373,records100/05000/05373_lr,records500/05000/05373_hr,['NORM']
+5383,records100/05000/05383_lr,records500/05000/05383_hr,['NORM']
+5384,records100/05000/05384_lr,records500/05000/05384_hr,"['ISCA', 'ISCI']"
+5386,records100/05000/05386_lr,records500/05000/05386_hr,['IMI']
+5395,records100/05000/05395_lr,records500/05000/05395_hr,['NORM']
+5413,records100/05000/05413_lr,records500/05000/05413_hr,"['IMI', 'AMI']"
+5428,records100/05000/05428_lr,records500/05000/05428_hr,['NORM']
+5452,records100/05000/05452_lr,records500/05000/05452_hr,['NORM']
+5465,records100/05000/05465_lr,records500/05000/05465_hr,['STTC']
+5479,records100/05000/05479_lr,records500/05000/05479_hr,"['IMI', 'LAFB/LPFB']"
+5501,records100/05000/05501_lr,records500/05000/05501_hr,"['ISCA', 'AMI']"
+5519,records100/05000/05519_lr,records500/05000/05519_hr,['NORM']
+5530,records100/05000/05530_lr,records500/05000/05530_hr,['NORM']
+5544,records100/05000/05544_lr,records500/05000/05544_hr,[]
+5566,records100/05000/05566_lr,records500/05000/05566_hr,['NORM']
+5567,records100/05000/05567_lr,records500/05000/05567_hr,['NORM']
+5572,records100/05000/05572_lr,records500/05000/05572_hr,['STTC']
+5600,records100/05000/05600_lr,records500/05000/05600_hr,['NORM']
+5605,records100/05000/05605_lr,records500/05000/05605_hr,['NORM']
+5606,records100/05000/05606_lr,records500/05000/05606_hr,"['CLBBB', 'STTC']"
+5628,records100/05000/05628_lr,records500/05000/05628_hr,['IMI']
+5635,records100/05000/05635_lr,records500/05000/05635_hr,['IMI']
+5725,records100/05000/05725_lr,records500/05000/05725_hr,['NORM']
+5737,records100/05000/05737_lr,records500/05000/05737_hr,['NORM']
+5738,records100/05000/05738_lr,records500/05000/05738_hr,"['IVCD', 'NORM']"
+5743,records100/05000/05743_lr,records500/05000/05743_hr,['NORM']
+5753,records100/05000/05753_lr,records500/05000/05753_hr,['NORM']
+5771,records100/05000/05771_lr,records500/05000/05771_hr,['NORM']
+5777,records100/05000/05777_lr,records500/05000/05777_hr,['IMI']
+5784,records100/05000/05784_lr,records500/05000/05784_hr,['NORM']
+5804,records100/05000/05804_lr,records500/05000/05804_hr,"['LAO/LAE', 'CRBBB']"
+5806,records100/05000/05806_lr,records500/05000/05806_hr,['AMI']
+5810,records100/05000/05810_lr,records500/05000/05810_hr,"['ISC_', 'IMI', 'LVH']"
+5816,records100/05000/05816_lr,records500/05000/05816_hr,['NORM']
+5824,records100/05000/05824_lr,records500/05000/05824_hr,['NORM']
+5826,records100/05000/05826_lr,records500/05000/05826_hr,"['LAFB/LPFB', 'AMI']"
+5830,records100/05000/05830_lr,records500/05000/05830_hr,"['SEHYP', 'LVH']"
+5831,records100/05000/05831_lr,records500/05000/05831_hr,['NORM']
+5835,records100/05000/05835_lr,records500/05000/05835_hr,['NORM']
+5837,records100/05000/05837_lr,records500/05000/05837_hr,['NORM']
+5841,records100/05000/05841_lr,records500/05000/05841_hr,['STTC']
+5855,records100/05000/05855_lr,records500/05000/05855_hr,['NORM']
+5856,records100/05000/05856_lr,records500/05000/05856_hr,"['LAFB/LPFB', 'AMI']"
+5868,records100/05000/05868_lr,records500/05000/05868_hr,"['ISCI', 'LVH']"
+5873,records100/05000/05873_lr,records500/05000/05873_hr,['STTC']
+5881,records100/05000/05881_lr,records500/05000/05881_hr,['STTC']
+5885,records100/05000/05885_lr,records500/05000/05885_hr,"['ISCA', 'AMI']"
+5911,records100/05000/05911_lr,records500/05000/05911_hr,['LVH']
+5914,records100/05000/05914_lr,records500/05000/05914_hr,['NORM']
+5915,records100/05000/05915_lr,records500/05000/05915_hr,['NORM']
+5916,records100/05000/05916_lr,records500/05000/05916_hr,['NORM']
+5918,records100/05000/05918_lr,records500/05000/05918_hr,['NORM']
+5924,records100/05000/05924_lr,records500/05000/05924_hr,['NORM']
+5946,records100/05000/05946_lr,records500/05000/05946_hr,['NORM']
+5947,records100/05000/05947_lr,records500/05000/05947_hr,['NORM']
+5951,records100/05000/05951_lr,records500/05000/05951_hr,"['LAFB/LPFB', 'RVH', 'CRBBB']"
+5953,records100/05000/05953_lr,records500/05000/05953_hr,['LAFB/LPFB']
+5973,records100/05000/05973_lr,records500/05000/05973_hr,['NORM']
+5975,records100/05000/05975_lr,records500/05000/05975_hr,['NORM']
+5977,records100/05000/05977_lr,records500/05000/05977_hr,['NORM']
+5992,records100/05000/05992_lr,records500/05000/05992_hr,['NORM']
+6000,records100/06000/06000_lr,records500/06000/06000_hr,['NORM']
+6004,records100/06000/06004_lr,records500/06000/06004_hr,['NORM']
+6042,records100/06000/06042_lr,records500/06000/06042_hr,"['IVCD', 'IMI']"
+6046,records100/06000/06046_lr,records500/06000/06046_hr,['NORM']
+6047,records100/06000/06047_lr,records500/06000/06047_hr,['NORM']
+6050,records100/06000/06050_lr,records500/06000/06050_hr,['NORM']
+6056,records100/06000/06056_lr,records500/06000/06056_hr,"['LAFB/LPFB', 'CRBBB', 'AMI']"
+6075,records100/06000/06075_lr,records500/06000/06075_hr,['NORM']
+6087,records100/06000/06087_lr,records500/06000/06087_hr,['NORM']
+6096,records100/06000/06096_lr,records500/06000/06096_hr,['LAFB/LPFB']
+6098,records100/06000/06098_lr,records500/06000/06098_hr,"['ISC_', 'LVH']"
+6103,records100/06000/06103_lr,records500/06000/06103_hr,['NORM']
+6126,records100/06000/06126_lr,records500/06000/06126_hr,"['NST_', 'IVCD', 'AMI']"
+6131,records100/06000/06131_lr,records500/06000/06131_hr,['NORM']
+6132,records100/06000/06132_lr,records500/06000/06132_hr,['ISCA']
+6141,records100/06000/06141_lr,records500/06000/06141_hr,"['STTC', 'LVH']"
+6151,records100/06000/06151_lr,records500/06000/06151_hr,['NORM']
+6154,records100/06000/06154_lr,records500/06000/06154_hr,['CLBBB']
+6174,records100/06000/06174_lr,records500/06000/06174_hr,['CLBBB']
+6180,records100/06000/06180_lr,records500/06000/06180_hr,['LVH']
+6186,records100/06000/06186_lr,records500/06000/06186_hr,"['NST_', 'STTC', 'IMI']"
+6188,records100/06000/06188_lr,records500/06000/06188_hr,['NORM']
+6189,records100/06000/06189_lr,records500/06000/06189_hr,['NORM']
+6190,records100/06000/06190_lr,records500/06000/06190_hr,['NST_']
+6192,records100/06000/06192_lr,records500/06000/06192_hr,['STTC']
+6200,records100/06000/06200_lr,records500/06000/06200_hr,['NORM']
+6201,records100/06000/06201_lr,records500/06000/06201_hr,"['ISCA', 'ISCI']"
+6207,records100/06000/06207_lr,records500/06000/06207_hr,['NORM']
+6208,records100/06000/06208_lr,records500/06000/06208_hr,['NORM']
+6210,records100/06000/06210_lr,records500/06000/06210_hr,"['ISCA', 'AMI']"
+6211,records100/06000/06211_lr,records500/06000/06211_hr,['IMI']
+6222,records100/06000/06222_lr,records500/06000/06222_hr,['NORM']
+6224,records100/06000/06224_lr,records500/06000/06224_hr,['AMI']
+6227,records100/06000/06227_lr,records500/06000/06227_hr,['NORM']
+6229,records100/06000/06229_lr,records500/06000/06229_hr,"['ISC_', 'LVH', 'AMI']"
+6230,records100/06000/06230_lr,records500/06000/06230_hr,['IMI']
+6231,records100/06000/06231_lr,records500/06000/06231_hr,['IMI']
+6235,records100/06000/06235_lr,records500/06000/06235_hr,['NORM']
+6239,records100/06000/06239_lr,records500/06000/06239_hr,['NORM']
+6251,records100/06000/06251_lr,records500/06000/06251_hr,"['IMI', 'LAFB/LPFB']"
+6262,records100/06000/06262_lr,records500/06000/06262_hr,['NORM']
+6265,records100/06000/06265_lr,records500/06000/06265_hr,['NORM']
+6270,records100/06000/06270_lr,records500/06000/06270_hr,['STTC']
+6283,records100/06000/06283_lr,records500/06000/06283_hr,['IMI']
+6284,records100/06000/06284_lr,records500/06000/06284_hr,['IRBBB']
+6295,records100/06000/06295_lr,records500/06000/06295_hr,['NORM']
+6304,records100/06000/06304_lr,records500/06000/06304_hr,['STTC']
+6305,records100/06000/06305_lr,records500/06000/06305_hr,['IMI']
+6312,records100/06000/06312_lr,records500/06000/06312_hr,['NORM']
+6313,records100/06000/06313_lr,records500/06000/06313_hr,"['STTC', 'IMI', '_AVB']"
+6314,records100/06000/06314_lr,records500/06000/06314_hr,['STTC']
+6337,records100/06000/06337_lr,records500/06000/06337_hr,"['LVH', 'STTC', 'AMI']"
+6341,records100/06000/06341_lr,records500/06000/06341_hr,['NORM']
+6350,records100/06000/06350_lr,records500/06000/06350_hr,"['STTC', 'AMI']"
+6352,records100/06000/06352_lr,records500/06000/06352_hr,"['STTC', 'LAFB/LPFB']"
+6353,records100/06000/06353_lr,records500/06000/06353_hr,"['ISC_', 'IMI', 'LVH']"
+6355,records100/06000/06355_lr,records500/06000/06355_hr,"['IMI', 'LAFB/LPFB']"
+6358,records100/06000/06358_lr,records500/06000/06358_hr,"['IVCD', 'NORM']"
+6375,records100/06000/06375_lr,records500/06000/06375_hr,['IRBBB']
+6380,records100/06000/06380_lr,records500/06000/06380_hr,['RAO/RAE']
+6381,records100/06000/06381_lr,records500/06000/06381_hr,['NORM']
+6404,records100/06000/06404_lr,records500/06000/06404_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+6427,records100/06000/06427_lr,records500/06000/06427_hr,['LVH']
+6428,records100/06000/06428_lr,records500/06000/06428_hr,['RAO/RAE']
+6437,records100/06000/06437_lr,records500/06000/06437_hr,['NORM']
+6465,records100/06000/06465_lr,records500/06000/06465_hr,['NORM']
+6471,records100/06000/06471_lr,records500/06000/06471_hr,"['_AVB', 'LVH']"
+6498,records100/06000/06498_lr,records500/06000/06498_hr,['NORM']
+6528,records100/06000/06528_lr,records500/06000/06528_hr,['NORM']
+6542,records100/06000/06542_lr,records500/06000/06542_hr,['IRBBB']
+6552,records100/06000/06552_lr,records500/06000/06552_hr,['AMI']
+6556,records100/06000/06556_lr,records500/06000/06556_hr,['AMI']
+6562,records100/06000/06562_lr,records500/06000/06562_hr,['IRBBB']
+6577,records100/06000/06577_lr,records500/06000/06577_hr,['NORM']
+6579,records100/06000/06579_lr,records500/06000/06579_hr,['IRBBB']
+6590,records100/06000/06590_lr,records500/06000/06590_hr,['STTC']
+6592,records100/06000/06592_lr,records500/06000/06592_hr,"['_AVB', 'STTC', 'LAFB/LPFB']"
+6625,records100/06000/06625_lr,records500/06000/06625_hr,"['IMI', 'LVH']"
+6666,records100/06000/06666_lr,records500/06000/06666_hr,"['ISC_', 'LVH', 'AMI']"
+6670,records100/06000/06670_lr,records500/06000/06670_hr,['NORM']
+6672,records100/06000/06672_lr,records500/06000/06672_hr,['NORM']
+6683,records100/06000/06683_lr,records500/06000/06683_hr,['IMI']
+6728,records100/06000/06728_lr,records500/06000/06728_hr,['NORM']
+6735,records100/06000/06735_lr,records500/06000/06735_hr,['STTC']
+6751,records100/06000/06751_lr,records500/06000/06751_hr,"['IMI', 'AMI']"
+6776,records100/06000/06776_lr,records500/06000/06776_hr,['NORM']
+6788,records100/06000/06788_lr,records500/06000/06788_hr,"['ISC_', 'IMI', 'LVH']"
+6794,records100/06000/06794_lr,records500/06000/06794_hr,"['RAO/RAE', 'IMI', 'AMI']"
+6796,records100/06000/06796_lr,records500/06000/06796_hr,['STTC']
+6817,records100/06000/06817_lr,records500/06000/06817_hr,"['IMI', 'AMI']"
+6852,records100/06000/06852_lr,records500/06000/06852_hr,"['AMI', 'ISCI', 'LAFB/LPFB']"
+6902,records100/06000/06902_lr,records500/06000/06902_hr,['NORM']
+6903,records100/06000/06903_lr,records500/06000/06903_hr,['IMI']
+6911,records100/06000/06911_lr,records500/06000/06911_hr,['NORM']
+6912,records100/06000/06912_lr,records500/06000/06912_hr,['STTC']
+6924,records100/06000/06924_lr,records500/06000/06924_hr,['NORM']
+6925,records100/06000/06925_lr,records500/06000/06925_hr,"['IMI', 'LVH']"
+6929,records100/06000/06929_lr,records500/06000/06929_hr,['IMI']
+6951,records100/06000/06951_lr,records500/06000/06951_hr,['NORM']
+6962,records100/06000/06962_lr,records500/06000/06962_hr,['IMI']
+6992,records100/06000/06992_lr,records500/06000/06992_hr,"['ISC_', 'LVH', 'AMI']"
+7003,records100/07000/07003_lr,records500/07000/07003_hr,"['_AVB', 'ISCA', 'AMI']"
+7007,records100/07000/07007_lr,records500/07000/07007_hr,['NORM']
+7016,records100/07000/07016_lr,records500/07000/07016_hr,['IMI']
+7022,records100/07000/07022_lr,records500/07000/07022_hr,"['STTC', 'LAFB/LPFB']"
+7024,records100/07000/07024_lr,records500/07000/07024_hr,"['ISCA', 'ISCI']"
+7025,records100/07000/07025_lr,records500/07000/07025_hr,['ISCA']
+7034,records100/07000/07034_lr,records500/07000/07034_hr,['NORM']
+7053,records100/07000/07053_lr,records500/07000/07053_hr,['NORM']
+7054,records100/07000/07054_lr,records500/07000/07054_hr,['NST_']
+7055,records100/07000/07055_lr,records500/07000/07055_hr,"['ISCI', '_AVB']"
+7069,records100/07000/07069_lr,records500/07000/07069_hr,['NORM']
+7075,records100/07000/07075_lr,records500/07000/07075_hr,['IRBBB']
+7079,records100/07000/07079_lr,records500/07000/07079_hr,['_AVB']
+7080,records100/07000/07080_lr,records500/07000/07080_hr,['NORM']
+7130,records100/07000/07130_lr,records500/07000/07130_hr,['IMI']
+7161,records100/07000/07161_lr,records500/07000/07161_hr,['NORM']
+7170,records100/07000/07170_lr,records500/07000/07170_hr,['NORM']
+7190,records100/07000/07190_lr,records500/07000/07190_hr,['NORM']
+7213,records100/07000/07213_lr,records500/07000/07213_hr,['NORM']
+7217,records100/07000/07217_lr,records500/07000/07217_hr,['NORM']
+7221,records100/07000/07221_lr,records500/07000/07221_hr,[]
+7243,records100/07000/07243_lr,records500/07000/07243_hr,"['ISCI', 'LVH']"
+7258,records100/07000/07258_lr,records500/07000/07258_hr,['NORM']
+7323,records100/07000/07323_lr,records500/07000/07323_hr,['NORM']
+7328,records100/07000/07328_lr,records500/07000/07328_hr,['NORM']
+7348,records100/07000/07348_lr,records500/07000/07348_hr,['NORM']
+7354,records100/07000/07354_lr,records500/07000/07354_hr,['LVH']
+7363,records100/07000/07363_lr,records500/07000/07363_hr,['NORM']
+7374,records100/07000/07374_lr,records500/07000/07374_hr,['ISCA']
+7376,records100/07000/07376_lr,records500/07000/07376_hr,['NORM']
+7414,records100/07000/07414_lr,records500/07000/07414_hr,"['NORM', 'IRBBB']"
+7438,records100/07000/07438_lr,records500/07000/07438_hr,['ISCA']
+7443,records100/07000/07443_lr,records500/07000/07443_hr,['NORM']
+7445,records100/07000/07445_lr,records500/07000/07445_hr,[]
+7471,records100/07000/07471_lr,records500/07000/07471_hr,"['STTC', 'AMI']"
+7491,records100/07000/07491_lr,records500/07000/07491_hr,['NORM']
+7529,records100/07000/07529_lr,records500/07000/07529_hr,"['ISC_', 'IMI', 'LVH']"
+7530,records100/07000/07530_lr,records500/07000/07530_hr,['NORM']
+7534,records100/07000/07534_lr,records500/07000/07534_hr,['ISCA']
+7543,records100/07000/07543_lr,records500/07000/07543_hr,['NORM']
+7560,records100/07000/07560_lr,records500/07000/07560_hr,['NORM']
+7561,records100/07000/07561_lr,records500/07000/07561_hr,['NORM']
+7597,records100/07000/07597_lr,records500/07000/07597_hr,['NORM']
+7598,records100/07000/07598_lr,records500/07000/07598_hr,"['IRBBB', 'STTC', 'LAO/LAE', '_AVB']"
+7619,records100/07000/07619_lr,records500/07000/07619_hr,"['_AVB', 'ISC_', 'IRBBB', 'LVH']"
+7621,records100/07000/07621_lr,records500/07000/07621_hr,['NORM']
+7644,records100/07000/07644_lr,records500/07000/07644_hr,['NORM']
+7661,records100/07000/07661_lr,records500/07000/07661_hr,"['IRBBB', 'LAO/LAE', 'AMI']"
+7668,records100/07000/07668_lr,records500/07000/07668_hr,"['LAFB/LPFB', 'AMI']"
+7670,records100/07000/07670_lr,records500/07000/07670_hr,['LVH']
+7684,records100/07000/07684_lr,records500/07000/07684_hr,['LVH']
+7692,records100/07000/07692_lr,records500/07000/07692_hr,"['ISCA', 'IMI']"
+7700,records100/07000/07700_lr,records500/07000/07700_hr,"['ISC_', 'IRBBB', 'IMI', 'LVH']"
+7744,records100/07000/07744_lr,records500/07000/07744_hr,['IMI']
+7747,records100/07000/07747_lr,records500/07000/07747_hr,['IMI']
+7751,records100/07000/07751_lr,records500/07000/07751_hr,['AMI']
+7756,records100/07000/07756_lr,records500/07000/07756_hr,['STTC']
+7769,records100/07000/07769_lr,records500/07000/07769_hr,"['LAFB/LPFB', '_AVB', 'RVH', 'CRBBB']"
+7770,records100/07000/07770_lr,records500/07000/07770_hr,['NORM']
+7783,records100/07000/07783_lr,records500/07000/07783_hr,[]
+7793,records100/07000/07793_lr,records500/07000/07793_hr,['NORM']
+7797,records100/07000/07797_lr,records500/07000/07797_hr,['NORM']
+7811,records100/07000/07811_lr,records500/07000/07811_hr,"['LAFB/LPFB', '_AVB', 'CRBBB']"
+7812,records100/07000/07812_lr,records500/07000/07812_hr,['LVH']
+7813,records100/07000/07813_lr,records500/07000/07813_hr,"['IRBBB', 'IMI']"
+7819,records100/07000/07819_lr,records500/07000/07819_hr,['NORM']
+7822,records100/07000/07822_lr,records500/07000/07822_hr,"['ISC_', 'LVH', 'IMI', 'AMI']"
+7837,records100/07000/07837_lr,records500/07000/07837_hr,['IRBBB']
+7842,records100/07000/07842_lr,records500/07000/07842_hr,['NORM']
+7848,records100/07000/07848_lr,records500/07000/07848_hr,['NORM']
+7861,records100/07000/07861_lr,records500/07000/07861_hr,"['ISC_', 'IMI', 'LVH']"
+7865,records100/07000/07865_lr,records500/07000/07865_hr,['LAFB/LPFB']
+7873,records100/07000/07873_lr,records500/07000/07873_hr,"['LAFB/LPFB', 'ISC_', 'LVH']"
+7876,records100/07000/07876_lr,records500/07000/07876_hr,"['LMI', 'ISC_', 'LAO/LAE', 'LVH']"
+7877,records100/07000/07877_lr,records500/07000/07877_hr,"['IVCD', 'IMI']"
+7880,records100/07000/07880_lr,records500/07000/07880_hr,['NORM']
+7881,records100/07000/07881_lr,records500/07000/07881_hr,"['STTC', 'IMI']"
+7882,records100/07000/07882_lr,records500/07000/07882_hr,"['LAFB/LPFB', 'RVH', 'CRBBB']"
+7889,records100/07000/07889_lr,records500/07000/07889_hr,[]
+7892,records100/07000/07892_lr,records500/07000/07892_hr,['NORM']
+7895,records100/07000/07895_lr,records500/07000/07895_hr,['IMI']
+7905,records100/07000/07905_lr,records500/07000/07905_hr,['NORM']
+7916,records100/07000/07916_lr,records500/07000/07916_hr,['LVH']
+7919,records100/07000/07919_lr,records500/07000/07919_hr,"['ISC_', 'CLBBB', 'LVH']"
+7946,records100/07000/07946_lr,records500/07000/07946_hr,"['ISCA', 'LAFB/LPFB']"
+7950,records100/07000/07950_lr,records500/07000/07950_hr,['NORM']
+7951,records100/07000/07951_lr,records500/07000/07951_hr,['STTC']
+7961,records100/07000/07961_lr,records500/07000/07961_hr,"['LAFB/LPFB', 'ISC_', 'LVH']"
+7967,records100/07000/07967_lr,records500/07000/07967_hr,['CLBBB']
+7990,records100/07000/07990_lr,records500/07000/07990_hr,['STTC']
+7998,records100/07000/07998_lr,records500/07000/07998_hr,['IMI']
+8000,records100/08000/08000_lr,records500/08000/08000_hr,['STTC']
+8032,records100/08000/08032_lr,records500/08000/08032_hr,"['STTC', 'IMI']"
+8036,records100/08000/08036_lr,records500/08000/08036_hr,['STTC']
+8041,records100/08000/08041_lr,records500/08000/08041_hr,"['CRBBB', 'AMI']"
+8062,records100/08000/08062_lr,records500/08000/08062_hr,"['ISC_', 'IRBBB', 'LVH']"
+8065,records100/08000/08065_lr,records500/08000/08065_hr,['LAFB/LPFB']
+8076,records100/08000/08076_lr,records500/08000/08076_hr,['NORM']
+8083,records100/08000/08083_lr,records500/08000/08083_hr,['LVH']
+8114,records100/08000/08114_lr,records500/08000/08114_hr,['STTC']
+8116,records100/08000/08116_lr,records500/08000/08116_hr,['NORM']
+8121,records100/08000/08121_lr,records500/08000/08121_hr,['LVH']
+8123,records100/08000/08123_lr,records500/08000/08123_hr,"['AMI', 'LAFB/LPFB']"
+8126,records100/08000/08126_lr,records500/08000/08126_hr,['NORM']
+8130,records100/08000/08130_lr,records500/08000/08130_hr,"['IMI', 'CRBBB']"
+8133,records100/08000/08133_lr,records500/08000/08133_hr,['NORM']
+8136,records100/08000/08136_lr,records500/08000/08136_hr,['STTC']
+8138,records100/08000/08138_lr,records500/08000/08138_hr,['NORM']
+8139,records100/08000/08139_lr,records500/08000/08139_hr,"['ISCA', 'LAFB/LPFB']"
+8140,records100/08000/08140_lr,records500/08000/08140_hr,['NORM']
+8147,records100/08000/08147_lr,records500/08000/08147_hr,['NORM']
+8153,records100/08000/08153_lr,records500/08000/08153_hr,['LMI']
+8164,records100/08000/08164_lr,records500/08000/08164_hr,['NORM']
+8170,records100/08000/08170_lr,records500/08000/08170_hr,['NORM']
+8178,records100/08000/08178_lr,records500/08000/08178_hr,"['IRBBB', 'IMI', 'AMI']"
+8185,records100/08000/08185_lr,records500/08000/08185_hr,['IRBBB']
+8195,records100/08000/08195_lr,records500/08000/08195_hr,['IMI']
+8203,records100/08000/08203_lr,records500/08000/08203_hr,['NORM']
+8208,records100/08000/08208_lr,records500/08000/08208_hr,['NORM']
+8209,records100/08000/08209_lr,records500/08000/08209_hr,"['ISC_', 'LVH']"
+8212,records100/08000/08212_lr,records500/08000/08212_hr,['STTC']
+8215,records100/08000/08215_lr,records500/08000/08215_hr,[]
+8218,records100/08000/08218_lr,records500/08000/08218_hr,"['LAFB/LPFB', 'AMI']"
+8219,records100/08000/08219_lr,records500/08000/08219_hr,['NORM']
+8224,records100/08000/08224_lr,records500/08000/08224_hr,['NORM']
+8241,records100/08000/08241_lr,records500/08000/08241_hr,"['IMI', 'AMI', 'NST_', 'ISC_', 'LVH']"
+8242,records100/08000/08242_lr,records500/08000/08242_hr,['ISCA']
+8244,records100/08000/08244_lr,records500/08000/08244_hr,"['LAFB/LPFB', 'LVH']"
+8246,records100/08000/08246_lr,records500/08000/08246_hr,['NORM']
+8254,records100/08000/08254_lr,records500/08000/08254_hr,['NORM']
+8256,records100/08000/08256_lr,records500/08000/08256_hr,['AMI']
+8259,records100/08000/08259_lr,records500/08000/08259_hr,"['NST_', 'ISC_', 'LAO/LAE', 'LVH']"
+8261,records100/08000/08261_lr,records500/08000/08261_hr,"['IVCD', 'NORM']"
+8263,records100/08000/08263_lr,records500/08000/08263_hr,[]
+8277,records100/08000/08277_lr,records500/08000/08277_hr,['NORM']
+8278,records100/08000/08278_lr,records500/08000/08278_hr,"['LAFB/LPFB', '_AVB', 'IMI', 'CRBBB']"
+8281,records100/08000/08281_lr,records500/08000/08281_hr,"['IRBBB', 'AMI']"
+8284,records100/08000/08284_lr,records500/08000/08284_hr,['LVH']
+8344,records100/08000/08344_lr,records500/08000/08344_hr,['IMI']
+8406,records100/08000/08406_lr,records500/08000/08406_hr,"['LAFB/LPFB', 'ISC_', 'LVH', 'AMI']"
+8410,records100/08000/08410_lr,records500/08000/08410_hr,['NORM']
+8415,records100/08000/08415_lr,records500/08000/08415_hr,['IMI']
+8442,records100/08000/08442_lr,records500/08000/08442_hr,"['ISCA', 'IMI']"
+8446,records100/08000/08446_lr,records500/08000/08446_hr,"['LAFB/LPFB', 'AMI']"
+8450,records100/08000/08450_lr,records500/08000/08450_hr,['ISCA']
+8460,records100/08000/08460_lr,records500/08000/08460_hr,['NST_']
+8461,records100/08000/08461_lr,records500/08000/08461_hr,[]
+8473,records100/08000/08473_lr,records500/08000/08473_hr,"['IMI', 'LAFB/LPFB']"
+8475,records100/08000/08475_lr,records500/08000/08475_hr,"['NST_', 'ISC_', 'LVH']"
+8482,records100/08000/08482_lr,records500/08000/08482_hr,['IVCD']
+8492,records100/08000/08492_lr,records500/08000/08492_hr,['NORM']
+8496,records100/08000/08496_lr,records500/08000/08496_hr,['NORM']
+8501,records100/08000/08501_lr,records500/08000/08501_hr,"['ISC_', 'LVH']"
+8504,records100/08000/08504_lr,records500/08000/08504_hr,['CRBBB']
+8507,records100/08000/08507_lr,records500/08000/08507_hr,['NORM']
+8509,records100/08000/08509_lr,records500/08000/08509_hr,['IMI']
+8524,records100/08000/08524_lr,records500/08000/08524_hr,['LVH']
+8533,records100/08000/08533_lr,records500/08000/08533_hr,['NST_']
+8535,records100/08000/08535_lr,records500/08000/08535_hr,['NORM']
+8538,records100/08000/08538_lr,records500/08000/08538_hr,['NORM']
+8541,records100/08000/08541_lr,records500/08000/08541_hr,['NORM']
+8555,records100/08000/08555_lr,records500/08000/08555_hr,['NORM']
+8591,records100/08000/08591_lr,records500/08000/08591_hr,['STTC']
+8609,records100/08000/08609_lr,records500/08000/08609_hr,"['IMI', 'AMI']"
+8622,records100/08000/08622_lr,records500/08000/08622_hr,['IRBBB']
+8625,records100/08000/08625_lr,records500/08000/08625_hr,['NST_']
+8632,records100/08000/08632_lr,records500/08000/08632_hr,['LAFB/LPFB']
+8645,records100/08000/08645_lr,records500/08000/08645_hr,['NORM']
+8663,records100/08000/08663_lr,records500/08000/08663_hr,['NORM']
+8680,records100/08000/08680_lr,records500/08000/08680_hr,"['CRBBB', 'AMI']"
+8688,records100/08000/08688_lr,records500/08000/08688_hr,['NORM']
+8704,records100/08000/08704_lr,records500/08000/08704_hr,"['NST_', 'LVH']"
+8712,records100/08000/08712_lr,records500/08000/08712_hr,['CRBBB']
+8727,records100/08000/08727_lr,records500/08000/08727_hr,['NORM']
+8733,records100/08000/08733_lr,records500/08000/08733_hr,"['NST_', 'STTC', 'IMI']"
+8736,records100/08000/08736_lr,records500/08000/08736_hr,['NST_']
+8744,records100/08000/08744_lr,records500/08000/08744_hr,"['_AVB', 'ISC_', 'LVH']"
+8765,records100/08000/08765_lr,records500/08000/08765_hr,['NORM']
+8772,records100/08000/08772_lr,records500/08000/08772_hr,"['LVH', 'AMI']"
+8774,records100/08000/08774_lr,records500/08000/08774_hr,['NORM']
+8777,records100/08000/08777_lr,records500/08000/08777_hr,['LVH']
+8778,records100/08000/08778_lr,records500/08000/08778_hr,['NORM']
+8795,records100/08000/08795_lr,records500/08000/08795_hr,['STTC']
+8808,records100/08000/08808_lr,records500/08000/08808_hr,['NST_']
+8813,records100/08000/08813_lr,records500/08000/08813_hr,"['STTC', 'LAFB/LPFB']"
+8815,records100/08000/08815_lr,records500/08000/08815_hr,"['IVCD', 'NORM']"
+8833,records100/08000/08833_lr,records500/08000/08833_hr,['NORM']
+8834,records100/08000/08834_lr,records500/08000/08834_hr,['STTC']
+8844,records100/08000/08844_lr,records500/08000/08844_hr,['NORM']
+8853,records100/08000/08853_lr,records500/08000/08853_hr,['NORM']
+8860,records100/08000/08860_lr,records500/08000/08860_hr,"['AMI', 'ILBBB', 'LMI', 'ISC_', 'LVH']"
+8864,records100/08000/08864_lr,records500/08000/08864_hr,"['RAO/RAE', 'ISCA', 'STTC']"
+8872,records100/08000/08872_lr,records500/08000/08872_hr,[]
+8873,records100/08000/08873_lr,records500/08000/08873_hr,"['LVH', 'AMI']"
+8880,records100/08000/08880_lr,records500/08000/08880_hr,"['IVCD', 'LVH']"
+8902,records100/08000/08902_lr,records500/08000/08902_hr,['NORM']
+8916,records100/08000/08916_lr,records500/08000/08916_hr,['NORM']
+8922,records100/08000/08922_lr,records500/08000/08922_hr,['NORM']
+8963,records100/08000/08963_lr,records500/08000/08963_hr,['NORM']
+8981,records100/08000/08981_lr,records500/08000/08981_hr,['IMI']
+9002,records100/09000/09002_lr,records500/09000/09002_hr,['NORM']
+9010,records100/09000/09010_lr,records500/09000/09010_hr,['NORM']
+9021,records100/09000/09021_lr,records500/09000/09021_hr,"['ISCA', 'IMI', 'AMI']"
+9024,records100/09000/09024_lr,records500/09000/09024_hr,['LVH']
+9036,records100/09000/09036_lr,records500/09000/09036_hr,['NORM']
+9056,records100/09000/09056_lr,records500/09000/09056_hr,['NORM']
+9063,records100/09000/09063_lr,records500/09000/09063_hr,"['LAO/LAE', 'LAFB/LPFB']"
+9094,records100/09000/09094_lr,records500/09000/09094_hr,"['LAFB/LPFB', 'IRBBB', 'AMI']"
+9095,records100/09000/09095_lr,records500/09000/09095_hr,"['ISC_', 'STTC', 'LVH']"
+9108,records100/09000/09108_lr,records500/09000/09108_hr,['_AVB']
+9110,records100/09000/09110_lr,records500/09000/09110_hr,"['CLBBB', 'LVH']"
+9115,records100/09000/09115_lr,records500/09000/09115_hr,['STTC']
+9133,records100/09000/09133_lr,records500/09000/09133_hr,['NORM']
+9144,records100/09000/09144_lr,records500/09000/09144_hr,"['IVCD', 'LMI', '_AVB', 'AMI']"
+9164,records100/09000/09164_lr,records500/09000/09164_hr,['NORM']
+9167,records100/09000/09167_lr,records500/09000/09167_hr,['STTC']
+9174,records100/09000/09174_lr,records500/09000/09174_hr,['NORM']
+9176,records100/09000/09176_lr,records500/09000/09176_hr,['STTC']
+9178,records100/09000/09178_lr,records500/09000/09178_hr,['NORM']
+9180,records100/09000/09180_lr,records500/09000/09180_hr,"['ISC_', 'LVH', 'AMI']"
+9183,records100/09000/09183_lr,records500/09000/09183_hr,['IRBBB']
+9187,records100/09000/09187_lr,records500/09000/09187_hr,['NORM']
+9196,records100/09000/09196_lr,records500/09000/09196_hr,['NORM']
+9211,records100/09000/09211_lr,records500/09000/09211_hr,['STTC']
+9217,records100/09000/09217_lr,records500/09000/09217_hr,['IVCD']
+9229,records100/09000/09229_lr,records500/09000/09229_hr,['NORM']
+9246,records100/09000/09246_lr,records500/09000/09246_hr,['STTC']
+9248,records100/09000/09248_lr,records500/09000/09248_hr,"['LAO/LAE', 'AMI']"
+9260,records100/09000/09260_lr,records500/09000/09260_hr,['STTC']
+9265,records100/09000/09265_lr,records500/09000/09265_hr,"['IMI', '_AVB']"
+9272,records100/09000/09272_lr,records500/09000/09272_hr,['NORM']
+9282,records100/09000/09282_lr,records500/09000/09282_hr,['NORM']
+9286,records100/09000/09286_lr,records500/09000/09286_hr,['NORM']
+9299,records100/09000/09299_lr,records500/09000/09299_hr,['LVH']
+9301,records100/09000/09301_lr,records500/09000/09301_hr,['STTC']
+9303,records100/09000/09303_lr,records500/09000/09303_hr,['NORM']
+9306,records100/09000/09306_lr,records500/09000/09306_hr,"['_AVB', 'IRBBB', 'LAO/LAE', 'AMI']"
+9338,records100/09000/09338_lr,records500/09000/09338_hr,['NORM']
+9346,records100/09000/09346_lr,records500/09000/09346_hr,"['LAFB/LPFB', 'AMI']"
+9353,records100/09000/09353_lr,records500/09000/09353_hr,['NORM']
+9366,records100/09000/09366_lr,records500/09000/09366_hr,"['STTC', 'IMI']"
+9396,records100/09000/09396_lr,records500/09000/09396_hr,['NORM']
+9410,records100/09000/09410_lr,records500/09000/09410_hr,['NORM']
+9416,records100/09000/09416_lr,records500/09000/09416_hr,"['IMI', '_AVB']"
+9422,records100/09000/09422_lr,records500/09000/09422_hr,['IMI']
+9449,records100/09000/09449_lr,records500/09000/09449_hr,['NORM']
+9453,records100/09000/09453_lr,records500/09000/09453_hr,['IMI']
+9458,records100/09000/09458_lr,records500/09000/09458_hr,['IRBBB']
+9461,records100/09000/09461_lr,records500/09000/09461_hr,['NORM']
+9475,records100/09000/09475_lr,records500/09000/09475_hr,['NORM']
+9543,records100/09000/09543_lr,records500/09000/09543_hr,"['_AVB', 'ISCA', 'AMI']"
+9557,records100/09000/09557_lr,records500/09000/09557_hr,[]
+9562,records100/09000/09562_lr,records500/09000/09562_hr,['CLBBB']
+9570,records100/09000/09570_lr,records500/09000/09570_hr,"['IRBBB', 'IMI', 'AMI']"
+9582,records100/09000/09582_lr,records500/09000/09582_hr,['NORM']
+9583,records100/09000/09583_lr,records500/09000/09583_hr,"['IRBBB', 'IMI', 'AMI']"
+9589,records100/09000/09589_lr,records500/09000/09589_hr,['NORM']
+9613,records100/09000/09613_lr,records500/09000/09613_hr,"['AMI', 'ISC_', 'LVH']"
+9616,records100/09000/09616_lr,records500/09000/09616_hr,['NORM']
+9689,records100/09000/09689_lr,records500/09000/09689_hr,['NORM']
+9702,records100/09000/09702_lr,records500/09000/09702_hr,['NORM']
+9730,records100/09000/09730_lr,records500/09000/09730_hr,['STTC']
+9732,records100/09000/09732_lr,records500/09000/09732_hr,"['STTC', 'IMI']"
+9740,records100/09000/09740_lr,records500/09000/09740_hr,['NORM']
+9744,records100/09000/09744_lr,records500/09000/09744_hr,['NORM']
+9749,records100/09000/09749_lr,records500/09000/09749_hr,['STTC']
+9752,records100/09000/09752_lr,records500/09000/09752_hr,['NORM']
+9753,records100/09000/09753_lr,records500/09000/09753_hr,['NORM']
+9756,records100/09000/09756_lr,records500/09000/09756_hr,"['ISC_', 'LVH', 'AMI']"
+9765,records100/09000/09765_lr,records500/09000/09765_hr,"['IVCD', 'IMI']"
+9773,records100/09000/09773_lr,records500/09000/09773_hr,['NORM']
+9791,records100/09000/09791_lr,records500/09000/09791_hr,['ISCA']
+9794,records100/09000/09794_lr,records500/09000/09794_hr,['IMI']
+9803,records100/09000/09803_lr,records500/09000/09803_hr,['NORM']
+9819,records100/09000/09819_lr,records500/09000/09819_hr,['IMI']
+9823,records100/09000/09823_lr,records500/09000/09823_hr,['WPW']
+9833,records100/09000/09833_lr,records500/09000/09833_hr,['ISCI']
+9850,records100/09000/09850_lr,records500/09000/09850_hr,['NORM']
+9860,records100/09000/09860_lr,records500/09000/09860_hr,"['IMI', 'AMI']"
+9863,records100/09000/09863_lr,records500/09000/09863_hr,['NST_']
+9865,records100/09000/09865_lr,records500/09000/09865_hr,['NORM']
+9867,records100/09000/09867_lr,records500/09000/09867_hr,"['ISC_', 'STTC']"
+9869,records100/09000/09869_lr,records500/09000/09869_hr,"['ISC_', 'LVH', '_AVB']"
+9873,records100/09000/09873_lr,records500/09000/09873_hr,['IMI']
+9875,records100/09000/09875_lr,records500/09000/09875_hr,"['IMI', 'LAFB/LPFB']"
+9891,records100/09000/09891_lr,records500/09000/09891_hr,"['IMI', 'AMI']"
+9892,records100/09000/09892_lr,records500/09000/09892_hr,['NORM']
+9897,records100/09000/09897_lr,records500/09000/09897_hr,['STTC']
+9929,records100/09000/09929_lr,records500/09000/09929_hr,"['CRBBB', 'AMI']"
+9930,records100/09000/09930_lr,records500/09000/09930_hr,['NORM']
+9943,records100/09000/09943_lr,records500/09000/09943_hr,['STTC']
+9952,records100/09000/09952_lr,records500/09000/09952_hr,['NORM']
+9953,records100/09000/09953_lr,records500/09000/09953_hr,['AMI']
+9962,records100/09000/09962_lr,records500/09000/09962_hr,"['IRBBB', 'LAFB/LPFB']"
+9979,records100/09000/09979_lr,records500/09000/09979_hr,['NORM']
+9981,records100/09000/09981_lr,records500/09000/09981_hr,['NORM']
+9982,records100/09000/09982_lr,records500/09000/09982_hr,['NORM']
+9992,records100/09000/09992_lr,records500/09000/09992_hr,['NORM']
+9994,records100/09000/09994_lr,records500/09000/09994_hr,['NORM']
+9995,records100/09000/09995_lr,records500/09000/09995_hr,['NORM']
+10029,records100/10000/10029_lr,records500/10000/10029_hr,['NORM']
+10054,records100/10000/10054_lr,records500/10000/10054_hr,"['ISC_', 'STTC']"
+10061,records100/10000/10061_lr,records500/10000/10061_hr,"['ISC_', 'LVH', 'LAFB/LPFB']"
+10076,records100/10000/10076_lr,records500/10000/10076_hr,"['STTC', 'AMI']"
+10093,records100/10000/10093_lr,records500/10000/10093_hr,['NORM']
+10102,records100/10000/10102_lr,records500/10000/10102_hr,['STTC']
+10115,records100/10000/10115_lr,records500/10000/10115_hr,"['ISC_', 'LVH']"
+10130,records100/10000/10130_lr,records500/10000/10130_hr,['CLBBB']
+10131,records100/10000/10131_lr,records500/10000/10131_hr,['CRBBB']
+10141,records100/10000/10141_lr,records500/10000/10141_hr,['NORM']
+10143,records100/10000/10143_lr,records500/10000/10143_hr,['NORM']
+10151,records100/10000/10151_lr,records500/10000/10151_hr,['NORM']
+10152,records100/10000/10152_lr,records500/10000/10152_hr,['NORM']
+10160,records100/10000/10160_lr,records500/10000/10160_hr,['NST_']
+10177,records100/10000/10177_lr,records500/10000/10177_hr,"['ISC_', 'STTC', 'LVH']"
+10180,records100/10000/10180_lr,records500/10000/10180_hr,['LVH']
+10181,records100/10000/10181_lr,records500/10000/10181_hr,['NORM']
+10196,records100/10000/10196_lr,records500/10000/10196_hr,['NST_']
+10200,records100/10000/10200_lr,records500/10000/10200_hr,['ISCI']
+10205,records100/10000/10205_lr,records500/10000/10205_hr,['LVH']
+10206,records100/10000/10206_lr,records500/10000/10206_hr,['NORM']
+10207,records100/10000/10207_lr,records500/10000/10207_hr,"['LAFB/LPFB', 'AMI']"
+10210,records100/10000/10210_lr,records500/10000/10210_hr,['IMI']
+10214,records100/10000/10214_lr,records500/10000/10214_hr,['NORM']
+10215,records100/10000/10215_lr,records500/10000/10215_hr,['NORM']
+10238,records100/10000/10238_lr,records500/10000/10238_hr,['NORM']
+10240,records100/10000/10240_lr,records500/10000/10240_hr,['NORM']
+10244,records100/10000/10244_lr,records500/10000/10244_hr,['IMI']
+10250,records100/10000/10250_lr,records500/10000/10250_hr,['NORM']
+10255,records100/10000/10255_lr,records500/10000/10255_hr,"['IVCD', 'NORM']"
+10261,records100/10000/10261_lr,records500/10000/10261_hr,['NORM']
+10268,records100/10000/10268_lr,records500/10000/10268_hr,['NORM']
+10272,records100/10000/10272_lr,records500/10000/10272_hr,['NORM']
+10283,records100/10000/10283_lr,records500/10000/10283_hr,['CLBBB']
+10318,records100/10000/10318_lr,records500/10000/10318_hr,['NORM']
+10327,records100/10000/10327_lr,records500/10000/10327_hr,['NORM']
+10336,records100/10000/10336_lr,records500/10000/10336_hr,"['ISCI', 'CRBBB']"
+10342,records100/10000/10342_lr,records500/10000/10342_hr,['STTC']
+10344,records100/10000/10344_lr,records500/10000/10344_hr,"['NST_', 'ISC_', 'LVH', 'LAFB/LPFB']"
+10356,records100/10000/10356_lr,records500/10000/10356_hr,['NORM']
+10358,records100/10000/10358_lr,records500/10000/10358_hr,['NORM']
+10359,records100/10000/10359_lr,records500/10000/10359_hr,['CRBBB']
+10380,records100/10000/10380_lr,records500/10000/10380_hr,['NORM']
+10383,records100/10000/10383_lr,records500/10000/10383_hr,"['IRBBB', 'LAFB/LPFB']"
+10388,records100/10000/10388_lr,records500/10000/10388_hr,['LVH']
+10401,records100/10000/10401_lr,records500/10000/10401_hr,"['NST_', 'STTC', 'LAFB/LPFB']"
+10431,records100/10000/10431_lr,records500/10000/10431_hr,['NORM']
+10484,records100/10000/10484_lr,records500/10000/10484_hr,['NORM']
+10489,records100/10000/10489_lr,records500/10000/10489_hr,"['NORM', 'IRBBB']"
+10501,records100/10000/10501_lr,records500/10000/10501_hr,['LAFB/LPFB']
+10517,records100/10000/10517_lr,records500/10000/10517_hr,['ISCA']
+10519,records100/10000/10519_lr,records500/10000/10519_hr,['NORM']
+10537,records100/10000/10537_lr,records500/10000/10537_hr,['NORM']
+10547,records100/10000/10547_lr,records500/10000/10547_hr,['NORM']
+10563,records100/10000/10563_lr,records500/10000/10563_hr,"['ISC_', 'LVH', 'LAFB/LPFB']"
+10585,records100/10000/10585_lr,records500/10000/10585_hr,['NORM']
+10589,records100/10000/10589_lr,records500/10000/10589_hr,['NORM']
+10594,records100/10000/10594_lr,records500/10000/10594_hr,"['ISC_', 'LVH']"
+10596,records100/10000/10596_lr,records500/10000/10596_hr,['NORM']
+10614,records100/10000/10614_lr,records500/10000/10614_hr,['IMI']
+10615,records100/10000/10615_lr,records500/10000/10615_hr,"['NST_', 'IMI']"
+10624,records100/10000/10624_lr,records500/10000/10624_hr,['STTC']
+10640,records100/10000/10640_lr,records500/10000/10640_hr,"['ISC_', 'LVH']"
+10660,records100/10000/10660_lr,records500/10000/10660_hr,"['IVCD', 'IMI']"
+10661,records100/10000/10661_lr,records500/10000/10661_hr,"['IRBBB', 'STTC']"
+10666,records100/10000/10666_lr,records500/10000/10666_hr,['NORM']
+10675,records100/10000/10675_lr,records500/10000/10675_hr,['ISCA']
+10687,records100/10000/10687_lr,records500/10000/10687_hr,['NORM']
+10691,records100/10000/10691_lr,records500/10000/10691_hr,['NORM']
+10731,records100/10000/10731_lr,records500/10000/10731_hr,['NORM']
+10743,records100/10000/10743_lr,records500/10000/10743_hr,['NST_']
+10755,records100/10000/10755_lr,records500/10000/10755_hr,"['ISCI', 'AMI']"
+10760,records100/10000/10760_lr,records500/10000/10760_hr,['NORM']
+10766,records100/10000/10766_lr,records500/10000/10766_hr,"['IVCD', 'STTC', 'LVH']"
+10806,records100/10000/10806_lr,records500/10000/10806_hr,['NORM']
+10807,records100/10000/10807_lr,records500/10000/10807_hr,"['_AVB', 'IMI', 'AMI']"
+10822,records100/10000/10822_lr,records500/10000/10822_hr,['WPW']
+10824,records100/10000/10824_lr,records500/10000/10824_hr,['NORM']
+10828,records100/10000/10828_lr,records500/10000/10828_hr,['AMI']
+10837,records100/10000/10837_lr,records500/10000/10837_hr,"['IVCD', 'ISC_', 'IMI', 'LVH']"
+10846,records100/10000/10846_lr,records500/10000/10846_hr,['NORM']
+10847,records100/10000/10847_lr,records500/10000/10847_hr,['NORM']
+10860,records100/10000/10860_lr,records500/10000/10860_hr,['LAFB/LPFB']
+10878,records100/10000/10878_lr,records500/10000/10878_hr,"['LAFB/LPFB', '_AVB', 'IMI', 'AMI']"
+10887,records100/10000/10887_lr,records500/10000/10887_hr,['NORM']
+10888,records100/10000/10888_lr,records500/10000/10888_hr,"['LAFB/LPFB', '_AVB', 'IMI', 'AMI']"
+10902,records100/10000/10902_lr,records500/10000/10902_hr,"['IVCD', 'ISCA', 'IMI', 'AMI']"
+10925,records100/10000/10925_lr,records500/10000/10925_hr,['STTC']
+10950,records100/10000/10950_lr,records500/10000/10950_hr,"['AMI', 'IVCD', 'ISC_', 'LVH', 'LAO/LAE']"
+10965,records100/10000/10965_lr,records500/10000/10965_hr,"['IRBBB', 'IMI', 'AMI']"
+10970,records100/10000/10970_lr,records500/10000/10970_hr,['NORM']
+10984,records100/10000/10984_lr,records500/10000/10984_hr,"['NST_', 'AMI']"
+10990,records100/10000/10990_lr,records500/10000/10990_hr,['NORM']
+11010,records100/11000/11010_lr,records500/11000/11010_hr,['IMI']
+11020,records100/11000/11020_lr,records500/11000/11020_hr,"['IRBBB', 'LAO/LAE']"
+11030,records100/11000/11030_lr,records500/11000/11030_hr,['ISCA']
+11055,records100/11000/11055_lr,records500/11000/11055_hr,['NORM']
+11077,records100/11000/11077_lr,records500/11000/11077_hr,['NORM']
+11102,records100/11000/11102_lr,records500/11000/11102_hr,['NORM']
+11103,records100/11000/11103_lr,records500/11000/11103_hr,['CRBBB']
+11108,records100/11000/11108_lr,records500/11000/11108_hr,"['IVCD', 'ISCA', 'IMI']"
+11113,records100/11000/11113_lr,records500/11000/11113_hr,['NORM']
+11124,records100/11000/11124_lr,records500/11000/11124_hr,['NORM']
+11125,records100/11000/11125_lr,records500/11000/11125_hr,['IMI']
+11126,records100/11000/11126_lr,records500/11000/11126_hr,['NORM']
+11129,records100/11000/11129_lr,records500/11000/11129_hr,['NORM']
+11132,records100/11000/11132_lr,records500/11000/11132_hr,"['ISC_', 'LVH']"
+11139,records100/11000/11139_lr,records500/11000/11139_hr,"['ISC_', 'IMI', 'LVH']"
+11144,records100/11000/11144_lr,records500/11000/11144_hr,['NORM']
+11152,records100/11000/11152_lr,records500/11000/11152_hr,['NORM']
+11170,records100/11000/11170_lr,records500/11000/11170_hr,"['IMI', 'CRBBB']"
+11182,records100/11000/11182_lr,records500/11000/11182_hr,['NORM']
+11212,records100/11000/11212_lr,records500/11000/11212_hr,['AMI']
+11226,records100/11000/11226_lr,records500/11000/11226_hr,"['IRBBB', 'STTC']"
+11230,records100/11000/11230_lr,records500/11000/11230_hr,['NORM']
+11238,records100/11000/11238_lr,records500/11000/11238_hr,['IMI']
+11285,records100/11000/11285_lr,records500/11000/11285_hr,['IMI']
+11286,records100/11000/11286_lr,records500/11000/11286_hr,['AMI']
+11319,records100/11000/11319_lr,records500/11000/11319_hr,['AMI']
+11336,records100/11000/11336_lr,records500/11000/11336_hr,"['IVCD', 'IMI']"
+11359,records100/11000/11359_lr,records500/11000/11359_hr,['IMI']
+11364,records100/11000/11364_lr,records500/11000/11364_hr,['NORM']
+11371,records100/11000/11371_lr,records500/11000/11371_hr,[]
+11372,records100/11000/11372_lr,records500/11000/11372_hr,['NORM']
+11406,records100/11000/11406_lr,records500/11000/11406_hr,['IMI']
+11411,records100/11000/11411_lr,records500/11000/11411_hr,['NORM']
+11418,records100/11000/11418_lr,records500/11000/11418_hr,['CLBBB']
+11420,records100/11000/11420_lr,records500/11000/11420_hr,['STTC']
+11441,records100/11000/11441_lr,records500/11000/11441_hr,"['CLBBB', 'LAO/LAE']"
+11453,records100/11000/11453_lr,records500/11000/11453_hr,"['IMI', 'AMI']"
+11468,records100/11000/11468_lr,records500/11000/11468_hr,[]
+11474,records100/11000/11474_lr,records500/11000/11474_hr,['CLBBB']
+11477,records100/11000/11477_lr,records500/11000/11477_hr,['IMI']
+11487,records100/11000/11487_lr,records500/11000/11487_hr,[]
+11489,records100/11000/11489_lr,records500/11000/11489_hr,['NORM']
+11490,records100/11000/11490_lr,records500/11000/11490_hr,['NORM']
+11500,records100/11000/11500_lr,records500/11000/11500_hr,"['LAFB/LPFB', '_AVB', 'CRBBB', 'AMI']"
+11520,records100/11000/11520_lr,records500/11000/11520_hr,['NORM']
+11530,records100/11000/11530_lr,records500/11000/11530_hr,['NORM']
+11532,records100/11000/11532_lr,records500/11000/11532_hr,['NORM']
+11533,records100/11000/11533_lr,records500/11000/11533_hr,['NORM']
+11550,records100/11000/11550_lr,records500/11000/11550_hr,['ISCA']
+11564,records100/11000/11564_lr,records500/11000/11564_hr,['NORM']
+11575,records100/11000/11575_lr,records500/11000/11575_hr,['NORM']
+11601,records100/11000/11601_lr,records500/11000/11601_hr,['NORM']
+11605,records100/11000/11605_lr,records500/11000/11605_hr,"['IVCD', 'IMI']"
+11616,records100/11000/11616_lr,records500/11000/11616_hr,"['NST_', 'AMI']"
+11644,records100/11000/11644_lr,records500/11000/11644_hr,['STTC']
+11645,records100/11000/11645_lr,records500/11000/11645_hr,['AMI']
+11664,records100/11000/11664_lr,records500/11000/11664_hr,['AMI']
+11679,records100/11000/11679_lr,records500/11000/11679_hr,['NORM']
+11681,records100/11000/11681_lr,records500/11000/11681_hr,"['ISC_', 'IRBBB', 'LVH']"
+11686,records100/11000/11686_lr,records500/11000/11686_hr,"['IRBBB', 'IMI', 'ISCA']"
+11705,records100/11000/11705_lr,records500/11000/11705_hr,['NORM']
+11711,records100/11000/11711_lr,records500/11000/11711_hr,['NORM']
+11723,records100/11000/11723_lr,records500/11000/11723_hr,['NORM']
+11727,records100/11000/11727_lr,records500/11000/11727_hr,['NORM']
+11738,records100/11000/11738_lr,records500/11000/11738_hr,['IVCD']
+11739,records100/11000/11739_lr,records500/11000/11739_hr,['NORM']
+11755,records100/11000/11755_lr,records500/11000/11755_hr,"['ISC_', 'LVH', 'IMI', 'AMI']"
+11758,records100/11000/11758_lr,records500/11000/11758_hr,['STTC']
+11788,records100/11000/11788_lr,records500/11000/11788_hr,['STTC']
+11789,records100/11000/11789_lr,records500/11000/11789_hr,['NORM']
+11799,records100/11000/11799_lr,records500/11000/11799_hr,['IMI']
+11802,records100/11000/11802_lr,records500/11000/11802_hr,"['NORM', 'IRBBB']"
+11803,records100/11000/11803_lr,records500/11000/11803_hr,['NORM']
+11805,records100/11000/11805_lr,records500/11000/11805_hr,['NORM']
+11832,records100/11000/11832_lr,records500/11000/11832_hr,"['IVCD', 'IMI']"
+11834,records100/11000/11834_lr,records500/11000/11834_hr,['IRBBB']
+11842,records100/11000/11842_lr,records500/11000/11842_hr,['NORM']
+11843,records100/11000/11843_lr,records500/11000/11843_hr,['NORM']
+11853,records100/11000/11853_lr,records500/11000/11853_hr,['NORM']
+11855,records100/11000/11855_lr,records500/11000/11855_hr,"['STTC', 'IMI']"
+11868,records100/11000/11868_lr,records500/11000/11868_hr,['STTC']
+11872,records100/11000/11872_lr,records500/11000/11872_hr,"['RVH', 'IMI']"
+11884,records100/11000/11884_lr,records500/11000/11884_hr,['NORM']
+11885,records100/11000/11885_lr,records500/11000/11885_hr,['NORM']
+11896,records100/11000/11896_lr,records500/11000/11896_hr,['IMI']
+11899,records100/11000/11899_lr,records500/11000/11899_hr,['IMI']
+11901,records100/11000/11901_lr,records500/11000/11901_hr,"['ISC_', 'LVH']"
+11916,records100/11000/11916_lr,records500/11000/11916_hr,['STTC']
+11932,records100/11000/11932_lr,records500/11000/11932_hr,"['NORM', 'LAFB/LPFB']"
+11933,records100/11000/11933_lr,records500/11000/11933_hr,['NORM']
+11934,records100/11000/11934_lr,records500/11000/11934_hr,['NORM']
+11937,records100/11000/11937_lr,records500/11000/11937_hr,"['LAFB/LPFB', 'STTC', 'AMI']"
+11956,records100/11000/11956_lr,records500/11000/11956_hr,['NORM']
+11982,records100/11000/11982_lr,records500/11000/11982_hr,[]
+12027,records100/12000/12027_lr,records500/12000/12027_hr,[]
+12028,records100/12000/12028_lr,records500/12000/12028_hr,"['NST_', 'IVCD']"
+12031,records100/12000/12031_lr,records500/12000/12031_hr,['LVH']
+12033,records100/12000/12033_lr,records500/12000/12033_hr,['NORM']
+12034,records100/12000/12034_lr,records500/12000/12034_hr,['NORM']
+12074,records100/12000/12074_lr,records500/12000/12074_hr,['NORM']
+12082,records100/12000/12082_lr,records500/12000/12082_hr,"['NORM', 'IRBBB']"
+12112,records100/12000/12112_lr,records500/12000/12112_hr,['IMI']
+12122,records100/12000/12122_lr,records500/12000/12122_hr,['LVH']
+12124,records100/12000/12124_lr,records500/12000/12124_hr,['IMI']
+12126,records100/12000/12126_lr,records500/12000/12126_hr,['STTC']
+12137,records100/12000/12137_lr,records500/12000/12137_hr,['AMI']
+12143,records100/12000/12143_lr,records500/12000/12143_hr,"['LAFB/LPFB', 'AMI']"
+12144,records100/12000/12144_lr,records500/12000/12144_hr,['NORM']
+12147,records100/12000/12147_lr,records500/12000/12147_hr,['NORM']
+12156,records100/12000/12156_lr,records500/12000/12156_hr,['IMI']
+12169,records100/12000/12169_lr,records500/12000/12169_hr,"['IMI', 'AMI']"
+12172,records100/12000/12172_lr,records500/12000/12172_hr,['NORM']
+12176,records100/12000/12176_lr,records500/12000/12176_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+12178,records100/12000/12178_lr,records500/12000/12178_hr,['CLBBB']
+12179,records100/12000/12179_lr,records500/12000/12179_hr,"['IVCD', 'NORM']"
+12181,records100/12000/12181_lr,records500/12000/12181_hr,['NORM']
+12189,records100/12000/12189_lr,records500/12000/12189_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+12190,records100/12000/12190_lr,records500/12000/12190_hr,"['IMI', 'AMI']"
+12192,records100/12000/12192_lr,records500/12000/12192_hr,"['LAO/LAE', 'LAFB/LPFB']"
+12195,records100/12000/12195_lr,records500/12000/12195_hr,['LAFB/LPFB']
+12197,records100/12000/12197_lr,records500/12000/12197_hr,"['IMI', 'AMI']"
+12199,records100/12000/12199_lr,records500/12000/12199_hr,['NORM']
+12201,records100/12000/12201_lr,records500/12000/12201_hr,['IMI']
+12216,records100/12000/12216_lr,records500/12000/12216_hr,['NORM']
+12220,records100/12000/12220_lr,records500/12000/12220_hr,['NORM']
+12221,records100/12000/12221_lr,records500/12000/12221_hr,"['LMI', '_AVB']"
+12223,records100/12000/12223_lr,records500/12000/12223_hr,"['_AVB', 'AMI']"
+12224,records100/12000/12224_lr,records500/12000/12224_hr,['AMI']
+12230,records100/12000/12230_lr,records500/12000/12230_hr,['NORM']
+12235,records100/12000/12235_lr,records500/12000/12235_hr,"['LAFB/LPFB', 'AMI']"
+12241,records100/12000/12241_lr,records500/12000/12241_hr,"['IMI', 'LAFB/LPFB']"
+12252,records100/12000/12252_lr,records500/12000/12252_hr,"['ISC_', 'LVH']"
+12254,records100/12000/12254_lr,records500/12000/12254_hr,['NORM']
+12262,records100/12000/12262_lr,records500/12000/12262_hr,"['IVCD', 'AMI']"
+12276,records100/12000/12276_lr,records500/12000/12276_hr,"['NORM', 'IRBBB']"
+12277,records100/12000/12277_lr,records500/12000/12277_hr,['NORM']
+12281,records100/12000/12281_lr,records500/12000/12281_hr,"['IVCD', 'ISCA']"
+12285,records100/12000/12285_lr,records500/12000/12285_hr,['AMI']
+12301,records100/12000/12301_lr,records500/12000/12301_hr,['LVH']
+12310,records100/12000/12310_lr,records500/12000/12310_hr,['NORM']
+12328,records100/12000/12328_lr,records500/12000/12328_hr,['AMI']
+12336,records100/12000/12336_lr,records500/12000/12336_hr,['NORM']
+12338,records100/12000/12338_lr,records500/12000/12338_hr,"['STTC', 'LVH']"
+12340,records100/12000/12340_lr,records500/12000/12340_hr,"['IMI', 'AMI']"
+12345,records100/12000/12345_lr,records500/12000/12345_hr,['NORM']
+12348,records100/12000/12348_lr,records500/12000/12348_hr,['NORM']
+12353,records100/12000/12353_lr,records500/12000/12353_hr,['STTC']
+12355,records100/12000/12355_lr,records500/12000/12355_hr,['NORM']
+12376,records100/12000/12376_lr,records500/12000/12376_hr,['NORM']
+12400,records100/12000/12400_lr,records500/12000/12400_hr,['IVCD']
+12407,records100/12000/12407_lr,records500/12000/12407_hr,['NORM']
+12409,records100/12000/12409_lr,records500/12000/12409_hr,['NORM']
+12426,records100/12000/12426_lr,records500/12000/12426_hr,"['IMI', 'AMI']"
+12451,records100/12000/12451_lr,records500/12000/12451_hr,['NORM']
+12475,records100/12000/12475_lr,records500/12000/12475_hr,['NORM']
+12478,records100/12000/12478_lr,records500/12000/12478_hr,['NORM']
+12480,records100/12000/12480_lr,records500/12000/12480_hr,['NORM']
+12516,records100/12000/12516_lr,records500/12000/12516_hr,[]
+12519,records100/12000/12519_lr,records500/12000/12519_hr,['STTC']
+12520,records100/12000/12520_lr,records500/12000/12520_hr,['NORM']
+12521,records100/12000/12521_lr,records500/12000/12521_hr,['AMI']
+12528,records100/12000/12528_lr,records500/12000/12528_hr,['NORM']
+12529,records100/12000/12529_lr,records500/12000/12529_hr,['NORM']
+12532,records100/12000/12532_lr,records500/12000/12532_hr,[]
+12533,records100/12000/12533_lr,records500/12000/12533_hr,"['STTC', 'IMI']"
+12545,records100/12000/12545_lr,records500/12000/12545_hr,"['NST_', 'STTC', 'IMI', 'AMI']"
+12552,records100/12000/12552_lr,records500/12000/12552_hr,"['LAFB/LPFB', 'CRBBB']"
+12568,records100/12000/12568_lr,records500/12000/12568_hr,['NST_']
+12576,records100/12000/12576_lr,records500/12000/12576_hr,['LAFB/LPFB']
+12577,records100/12000/12577_lr,records500/12000/12577_hr,['NORM']
+12585,records100/12000/12585_lr,records500/12000/12585_hr,"['STTC', 'LVH']"
+12596,records100/12000/12596_lr,records500/12000/12596_hr,['NST_']
+12607,records100/12000/12607_lr,records500/12000/12607_hr,['NORM']
+12609,records100/12000/12609_lr,records500/12000/12609_hr,['NORM']
+12618,records100/12000/12618_lr,records500/12000/12618_hr,['AMI']
+12619,records100/12000/12619_lr,records500/12000/12619_hr,['NORM']
+12620,records100/12000/12620_lr,records500/12000/12620_hr,['NORM']
+12631,records100/12000/12631_lr,records500/12000/12631_hr,['IMI']
+12641,records100/12000/12641_lr,records500/12000/12641_hr,"['LAFB/LPFB', 'AMI']"
+12646,records100/12000/12646_lr,records500/12000/12646_hr,"['ISC_', 'LVH']"
+12649,records100/12000/12649_lr,records500/12000/12649_hr,"['ISC_', 'LVH']"
+12677,records100/12000/12677_lr,records500/12000/12677_hr,['NORM']
+12679,records100/12000/12679_lr,records500/12000/12679_hr,"['IVCD', 'ISC_', 'LVH']"
+12692,records100/12000/12692_lr,records500/12000/12692_hr,"['LAO/LAE', 'LVH']"
+12699,records100/12000/12699_lr,records500/12000/12699_hr,['NORM']
+12702,records100/12000/12702_lr,records500/12000/12702_hr,['NORM']
+12703,records100/12000/12703_lr,records500/12000/12703_hr,"['CLBBB', '_AVB']"
+12709,records100/12000/12709_lr,records500/12000/12709_hr,['NORM']
+12710,records100/12000/12710_lr,records500/12000/12710_hr,"['LMI', 'IRBBB']"
+12711,records100/12000/12711_lr,records500/12000/12711_hr,['NORM']
+12715,records100/12000/12715_lr,records500/12000/12715_hr,['NORM']
+12719,records100/12000/12719_lr,records500/12000/12719_hr,"['IMI', 'LVH']"
+12720,records100/12000/12720_lr,records500/12000/12720_hr,['NORM']
+12742,records100/12000/12742_lr,records500/12000/12742_hr,['NORM']
+12758,records100/12000/12758_lr,records500/12000/12758_hr,"['NST_', 'PMI']"
+12770,records100/12000/12770_lr,records500/12000/12770_hr,"['STTC', '_AVB']"
+12776,records100/12000/12776_lr,records500/12000/12776_hr,['NST_']
+12785,records100/12000/12785_lr,records500/12000/12785_hr,['LAFB/LPFB']
+12801,records100/12000/12801_lr,records500/12000/12801_hr,"['IVCD', 'IMI', '_AVB']"
+12828,records100/12000/12828_lr,records500/12000/12828_hr,"['IMI', 'AMI']"
+12835,records100/12000/12835_lr,records500/12000/12835_hr,['NORM']
+12841,records100/12000/12841_lr,records500/12000/12841_hr,['IMI']
+12870,records100/12000/12870_lr,records500/12000/12870_hr,['IMI']
+12886,records100/12000/12886_lr,records500/12000/12886_hr,['NORM']
+12919,records100/12000/12919_lr,records500/12000/12919_hr,"['NORM', 'IRBBB']"
+12925,records100/12000/12925_lr,records500/12000/12925_hr,['NORM']
+12936,records100/12000/12936_lr,records500/12000/12936_hr,"['LAFB/LPFB', '_AVB', 'CRBBB', 'AMI']"
+12937,records100/12000/12937_lr,records500/12000/12937_hr,"['IRBBB', 'LAFB/LPFB']"
+12941,records100/12000/12941_lr,records500/12000/12941_hr,['IMI']
+12991,records100/12000/12991_lr,records500/12000/12991_hr,['AMI']
+12999,records100/12000/12999_lr,records500/12000/12999_hr,['NORM']
+13006,records100/13000/13006_lr,records500/13000/13006_hr,['NORM']
+13007,records100/13000/13007_lr,records500/13000/13007_hr,['ISC_']
+13014,records100/13000/13014_lr,records500/13000/13014_hr,['NORM']
+13025,records100/13000/13025_lr,records500/13000/13025_hr,['NORM']
+13035,records100/13000/13035_lr,records500/13000/13035_hr,['NORM']
+13052,records100/13000/13052_lr,records500/13000/13052_hr,"['NORM', 'LAFB/LPFB']"
+13058,records100/13000/13058_lr,records500/13000/13058_hr,['AMI']
+13078,records100/13000/13078_lr,records500/13000/13078_hr,['IMI']
+13092,records100/13000/13092_lr,records500/13000/13092_hr,['NORM']
+13120,records100/13000/13120_lr,records500/13000/13120_hr,['NORM']
+13122,records100/13000/13122_lr,records500/13000/13122_hr,"['LVH', 'ISCA', 'LAFB/LPFB']"
+13131,records100/13000/13131_lr,records500/13000/13131_hr,[]
+13139,records100/13000/13139_lr,records500/13000/13139_hr,['NST_']
+13143,records100/13000/13143_lr,records500/13000/13143_hr,['ISCA']
+13145,records100/13000/13145_lr,records500/13000/13145_hr,['NORM']
+13158,records100/13000/13158_lr,records500/13000/13158_hr,['IMI']
+13166,records100/13000/13166_lr,records500/13000/13166_hr,['AMI']
+13167,records100/13000/13167_lr,records500/13000/13167_hr,['IVCD']
+13212,records100/13000/13212_lr,records500/13000/13212_hr,['NORM']
+13214,records100/13000/13214_lr,records500/13000/13214_hr,['_AVB']
+13227,records100/13000/13227_lr,records500/13000/13227_hr,"['STTC', 'AMI']"
+13233,records100/13000/13233_lr,records500/13000/13233_hr,"['ISC_', 'LVH', 'AMI']"
+13238,records100/13000/13238_lr,records500/13000/13238_hr,['NST_']
+13248,records100/13000/13248_lr,records500/13000/13248_hr,"['IRBBB', 'ISCA']"
+13267,records100/13000/13267_lr,records500/13000/13267_hr,['NORM']
+13268,records100/13000/13268_lr,records500/13000/13268_hr,['NORM']
+13282,records100/13000/13282_lr,records500/13000/13282_hr,['NORM']
+13292,records100/13000/13292_lr,records500/13000/13292_hr,"['STTC', 'LAO/LAE']"
+13301,records100/13000/13301_lr,records500/13000/13301_hr,"['ISCA', 'LAO/LAE', 'ISCI']"
+13314,records100/13000/13314_lr,records500/13000/13314_hr,"['IVCD', 'NORM']"
+13333,records100/13000/13333_lr,records500/13000/13333_hr,"['ISCA', 'ISCI']"
+13335,records100/13000/13335_lr,records500/13000/13335_hr,['AMI']
+13337,records100/13000/13337_lr,records500/13000/13337_hr,"['IVCD', 'IMI', 'AMI']"
+13338,records100/13000/13338_lr,records500/13000/13338_hr,"['LAFB/LPFB', 'AMI']"
+13349,records100/13000/13349_lr,records500/13000/13349_hr,['NORM']
+13361,records100/13000/13361_lr,records500/13000/13361_hr,['STTC']
+13370,records100/13000/13370_lr,records500/13000/13370_hr,['NORM']
+13380,records100/13000/13380_lr,records500/13000/13380_hr,['NORM']
+13397,records100/13000/13397_lr,records500/13000/13397_hr,['STTC']
+13398,records100/13000/13398_lr,records500/13000/13398_hr,['NORM']
+13400,records100/13000/13400_lr,records500/13000/13400_hr,['NORM']
+13404,records100/13000/13404_lr,records500/13000/13404_hr,['NORM']
+13405,records100/13000/13405_lr,records500/13000/13405_hr,['IMI']
+13446,records100/13000/13446_lr,records500/13000/13446_hr,['STTC']
+13479,records100/13000/13479_lr,records500/13000/13479_hr,['STTC']
+13494,records100/13000/13494_lr,records500/13000/13494_hr,['NORM']
+13499,records100/13000/13499_lr,records500/13000/13499_hr,"['_AVB', 'STTC', 'AMI']"
+13516,records100/13000/13516_lr,records500/13000/13516_hr,"['IMI', 'AMI']"
+13556,records100/13000/13556_lr,records500/13000/13556_hr,"['LAFB/LPFB', 'ISC_', 'LVH', 'AMI']"
+13577,records100/13000/13577_lr,records500/13000/13577_hr,"['ISCA', 'AMI']"
+13595,records100/13000/13595_lr,records500/13000/13595_hr,['NORM']
+13612,records100/13000/13612_lr,records500/13000/13612_hr,['LAFB/LPFB']
+13630,records100/13000/13630_lr,records500/13000/13630_hr,['NORM']
+13642,records100/13000/13642_lr,records500/13000/13642_hr,['NORM']
+13666,records100/13000/13666_lr,records500/13000/13666_hr,['LVH']
+13711,records100/13000/13711_lr,records500/13000/13711_hr,['IRBBB']
+13712,records100/13000/13712_lr,records500/13000/13712_hr,['NORM']
+13717,records100/13000/13717_lr,records500/13000/13717_hr,['NORM']
+13744,records100/13000/13744_lr,records500/13000/13744_hr,['IMI']
+13777,records100/13000/13777_lr,records500/13000/13777_hr,['NORM']
+13786,records100/13000/13786_lr,records500/13000/13786_hr,['NORM']
+13812,records100/13000/13812_lr,records500/13000/13812_hr,"['IVCD', 'NORM']"
+13819,records100/13000/13819_lr,records500/13000/13819_hr,['IMI']
+13835,records100/13000/13835_lr,records500/13000/13835_hr,"['IMI', 'LVH']"
+13847,records100/13000/13847_lr,records500/13000/13847_hr,"['ISCA', 'IMI']"
+13848,records100/13000/13848_lr,records500/13000/13848_hr,['NORM']
+13849,records100/13000/13849_lr,records500/13000/13849_hr,"['LAFB/LPFB', 'CRBBB', 'AMI']"
+13853,records100/13000/13853_lr,records500/13000/13853_hr,"['LAFB/LPFB', 'CRBBB', 'AMI']"
+13855,records100/13000/13855_lr,records500/13000/13855_hr,"['LAFB/LPFB', 'CRBBB', 'ISCA', 'AMI']"
+13860,records100/13000/13860_lr,records500/13000/13860_hr,['NORM']
+13867,records100/13000/13867_lr,records500/13000/13867_hr,['STTC']
+13879,records100/13000/13879_lr,records500/13000/13879_hr,['NORM']
+13887,records100/13000/13887_lr,records500/13000/13887_hr,['NORM']
+13895,records100/13000/13895_lr,records500/13000/13895_hr,['NORM']
+13899,records100/13000/13899_lr,records500/13000/13899_hr,"['ISC_', 'LVH']"
+13908,records100/13000/13908_lr,records500/13000/13908_hr,"['IRBBB', 'LAO/LAE']"
+13912,records100/13000/13912_lr,records500/13000/13912_hr,['IMI']
+13913,records100/13000/13913_lr,records500/13000/13913_hr,"['_AVB', 'AMI']"
+13918,records100/13000/13918_lr,records500/13000/13918_hr,['NORM']
+13923,records100/13000/13923_lr,records500/13000/13923_hr,['NORM']
+13926,records100/13000/13926_lr,records500/13000/13926_hr,['IRBBB']
+13946,records100/13000/13946_lr,records500/13000/13946_hr,"['STTC', 'LAO/LAE']"
+13954,records100/13000/13954_lr,records500/13000/13954_hr,"['ISCA', 'LAFB/LPFB']"
+13955,records100/13000/13955_lr,records500/13000/13955_hr,['IRBBB']
+13959,records100/13000/13959_lr,records500/13000/13959_hr,['NORM']
+13971,records100/13000/13971_lr,records500/13000/13971_hr,['NORM']
+13993,records100/13000/13993_lr,records500/13000/13993_hr,['NORM']
+14004,records100/14000/14004_lr,records500/14000/14004_hr,"['LAFB/LPFB', 'ISC_', 'LVH', 'AMI']"
+14005,records100/14000/14005_lr,records500/14000/14005_hr,"['LAFB/LPFB', 'AMI']"
+14018,records100/14000/14018_lr,records500/14000/14018_hr,['IMI']
+14021,records100/14000/14021_lr,records500/14000/14021_hr,['NORM']
+14026,records100/14000/14026_lr,records500/14000/14026_hr,"['ISC_', 'LVH']"
+14027,records100/14000/14027_lr,records500/14000/14027_hr,['NORM']
+14071,records100/14000/14071_lr,records500/14000/14071_hr,['NORM']
+14097,records100/14000/14097_lr,records500/14000/14097_hr,"['NORM', 'IRBBB']"
+14107,records100/14000/14107_lr,records500/14000/14107_hr,['NORM']
+14123,records100/14000/14123_lr,records500/14000/14123_hr,['LAFB/LPFB']
+14131,records100/14000/14131_lr,records500/14000/14131_hr,['STTC']
+14138,records100/14000/14138_lr,records500/14000/14138_hr,['NORM']
+14139,records100/14000/14139_lr,records500/14000/14139_hr,['NORM']
+14145,records100/14000/14145_lr,records500/14000/14145_hr,['NORM']
+14146,records100/14000/14146_lr,records500/14000/14146_hr,['NORM']
+14149,records100/14000/14149_lr,records500/14000/14149_hr,['NORM']
+14159,records100/14000/14159_lr,records500/14000/14159_hr,['NORM']
+14166,records100/14000/14166_lr,records500/14000/14166_hr,"['ISCA', '_AVB']"
+14167,records100/14000/14167_lr,records500/14000/14167_hr,"['STTC', 'LVH']"
+14170,records100/14000/14170_lr,records500/14000/14170_hr,['NORM']
+14177,records100/14000/14177_lr,records500/14000/14177_hr,['NORM']
+14184,records100/14000/14184_lr,records500/14000/14184_hr,['NORM']
+14187,records100/14000/14187_lr,records500/14000/14187_hr,['NORM']
+14192,records100/14000/14192_lr,records500/14000/14192_hr,"['LAFB/LPFB', 'CRBBB', 'IMI', 'AMI']"
+14194,records100/14000/14194_lr,records500/14000/14194_hr,"['_AVB', 'AMI']"
+14201,records100/14000/14201_lr,records500/14000/14201_hr,"['LAFB/LPFB', 'ISC_', 'LVH']"
+14205,records100/14000/14205_lr,records500/14000/14205_hr,['NORM']
+14217,records100/14000/14217_lr,records500/14000/14217_hr,['STTC']
+14220,records100/14000/14220_lr,records500/14000/14220_hr,['NORM']
+14224,records100/14000/14224_lr,records500/14000/14224_hr,"['IVCD', 'ISCA']"
+14238,records100/14000/14238_lr,records500/14000/14238_hr,['NST_']
+14244,records100/14000/14244_lr,records500/14000/14244_hr,['STTC']
+14248,records100/14000/14248_lr,records500/14000/14248_hr,['NORM']
+14256,records100/14000/14256_lr,records500/14000/14256_hr,['NORM']
+14288,records100/14000/14288_lr,records500/14000/14288_hr,"['IVCD', 'NORM']"
+14301,records100/14000/14301_lr,records500/14000/14301_hr,['NORM']
+14304,records100/14000/14304_lr,records500/14000/14304_hr,['NORM']
+14314,records100/14000/14314_lr,records500/14000/14314_hr,"['IMI', 'AMI']"
+14315,records100/14000/14315_lr,records500/14000/14315_hr,['RVH']
+14350,records100/14000/14350_lr,records500/14000/14350_hr,"['ISC_', 'IMI', 'LVH']"
+14356,records100/14000/14356_lr,records500/14000/14356_hr,['NORM']
+14375,records100/14000/14375_lr,records500/14000/14375_hr,['NORM']
+14382,records100/14000/14382_lr,records500/14000/14382_hr,['IMI']
+14384,records100/14000/14384_lr,records500/14000/14384_hr,['ISCA']
+14392,records100/14000/14392_lr,records500/14000/14392_hr,['STTC']
+14400,records100/14000/14400_lr,records500/14000/14400_hr,"['_AVB', 'IMI', 'AMI']"
+14409,records100/14000/14409_lr,records500/14000/14409_hr,['NORM']
+14424,records100/14000/14424_lr,records500/14000/14424_hr,['IMI']
+14427,records100/14000/14427_lr,records500/14000/14427_hr,"['LAFB/LPFB', '_AVB']"
+14446,records100/14000/14446_lr,records500/14000/14446_hr,"['NST_', 'AMI']"
+14448,records100/14000/14448_lr,records500/14000/14448_hr,"['NST_', 'RAO/RAE']"
+14457,records100/14000/14457_lr,records500/14000/14457_hr,['NORM']
+14459,records100/14000/14459_lr,records500/14000/14459_hr,['NORM']
+14501,records100/14000/14501_lr,records500/14000/14501_hr,['NORM']
+14534,records100/14000/14534_lr,records500/14000/14534_hr,"['LAFB/LPFB', '_AVB', 'CRBBB', 'AMI']"
+14565,records100/14000/14565_lr,records500/14000/14565_hr,['NORM']
+14580,records100/14000/14580_lr,records500/14000/14580_hr,['NORM']
+14585,records100/14000/14585_lr,records500/14000/14585_hr,"['ISCA', 'IMI']"
+14597,records100/14000/14597_lr,records500/14000/14597_hr,['NORM']
+14613,records100/14000/14613_lr,records500/14000/14613_hr,['NORM']
+14620,records100/14000/14620_lr,records500/14000/14620_hr,['NORM']
+14627,records100/14000/14627_lr,records500/14000/14627_hr,['IMI']
+14628,records100/14000/14628_lr,records500/14000/14628_hr,['STTC']
+14634,records100/14000/14634_lr,records500/14000/14634_hr,['NORM']
+14637,records100/14000/14637_lr,records500/14000/14637_hr,['NORM']
+14647,records100/14000/14647_lr,records500/14000/14647_hr,['AMI']
+14653,records100/14000/14653_lr,records500/14000/14653_hr,['WPW']
+14662,records100/14000/14662_lr,records500/14000/14662_hr,['NORM']
+14667,records100/14000/14667_lr,records500/14000/14667_hr,['AMI']
+14670,records100/14000/14670_lr,records500/14000/14670_hr,"['ISC_', 'STTC', 'LVH']"
+14674,records100/14000/14674_lr,records500/14000/14674_hr,['STTC']
+14678,records100/14000/14678_lr,records500/14000/14678_hr,"['IRBBB', 'LAFB/LPFB']"
+14713,records100/14000/14713_lr,records500/14000/14713_hr,['AMI']
+14729,records100/14000/14729_lr,records500/14000/14729_hr,"['AMI', '_AVB', 'ISC_', 'LVH', 'LAO/LAE']"
+14731,records100/14000/14731_lr,records500/14000/14731_hr,"['IRBBB', 'IMI', 'AMI']"
+14745,records100/14000/14745_lr,records500/14000/14745_hr,"['NST_', 'ISC_', 'LVH']"
+14746,records100/14000/14746_lr,records500/14000/14746_hr,['NORM']
+14762,records100/14000/14762_lr,records500/14000/14762_hr,['IMI']
+14771,records100/14000/14771_lr,records500/14000/14771_hr,['NORM']
+14775,records100/14000/14775_lr,records500/14000/14775_hr,['NORM']
+14781,records100/14000/14781_lr,records500/14000/14781_hr,"['_AVB', 'AMI']"
+14792,records100/14000/14792_lr,records500/14000/14792_hr,[]
+14805,records100/14000/14805_lr,records500/14000/14805_hr,['LVH']
+14814,records100/14000/14814_lr,records500/14000/14814_hr,['NORM']
+14836,records100/14000/14836_lr,records500/14000/14836_hr,"['ISC_', 'IRBBB', 'LVH']"
+14851,records100/14000/14851_lr,records500/14000/14851_hr,['NORM']
+14869,records100/14000/14869_lr,records500/14000/14869_hr,"['ISC_', 'LVH']"
+14912,records100/14000/14912_lr,records500/14000/14912_hr,"['LMI', 'AMI']"
+14923,records100/14000/14923_lr,records500/14000/14923_hr,['NORM']
+14937,records100/14000/14937_lr,records500/14000/14937_hr,"['ILBBB', 'AMI']"
+14938,records100/14000/14938_lr,records500/14000/14938_hr,['NORM']
+14944,records100/14000/14944_lr,records500/14000/14944_hr,['NORM']
+14946,records100/14000/14946_lr,records500/14000/14946_hr,['NORM']
+14965,records100/14000/14965_lr,records500/14000/14965_hr,"['NST_', 'LVH']"
+14976,records100/14000/14976_lr,records500/14000/14976_hr,['NORM']
+15001,records100/15000/15001_lr,records500/15000/15001_hr,['NORM']
+15015,records100/15000/15015_lr,records500/15000/15015_hr,['NORM']
+15024,records100/15000/15024_lr,records500/15000/15024_hr,"['LMI', 'ISCA']"
+15034,records100/15000/15034_lr,records500/15000/15034_hr,['IMI']
+15057,records100/15000/15057_lr,records500/15000/15057_hr,['NORM']
+15059,records100/15000/15059_lr,records500/15000/15059_hr,"['PMI', 'IMI', '_AVB']"
+15064,records100/15000/15064_lr,records500/15000/15064_hr,"['IVCD', 'ISCA', '_AVB']"
+15074,records100/15000/15074_lr,records500/15000/15074_hr,['NORM']
+15090,records100/15000/15090_lr,records500/15000/15090_hr,['NORM']
+15094,records100/15000/15094_lr,records500/15000/15094_hr,['NORM']
+15101,records100/15000/15101_lr,records500/15000/15101_hr,"['CLBBB', '_AVB']"
+15136,records100/15000/15136_lr,records500/15000/15136_hr,['NORM']
+15139,records100/15000/15139_lr,records500/15000/15139_hr,['STTC']
+15141,records100/15000/15141_lr,records500/15000/15141_hr,['AMI']
+15180,records100/15000/15180_lr,records500/15000/15180_hr,['IMI']
+15203,records100/15000/15203_lr,records500/15000/15203_hr,"['CRBBB', 'IMI', 'AMI']"
+15207,records100/15000/15207_lr,records500/15000/15207_hr,['AMI']
+15221,records100/15000/15221_lr,records500/15000/15221_hr,['NORM']
+15227,records100/15000/15227_lr,records500/15000/15227_hr,['IMI']
+15235,records100/15000/15235_lr,records500/15000/15235_hr,['IMI']
+15259,records100/15000/15259_lr,records500/15000/15259_hr,"['ISCI', 'AMI']"
+15279,records100/15000/15279_lr,records500/15000/15279_hr,"['IVCD', 'ISCA', 'IMI']"
+15297,records100/15000/15297_lr,records500/15000/15297_hr,"['IRBBB', 'STTC']"
+15377,records100/15000/15377_lr,records500/15000/15377_hr,['NORM']
+15384,records100/15000/15384_lr,records500/15000/15384_hr,"['ISCA', 'ISCI', 'LVH']"
+15391,records100/15000/15391_lr,records500/15000/15391_hr,['NORM']
+15400,records100/15000/15400_lr,records500/15000/15400_hr,['IMI']
+15421,records100/15000/15421_lr,records500/15000/15421_hr,"['IMI', 'LAFB/LPFB']"
+15438,records100/15000/15438_lr,records500/15000/15438_hr,['CLBBB']
+15444,records100/15000/15444_lr,records500/15000/15444_hr,[]
+15447,records100/15000/15447_lr,records500/15000/15447_hr,['CLBBB']
+15461,records100/15000/15461_lr,records500/15000/15461_hr,['NORM']
+15484,records100/15000/15484_lr,records500/15000/15484_hr,['NORM']
+15487,records100/15000/15487_lr,records500/15000/15487_hr,['NORM']
+15500,records100/15000/15500_lr,records500/15000/15500_hr,"['ISC_', 'LVH', 'AMI']"
+15507,records100/15000/15507_lr,records500/15000/15507_hr,['NORM']
+15526,records100/15000/15526_lr,records500/15000/15526_hr,['CRBBB']
+15532,records100/15000/15532_lr,records500/15000/15532_hr,['CRBBB']
+15548,records100/15000/15548_lr,records500/15000/15548_hr,['NORM']
+15549,records100/15000/15549_lr,records500/15000/15549_hr,['IMI']
+15573,records100/15000/15573_lr,records500/15000/15573_hr,"['IMI', 'CRBBB']"
+15575,records100/15000/15575_lr,records500/15000/15575_hr,['NORM']
+15588,records100/15000/15588_lr,records500/15000/15588_hr,['NORM']
+15631,records100/15000/15631_lr,records500/15000/15631_hr,['STTC']
+15638,records100/15000/15638_lr,records500/15000/15638_hr,['NORM']
+15647,records100/15000/15647_lr,records500/15000/15647_hr,"['IMI', 'AMI']"
+15652,records100/15000/15652_lr,records500/15000/15652_hr,['NORM']
+15674,records100/15000/15674_lr,records500/15000/15674_hr,['NORM']
+15677,records100/15000/15677_lr,records500/15000/15677_hr,['NORM']
+15689,records100/15000/15689_lr,records500/15000/15689_hr,"['IVCD', 'NORM']"
+15715,records100/15000/15715_lr,records500/15000/15715_hr,['NORM']
+15723,records100/15000/15723_lr,records500/15000/15723_hr,['NORM']
+15729,records100/15000/15729_lr,records500/15000/15729_hr,['STTC']
+15732,records100/15000/15732_lr,records500/15000/15732_hr,['NORM']
+15737,records100/15000/15737_lr,records500/15000/15737_hr,['NORM']
+15744,records100/15000/15744_lr,records500/15000/15744_hr,['STTC']
+15757,records100/15000/15757_lr,records500/15000/15757_hr,['STTC']
+15787,records100/15000/15787_lr,records500/15000/15787_hr,"['ISC_', 'LVH']"
+15795,records100/15000/15795_lr,records500/15000/15795_hr,['STTC']
+15796,records100/15000/15796_lr,records500/15000/15796_hr,['NORM']
+15797,records100/15000/15797_lr,records500/15000/15797_hr,"['ISC_', 'LVH']"
+15798,records100/15000/15798_lr,records500/15000/15798_hr,['CLBBB']
+15800,records100/15000/15800_lr,records500/15000/15800_hr,['NST_']
+15803,records100/15000/15803_lr,records500/15000/15803_hr,['NORM']
+15809,records100/15000/15809_lr,records500/15000/15809_hr,"['NST_', 'IMI', 'LVH']"
+15810,records100/15000/15810_lr,records500/15000/15810_hr,"['LMI', 'LAFB/LPFB']"
+15817,records100/15000/15817_lr,records500/15000/15817_hr,['LAFB/LPFB']
+15821,records100/15000/15821_lr,records500/15000/15821_hr,['NORM']
+15834,records100/15000/15834_lr,records500/15000/15834_hr,[]
+15841,records100/15000/15841_lr,records500/15000/15841_hr,[]
+15852,records100/15000/15852_lr,records500/15000/15852_hr,"['LAFB/LPFB', 'AMI']"
+15857,records100/15000/15857_lr,records500/15000/15857_hr,[]
+15858,records100/15000/15858_lr,records500/15000/15858_hr,"['ISCA', 'ISCI']"
+15863,records100/15000/15863_lr,records500/15000/15863_hr,"['ISC_', 'LVH']"
+15864,records100/15000/15864_lr,records500/15000/15864_hr,['STTC']
+15865,records100/15000/15865_lr,records500/15000/15865_hr,['AMI']
+15871,records100/15000/15871_lr,records500/15000/15871_hr,"['ISC_', 'LVH', 'AMI']"
+15874,records100/15000/15874_lr,records500/15000/15874_hr,['STTC']
+15897,records100/15000/15897_lr,records500/15000/15897_hr,['NORM']
+15898,records100/15000/15898_lr,records500/15000/15898_hr,['NORM']
+15899,records100/15000/15899_lr,records500/15000/15899_hr,['IRBBB']
+15900,records100/15000/15900_lr,records500/15000/15900_hr,['NORM']
+15901,records100/15000/15901_lr,records500/15000/15901_hr,['NORM']
+15924,records100/15000/15924_lr,records500/15000/15924_hr,['IMI']
+15926,records100/15000/15926_lr,records500/15000/15926_hr,['STTC']
+15930,records100/15000/15930_lr,records500/15000/15930_hr,['NORM']
+15948,records100/15000/15948_lr,records500/15000/15948_hr,['NORM']
+15950,records100/15000/15950_lr,records500/15000/15950_hr,['AMI']
+15954,records100/15000/15954_lr,records500/15000/15954_hr,"['IRBBB', 'RVH']"
+15958,records100/15000/15958_lr,records500/15000/15958_hr,"['CLBBB', 'IMI', 'AMI']"
+15959,records100/15000/15959_lr,records500/15000/15959_hr,['NORM']
+15988,records100/15000/15988_lr,records500/15000/15988_hr,['NORM']
+16003,records100/16000/16003_lr,records500/16000/16003_hr,['NORM']
+16010,records100/16000/16010_lr,records500/16000/16010_hr,"['ISCA', 'IMI']"
+16024,records100/16000/16024_lr,records500/16000/16024_hr,['NORM']
+16035,records100/16000/16035_lr,records500/16000/16035_hr,"['NORM', 'IRBBB']"
+16038,records100/16000/16038_lr,records500/16000/16038_hr,"['IMI', 'AMI', 'ILBBB', 'ISC_', 'LVH']"
+16045,records100/16000/16045_lr,records500/16000/16045_hr,['LVH']
+16046,records100/16000/16046_lr,records500/16000/16046_hr,['CLBBB']
+16061,records100/16000/16061_lr,records500/16000/16061_hr,"['ISC_', 'IMI', 'LAO/LAE', 'LVH']"
+16076,records100/16000/16076_lr,records500/16000/16076_hr,[]
+16077,records100/16000/16077_lr,records500/16000/16077_hr,"['LAFB/LPFB', 'LMI', '_AVB', 'AMI']"
+16100,records100/16000/16100_lr,records500/16000/16100_hr,['CLBBB']
+16101,records100/16000/16101_lr,records500/16000/16101_hr,['STTC']
+16119,records100/16000/16119_lr,records500/16000/16119_hr,['STTC']
+16127,records100/16000/16127_lr,records500/16000/16127_hr,"['IVCD', 'AMI']"
+16129,records100/16000/16129_lr,records500/16000/16129_hr,['NORM']
+16132,records100/16000/16132_lr,records500/16000/16132_hr,"['ISCA', 'ISCI']"
+16135,records100/16000/16135_lr,records500/16000/16135_hr,['IMI']
+16144,records100/16000/16144_lr,records500/16000/16144_hr,['NORM']
+16147,records100/16000/16147_lr,records500/16000/16147_hr,['NORM']
+16149,records100/16000/16149_lr,records500/16000/16149_hr,['NORM']
+16150,records100/16000/16150_lr,records500/16000/16150_hr,['NORM']
+16152,records100/16000/16152_lr,records500/16000/16152_hr,['IMI']
+16168,records100/16000/16168_lr,records500/16000/16168_hr,"['IMI', 'LAFB/LPFB']"
+16182,records100/16000/16182_lr,records500/16000/16182_hr,['LVH']
+16187,records100/16000/16187_lr,records500/16000/16187_hr,['NORM']
+16193,records100/16000/16193_lr,records500/16000/16193_hr,['NORM']
+16205,records100/16000/16205_lr,records500/16000/16205_hr,"['NORM', 'IRBBB']"
+16214,records100/16000/16214_lr,records500/16000/16214_hr,"['STTC', 'LVH']"
+16224,records100/16000/16224_lr,records500/16000/16224_hr,"['ISCA', 'LVH']"
+16225,records100/16000/16225_lr,records500/16000/16225_hr,"['IMI', 'AMI']"
+16233,records100/16000/16233_lr,records500/16000/16233_hr,['NORM']
+16239,records100/16000/16239_lr,records500/16000/16239_hr,['NST_']
+16260,records100/16000/16260_lr,records500/16000/16260_hr,"['ILBBB', 'NST_']"
+16261,records100/16000/16261_lr,records500/16000/16261_hr,['NORM']
+16264,records100/16000/16264_lr,records500/16000/16264_hr,['NORM']
+16272,records100/16000/16272_lr,records500/16000/16272_hr,"['LAFB/LPFB', 'ISCA', 'AMI']"
+16288,records100/16000/16288_lr,records500/16000/16288_hr,['NORM']
+16340,records100/16000/16340_lr,records500/16000/16340_hr,['IMI']
+16355,records100/16000/16355_lr,records500/16000/16355_hr,['NORM']
+16357,records100/16000/16357_lr,records500/16000/16357_hr,"['IMI', 'AMI', 'NST_', 'IVCD', 'ISC_', 'LVH']"
+16407,records100/16000/16407_lr,records500/16000/16407_hr,['NORM']
+16425,records100/16000/16425_lr,records500/16000/16425_hr,['NORM']
+16427,records100/16000/16427_lr,records500/16000/16427_hr,"['_AVB', 'AMI']"
+16463,records100/16000/16463_lr,records500/16000/16463_hr,['AMI']
+16465,records100/16000/16465_lr,records500/16000/16465_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+16468,records100/16000/16468_lr,records500/16000/16468_hr,['NORM']
+16469,records100/16000/16469_lr,records500/16000/16469_hr,['NORM']
+16499,records100/16000/16499_lr,records500/16000/16499_hr,['NORM']
+16511,records100/16000/16511_lr,records500/16000/16511_hr,['STTC']
+16526,records100/16000/16526_lr,records500/16000/16526_hr,['IRBBB']
+16529,records100/16000/16529_lr,records500/16000/16529_hr,['LAFB/LPFB']
+16532,records100/16000/16532_lr,records500/16000/16532_hr,"['LMI', 'IMI']"
+16534,records100/16000/16534_lr,records500/16000/16534_hr,['NORM']
+16535,records100/16000/16535_lr,records500/16000/16535_hr,['ISCA']
+16537,records100/16000/16537_lr,records500/16000/16537_hr,['NORM']
+16542,records100/16000/16542_lr,records500/16000/16542_hr,['NORM']
+16543,records100/16000/16543_lr,records500/16000/16543_hr,['IMI']
+16563,records100/16000/16563_lr,records500/16000/16563_hr,['NORM']
+16564,records100/16000/16564_lr,records500/16000/16564_hr,['IMI']
+16566,records100/16000/16566_lr,records500/16000/16566_hr,['AMI']
+16572,records100/16000/16572_lr,records500/16000/16572_hr,['NORM']
+16591,records100/16000/16591_lr,records500/16000/16591_hr,"['ISC_', 'STTC']"
+16596,records100/16000/16596_lr,records500/16000/16596_hr,['NORM']
+16602,records100/16000/16602_lr,records500/16000/16602_hr,"['IVCD', 'STTC']"
+16603,records100/16000/16603_lr,records500/16000/16603_hr,['NORM']
+16605,records100/16000/16605_lr,records500/16000/16605_hr,[]
+16609,records100/16000/16609_lr,records500/16000/16609_hr,"['ISC_', 'IMI', 'LVH']"
+16637,records100/16000/16637_lr,records500/16000/16637_hr,['NORM']
+16647,records100/16000/16647_lr,records500/16000/16647_hr,['NORM']
+16651,records100/16000/16651_lr,records500/16000/16651_hr,['NORM']
+16658,records100/16000/16658_lr,records500/16000/16658_hr,['ISCA']
+16674,records100/16000/16674_lr,records500/16000/16674_hr,['LAFB/LPFB']
+16692,records100/16000/16692_lr,records500/16000/16692_hr,['IMI']
+16700,records100/16000/16700_lr,records500/16000/16700_hr,"['LAFB/LPFB', '_AVB', 'CRBBB']"
+16707,records100/16000/16707_lr,records500/16000/16707_hr,['NST_']
+16712,records100/16000/16712_lr,records500/16000/16712_hr,['IMI']
+16735,records100/16000/16735_lr,records500/16000/16735_hr,"['IVCD', 'STTC']"
+16748,records100/16000/16748_lr,records500/16000/16748_hr,"['LAFB/LPFB', '_AVB', 'RVH', 'CRBBB']"
+16750,records100/16000/16750_lr,records500/16000/16750_hr,['STTC']
+16780,records100/16000/16780_lr,records500/16000/16780_hr,['NORM']
+16782,records100/16000/16782_lr,records500/16000/16782_hr,['AMI']
+16783,records100/16000/16783_lr,records500/16000/16783_hr,"['NST_', 'LAO/LAE', 'LVH']"
+16792,records100/16000/16792_lr,records500/16000/16792_hr,['NORM']
+16803,records100/16000/16803_lr,records500/16000/16803_hr,['NORM']
+16807,records100/16000/16807_lr,records500/16000/16807_hr,"['ISCA', 'AMI']"
+16815,records100/16000/16815_lr,records500/16000/16815_hr,['NORM']
+16817,records100/16000/16817_lr,records500/16000/16817_hr,['NORM']
+16834,records100/16000/16834_lr,records500/16000/16834_hr,[]
+16861,records100/16000/16861_lr,records500/16000/16861_hr,"['LAFB/LPFB', 'IRBBB', 'IMI', 'AMI']"
+16865,records100/16000/16865_lr,records500/16000/16865_hr,['NORM']
+16871,records100/16000/16871_lr,records500/16000/16871_hr,['STTC']
+16876,records100/16000/16876_lr,records500/16000/16876_hr,"['ISC_', 'LVH']"
+16883,records100/16000/16883_lr,records500/16000/16883_hr,['CLBBB']
+16898,records100/16000/16898_lr,records500/16000/16898_hr,"['IMI', '_AVB']"
+16905,records100/16000/16905_lr,records500/16000/16905_hr,"['IMI', 'AMI']"
+16908,records100/16000/16908_lr,records500/16000/16908_hr,['NST_']
+16915,records100/16000/16915_lr,records500/16000/16915_hr,['ISCI']
+16920,records100/16000/16920_lr,records500/16000/16920_hr,['CLBBB']
+16944,records100/16000/16944_lr,records500/16000/16944_hr,['LVH']
+16952,records100/16000/16952_lr,records500/16000/16952_hr,"['IMI', 'AMI']"
+16955,records100/16000/16955_lr,records500/16000/16955_hr,['NORM']
+16975,records100/16000/16975_lr,records500/16000/16975_hr,"['NST_', 'NORM']"
+16993,records100/16000/16993_lr,records500/16000/16993_hr,['NORM']
+16994,records100/16000/16994_lr,records500/16000/16994_hr,['NORM']
+17000,records100/17000/17000_lr,records500/17000/17000_hr,"['LAFB/LPFB', 'AMI']"
+17007,records100/17000/17007_lr,records500/17000/17007_hr,"['LAFB/LPFB', 'AMI']"
+17021,records100/17000/17021_lr,records500/17000/17021_hr,['NORM']
+17083,records100/17000/17083_lr,records500/17000/17083_hr,['IMI']
+17084,records100/17000/17084_lr,records500/17000/17084_hr,['IVCD']
+17091,records100/17000/17091_lr,records500/17000/17091_hr,['IMI']
+17140,records100/17000/17140_lr,records500/17000/17140_hr,['STTC']
+17169,records100/17000/17169_lr,records500/17000/17169_hr,"['IVCD', 'NORM']"
+17176,records100/17000/17176_lr,records500/17000/17176_hr,['NORM']
+17192,records100/17000/17192_lr,records500/17000/17192_hr,"['NORM', 'LAFB/LPFB']"
+17193,records100/17000/17193_lr,records500/17000/17193_hr,['NORM']
+17202,records100/17000/17202_lr,records500/17000/17202_hr,['IRBBB']
+17214,records100/17000/17214_lr,records500/17000/17214_hr,['NORM']
+17226,records100/17000/17226_lr,records500/17000/17226_hr,['LVH']
+17244,records100/17000/17244_lr,records500/17000/17244_hr,['LAFB/LPFB']
+17247,records100/17000/17247_lr,records500/17000/17247_hr,['LAFB/LPFB']
+17252,records100/17000/17252_lr,records500/17000/17252_hr,['STTC']
+17259,records100/17000/17259_lr,records500/17000/17259_hr,['STTC']
+17286,records100/17000/17286_lr,records500/17000/17286_hr,"['ISC_', 'LVH', 'AMI']"
+17290,records100/17000/17290_lr,records500/17000/17290_hr,['NORM']
+17297,records100/17000/17297_lr,records500/17000/17297_hr,['LAFB/LPFB']
+17298,records100/17000/17298_lr,records500/17000/17298_hr,"['STTC', 'LVH']"
+17309,records100/17000/17309_lr,records500/17000/17309_hr,"['ISC_', 'LVH']"
+17316,records100/17000/17316_lr,records500/17000/17316_hr,['ISCA']
+17323,records100/17000/17323_lr,records500/17000/17323_hr,['ISCA']
+17325,records100/17000/17325_lr,records500/17000/17325_hr,['LVH']
+17358,records100/17000/17358_lr,records500/17000/17358_hr,['NORM']
+17370,records100/17000/17370_lr,records500/17000/17370_hr,['NORM']
+17371,records100/17000/17371_lr,records500/17000/17371_hr,['IVCD']
+17386,records100/17000/17386_lr,records500/17000/17386_hr,[]
+17401,records100/17000/17401_lr,records500/17000/17401_hr,"['IMI', '_AVB']"
+17403,records100/17000/17403_lr,records500/17000/17403_hr,"['IMI', 'AMI']"
+17404,records100/17000/17404_lr,records500/17000/17404_hr,"['STTC', 'IMI']"
+17419,records100/17000/17419_lr,records500/17000/17419_hr,['AMI']
+17420,records100/17000/17420_lr,records500/17000/17420_hr,['IMI']
+17430,records100/17000/17430_lr,records500/17000/17430_hr,['IMI']
+17431,records100/17000/17431_lr,records500/17000/17431_hr,"['_AVB', 'IMI', 'AMI']"
+17455,records100/17000/17455_lr,records500/17000/17455_hr,['NORM']
+17482,records100/17000/17482_lr,records500/17000/17482_hr,"['IVCD', 'IMI']"
+17511,records100/17000/17511_lr,records500/17000/17511_hr,['NORM']
+17525,records100/17000/17525_lr,records500/17000/17525_hr,['NORM']
+17536,records100/17000/17536_lr,records500/17000/17536_hr,['STTC']
+17539,records100/17000/17539_lr,records500/17000/17539_hr,"['ILBBB', 'LAFB/LPFB']"
+17547,records100/17000/17547_lr,records500/17000/17547_hr,['NORM']
+17575,records100/17000/17575_lr,records500/17000/17575_hr,['AMI']
+17577,records100/17000/17577_lr,records500/17000/17577_hr,['NORM']
+17590,records100/17000/17590_lr,records500/17000/17590_hr,['ISCI']
+17592,records100/17000/17592_lr,records500/17000/17592_hr,['NORM']
+17593,records100/17000/17593_lr,records500/17000/17593_hr,['NORM']
+17608,records100/17000/17608_lr,records500/17000/17608_hr,['NORM']
+17617,records100/17000/17617_lr,records500/17000/17617_hr,['LAFB/LPFB']
+17621,records100/17000/17621_lr,records500/17000/17621_hr,['NORM']
+17623,records100/17000/17623_lr,records500/17000/17623_hr,['NORM']
+17638,records100/17000/17638_lr,records500/17000/17638_hr,"['SEHYP', 'LVH', 'LAO/LAE', 'LAFB/LPFB']"
+17641,records100/17000/17641_lr,records500/17000/17641_hr,['NORM']
+17648,records100/17000/17648_lr,records500/17000/17648_hr,['STTC']
+17655,records100/17000/17655_lr,records500/17000/17655_hr,['STTC']
+17658,records100/17000/17658_lr,records500/17000/17658_hr,"['LMI', 'ISCI', 'AMI']"
+17661,records100/17000/17661_lr,records500/17000/17661_hr,['NORM']
+17676,records100/17000/17676_lr,records500/17000/17676_hr,['NORM']
+17689,records100/17000/17689_lr,records500/17000/17689_hr,"['NORM', 'IRBBB']"
+17690,records100/17000/17690_lr,records500/17000/17690_hr,"['ISC_', 'CLBBB', 'LVH']"
+17700,records100/17000/17700_lr,records500/17000/17700_hr,"['IVCD', '_AVB']"
+17701,records100/17000/17701_lr,records500/17000/17701_hr,['LVH']
+17711,records100/17000/17711_lr,records500/17000/17711_hr,['NORM']
+17719,records100/17000/17719_lr,records500/17000/17719_hr,"['_AVB', 'CLBBB', 'IMI', 'AMI']"
+17731,records100/17000/17731_lr,records500/17000/17731_hr,['NORM']
+17737,records100/17000/17737_lr,records500/17000/17737_hr,['NORM']
+17739,records100/17000/17739_lr,records500/17000/17739_hr,['NORM']
+17744,records100/17000/17744_lr,records500/17000/17744_hr,"['IMI', 'AMI']"
+17748,records100/17000/17748_lr,records500/17000/17748_hr,['NORM']
+17749,records100/17000/17749_lr,records500/17000/17749_hr,['NORM']
+17780,records100/17000/17780_lr,records500/17000/17780_hr,['NORM']
+17805,records100/17000/17805_lr,records500/17000/17805_hr,['NORM']
+17808,records100/17000/17808_lr,records500/17000/17808_hr,['IMI']
+17818,records100/17000/17818_lr,records500/17000/17818_hr,['STTC']
+17827,records100/17000/17827_lr,records500/17000/17827_hr,['NORM']
+17839,records100/17000/17839_lr,records500/17000/17839_hr,['STTC']
+17860,records100/17000/17860_lr,records500/17000/17860_hr,"['NST_', 'LAFB/LPFB']"
+17865,records100/17000/17865_lr,records500/17000/17865_hr,['NORM']
+17866,records100/17000/17866_lr,records500/17000/17866_hr,"['LVH', 'AMI']"
+17868,records100/17000/17868_lr,records500/17000/17868_hr,"['LVH', 'AMI']"
+17870,records100/17000/17870_lr,records500/17000/17870_hr,"['STTC', 'LAFB/LPFB']"
+17885,records100/17000/17885_lr,records500/17000/17885_hr,['WPW']
+17888,records100/17000/17888_lr,records500/17000/17888_hr,"['IVCD', 'NORM']"
+17891,records100/17000/17891_lr,records500/17000/17891_hr,['NORM']
+17904,records100/17000/17904_lr,records500/17000/17904_hr,"['IMI', 'AMI']"
+17906,records100/17000/17906_lr,records500/17000/17906_hr,['CLBBB']
+17909,records100/17000/17909_lr,records500/17000/17909_hr,['IRBBB']
+17910,records100/17000/17910_lr,records500/17000/17910_hr,['IMI']
+17918,records100/17000/17918_lr,records500/17000/17918_hr,['NORM']
+17919,records100/17000/17919_lr,records500/17000/17919_hr,['NORM']
+17920,records100/17000/17920_lr,records500/17000/17920_hr,"['LAFB/LPFB', 'CRBBB']"
+17921,records100/17000/17921_lr,records500/17000/17921_hr,['NORM']
+17935,records100/17000/17935_lr,records500/17000/17935_hr,['NORM']
+17936,records100/17000/17936_lr,records500/17000/17936_hr,['IRBBB']
+17937,records100/17000/17937_lr,records500/17000/17937_hr,"['LAO/LAE', '_AVB']"
+17951,records100/17000/17951_lr,records500/17000/17951_hr,['AMI']
+17959,records100/17000/17959_lr,records500/17000/17959_hr,['ISCA']
+17970,records100/17000/17970_lr,records500/17000/17970_hr,['NORM']
+17983,records100/17000/17983_lr,records500/17000/17983_hr,['ISCA']
+17995,records100/17000/17995_lr,records500/17000/17995_hr,"['STTC', 'LAO/LAE', '_AVB']"
+17996,records100/17000/17996_lr,records500/17000/17996_hr,['NORM']
+18017,records100/18000/18017_lr,records500/18000/18017_hr,['LVH']
+18019,records100/18000/18019_lr,records500/18000/18019_hr,"['ISCA', 'AMI']"
+18055,records100/18000/18055_lr,records500/18000/18055_hr,['NORM']
+18056,records100/18000/18056_lr,records500/18000/18056_hr,['IMI']
+18057,records100/18000/18057_lr,records500/18000/18057_hr,"['ISCA', 'AMI']"
+18068,records100/18000/18068_lr,records500/18000/18068_hr,['NORM']
+18111,records100/18000/18111_lr,records500/18000/18111_hr,['NORM']
+18121,records100/18000/18121_lr,records500/18000/18121_hr,['IRBBB']
+18131,records100/18000/18131_lr,records500/18000/18131_hr,"['CRBBB', 'IMI', 'AMI']"
+18132,records100/18000/18132_lr,records500/18000/18132_hr,['NORM']
+18134,records100/18000/18134_lr,records500/18000/18134_hr,['NORM']
+18140,records100/18000/18140_lr,records500/18000/18140_hr,"['NST_', 'LAFB/LPFB']"
+18162,records100/18000/18162_lr,records500/18000/18162_hr,"['ISC_', 'LVH']"
+18172,records100/18000/18172_lr,records500/18000/18172_hr,['NORM']
+18175,records100/18000/18175_lr,records500/18000/18175_hr,['NORM']
+18200,records100/18000/18200_lr,records500/18000/18200_hr,['NORM']
+18202,records100/18000/18202_lr,records500/18000/18202_hr,['LAFB/LPFB']
+18232,records100/18000/18232_lr,records500/18000/18232_hr,['NORM']
+18234,records100/18000/18234_lr,records500/18000/18234_hr,"['STTC', 'LVH']"
+18240,records100/18000/18240_lr,records500/18000/18240_hr,['LAFB/LPFB']
+18256,records100/18000/18256_lr,records500/18000/18256_hr,"['NST_', 'IMI']"
+18266,records100/18000/18266_lr,records500/18000/18266_hr,"['NST_', 'NORM']"
+18295,records100/18000/18295_lr,records500/18000/18295_hr,"['LAFB/LPFB', 'AMI']"
+18296,records100/18000/18296_lr,records500/18000/18296_hr,['ISC_']
+18332,records100/18000/18332_lr,records500/18000/18332_hr,"['NORM', 'IRBBB']"
+18363,records100/18000/18363_lr,records500/18000/18363_hr,"['STTC', 'IMI']"
+18364,records100/18000/18364_lr,records500/18000/18364_hr,"['IMI', 'AMI']"
+18365,records100/18000/18365_lr,records500/18000/18365_hr,['NORM']
+18367,records100/18000/18367_lr,records500/18000/18367_hr,['NORM']
+18392,records100/18000/18392_lr,records500/18000/18392_hr,['NORM']
+18416,records100/18000/18416_lr,records500/18000/18416_hr,['NORM']
+18421,records100/18000/18421_lr,records500/18000/18421_hr,"['_AVB', 'IMI', 'AMI']"
+18422,records100/18000/18422_lr,records500/18000/18422_hr,['ISCA']
+18425,records100/18000/18425_lr,records500/18000/18425_hr,['NST_']
+18432,records100/18000/18432_lr,records500/18000/18432_hr,"['IVCD', 'ISC_', 'LVH', 'AMI']"
+18464,records100/18000/18464_lr,records500/18000/18464_hr,['STTC']
+18473,records100/18000/18473_lr,records500/18000/18473_hr,['NORM']
+18490,records100/18000/18490_lr,records500/18000/18490_hr,['IMI']
+18499,records100/18000/18499_lr,records500/18000/18499_hr,['CLBBB']
+18501,records100/18000/18501_lr,records500/18000/18501_hr,['NORM']
+18506,records100/18000/18506_lr,records500/18000/18506_hr,"['IMI', 'AMI']"
+18519,records100/18000/18519_lr,records500/18000/18519_hr,['NORM']
+18520,records100/18000/18520_lr,records500/18000/18520_hr,"['IVCD', 'IMI', 'STTC', 'AMI']"
+18548,records100/18000/18548_lr,records500/18000/18548_hr,"['CLBBB', '_AVB']"
+18592,records100/18000/18592_lr,records500/18000/18592_hr,"['IMI', 'AMI']"
+18612,records100/18000/18612_lr,records500/18000/18612_hr,['NORM']
+18620,records100/18000/18620_lr,records500/18000/18620_hr,['NORM']
+18638,records100/18000/18638_lr,records500/18000/18638_hr,"['IRBBB', '_AVB']"
+18639,records100/18000/18639_lr,records500/18000/18639_hr,['NORM']
+18644,records100/18000/18644_lr,records500/18000/18644_hr,"['LVH', 'AMI']"
+18656,records100/18000/18656_lr,records500/18000/18656_hr,['NORM']
+18661,records100/18000/18661_lr,records500/18000/18661_hr,['NORM']
+18671,records100/18000/18671_lr,records500/18000/18671_hr,"['LAFB/LPFB', 'CRBBB']"
+18673,records100/18000/18673_lr,records500/18000/18673_hr,['NORM']
+18676,records100/18000/18676_lr,records500/18000/18676_hr,"['ISC_', 'LVH']"
+18708,records100/18000/18708_lr,records500/18000/18708_hr,['ISCA']
+18710,records100/18000/18710_lr,records500/18000/18710_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+18712,records100/18000/18712_lr,records500/18000/18712_hr,"['ISC_', 'LVH', 'AMI']"
+18737,records100/18000/18737_lr,records500/18000/18737_hr,['IMI']
+18739,records100/18000/18739_lr,records500/18000/18739_hr,"['IMI', 'AMI']"
+18740,records100/18000/18740_lr,records500/18000/18740_hr,['AMI']
+18742,records100/18000/18742_lr,records500/18000/18742_hr,['NORM']
+18752,records100/18000/18752_lr,records500/18000/18752_hr,"['LAFB/LPFB', 'ISCA', 'AMI']"
+18756,records100/18000/18756_lr,records500/18000/18756_hr,"['ISCA', 'IMI', 'AMI']"
+18758,records100/18000/18758_lr,records500/18000/18758_hr,['IMI']
+18761,records100/18000/18761_lr,records500/18000/18761_hr,['NORM']
+18762,records100/18000/18762_lr,records500/18000/18762_hr,['IMI']
+18775,records100/18000/18775_lr,records500/18000/18775_hr,"['IVCD', 'AMI']"
+18777,records100/18000/18777_lr,records500/18000/18777_hr,['CLBBB']
+18797,records100/18000/18797_lr,records500/18000/18797_hr,"['IRBBB', 'IMI', 'LAFB/LPFB']"
+18802,records100/18000/18802_lr,records500/18000/18802_hr,['NORM']
+18808,records100/18000/18808_lr,records500/18000/18808_hr,['STTC']
+18831,records100/18000/18831_lr,records500/18000/18831_hr,['ILBBB']
+18847,records100/18000/18847_lr,records500/18000/18847_hr,['NORM']
+18859,records100/18000/18859_lr,records500/18000/18859_hr,"['STTC', 'IMI', 'LAFB/LPFB']"
+18882,records100/18000/18882_lr,records500/18000/18882_hr,['NORM']
+18888,records100/18000/18888_lr,records500/18000/18888_hr,['NORM']
+18891,records100/18000/18891_lr,records500/18000/18891_hr,['LAFB/LPFB']
+18914,records100/18000/18914_lr,records500/18000/18914_hr,['IRBBB']
+18916,records100/18000/18916_lr,records500/18000/18916_hr,['CLBBB']
+18937,records100/18000/18937_lr,records500/18000/18937_hr,['STTC']
+18974,records100/18000/18974_lr,records500/18000/18974_hr,['IVCD']
+18982,records100/18000/18982_lr,records500/18000/18982_hr,['NORM']
+19017,records100/19000/19017_lr,records500/19000/19017_hr,['IMI']
+19042,records100/19000/19042_lr,records500/19000/19042_hr,['NORM']
+19053,records100/19000/19053_lr,records500/19000/19053_hr,['IMI']
+19054,records100/19000/19054_lr,records500/19000/19054_hr,['IMI']
+19067,records100/19000/19067_lr,records500/19000/19067_hr,['AMI']
+19074,records100/19000/19074_lr,records500/19000/19074_hr,"['LAFB/LPFB', 'AMI']"
+19077,records100/19000/19077_lr,records500/19000/19077_hr,['NORM']
+19081,records100/19000/19081_lr,records500/19000/19081_hr,"['IRBBB', 'LAFB/LPFB']"
+19097,records100/19000/19097_lr,records500/19000/19097_hr,"['ISCA', 'AMI']"
+19104,records100/19000/19104_lr,records500/19000/19104_hr,['AMI']
+19134,records100/19000/19134_lr,records500/19000/19134_hr,"['_AVB', 'CRBBB']"
+19147,records100/19000/19147_lr,records500/19000/19147_hr,['WPW']
+19164,records100/19000/19164_lr,records500/19000/19164_hr,"['ISCI', '_AVB']"
+19187,records100/19000/19187_lr,records500/19000/19187_hr,['IMI']
+19208,records100/19000/19208_lr,records500/19000/19208_hr,['NORM']
+19209,records100/19000/19209_lr,records500/19000/19209_hr,['STTC']
+19213,records100/19000/19213_lr,records500/19000/19213_hr,['NORM']
+19217,records100/19000/19217_lr,records500/19000/19217_hr,['NORM']
+19226,records100/19000/19226_lr,records500/19000/19226_hr,['STTC']
+19231,records100/19000/19231_lr,records500/19000/19231_hr,['NORM']
+19250,records100/19000/19250_lr,records500/19000/19250_hr,['NST_']
+19251,records100/19000/19251_lr,records500/19000/19251_hr,['STTC']
+19254,records100/19000/19254_lr,records500/19000/19254_hr,['NORM']
+19256,records100/19000/19256_lr,records500/19000/19256_hr,['NORM']
+19267,records100/19000/19267_lr,records500/19000/19267_hr,"['ISC_', 'IRBBB', 'LVH']"
+19268,records100/19000/19268_lr,records500/19000/19268_hr,['ISCI']
+19271,records100/19000/19271_lr,records500/19000/19271_hr,['NORM']
+19286,records100/19000/19286_lr,records500/19000/19286_hr,['NORM']
+19287,records100/19000/19287_lr,records500/19000/19287_hr,['NORM']
+19291,records100/19000/19291_lr,records500/19000/19291_hr,['NORM']
+19293,records100/19000/19293_lr,records500/19000/19293_hr,['NORM']
+19305,records100/19000/19305_lr,records500/19000/19305_hr,['LAFB/LPFB']
+19314,records100/19000/19314_lr,records500/19000/19314_hr,['NORM']
+19316,records100/19000/19316_lr,records500/19000/19316_hr,['IMI']
+19324,records100/19000/19324_lr,records500/19000/19324_hr,['NORM']
+19328,records100/19000/19328_lr,records500/19000/19328_hr,"['ISCA', 'ISCI']"
+19330,records100/19000/19330_lr,records500/19000/19330_hr,['WPW']
+19333,records100/19000/19333_lr,records500/19000/19333_hr,['NORM']
+19334,records100/19000/19334_lr,records500/19000/19334_hr,['IMI']
+19345,records100/19000/19345_lr,records500/19000/19345_hr,['CLBBB']
+19350,records100/19000/19350_lr,records500/19000/19350_hr,['NORM']
+19353,records100/19000/19353_lr,records500/19000/19353_hr,"['IMI', 'AMI']"
+19370,records100/19000/19370_lr,records500/19000/19370_hr,"['IMI', 'AMI']"
+19376,records100/19000/19376_lr,records500/19000/19376_hr,['NORM']
+19388,records100/19000/19388_lr,records500/19000/19388_hr,"['ISCA', 'AMI']"
+19396,records100/19000/19396_lr,records500/19000/19396_hr,"['IMI', 'AMI']"
+19402,records100/19000/19402_lr,records500/19000/19402_hr,['IMI']
+19408,records100/19000/19408_lr,records500/19000/19408_hr,"['ISCA', 'LAFB/LPFB']"
+19409,records100/19000/19409_lr,records500/19000/19409_hr,['IMI']
+19412,records100/19000/19412_lr,records500/19000/19412_hr,['NORM']
+19424,records100/19000/19424_lr,records500/19000/19424_hr,['NORM']
+19427,records100/19000/19427_lr,records500/19000/19427_hr,['STTC']
+19432,records100/19000/19432_lr,records500/19000/19432_hr,['NORM']
+19461,records100/19000/19461_lr,records500/19000/19461_hr,"['IVCD', 'NORM']"
+19466,records100/19000/19466_lr,records500/19000/19466_hr,['NORM']
+19507,records100/19000/19507_lr,records500/19000/19507_hr,"['IMI', 'AMI']"
+19517,records100/19000/19517_lr,records500/19000/19517_hr,['STTC']
+19526,records100/19000/19526_lr,records500/19000/19526_hr,"['ISC_', 'LVH', 'AMI']"
+19547,records100/19000/19547_lr,records500/19000/19547_hr,['STTC']
+19571,records100/19000/19571_lr,records500/19000/19571_hr,"['IMI', 'AMI']"
+19572,records100/19000/19572_lr,records500/19000/19572_hr,['IMI']
+19605,records100/19000/19605_lr,records500/19000/19605_hr,['NORM']
+19661,records100/19000/19661_lr,records500/19000/19661_hr,['IMI']
+19664,records100/19000/19664_lr,records500/19000/19664_hr,"['LAO/LAE', '_AVB']"
+19669,records100/19000/19669_lr,records500/19000/19669_hr,['NORM']
+19670,records100/19000/19670_lr,records500/19000/19670_hr,['NORM']
+19686,records100/19000/19686_lr,records500/19000/19686_hr,"['IMI', 'AMI', 'RAO/RAE', 'RVH', 'LAFB/LPFB']"
+19695,records100/19000/19695_lr,records500/19000/19695_hr,['_AVB']
+19701,records100/19000/19701_lr,records500/19000/19701_hr,['IRBBB']
+19703,records100/19000/19703_lr,records500/19000/19703_hr,['NORM']
+19723,records100/19000/19723_lr,records500/19000/19723_hr,['NORM']
+19726,records100/19000/19726_lr,records500/19000/19726_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+19780,records100/19000/19780_lr,records500/19000/19780_hr,"['LMI', 'LAFB/LPFB']"
+19848,records100/19000/19848_lr,records500/19000/19848_hr,"['IMI', '_AVB']"
+19853,records100/19000/19853_lr,records500/19000/19853_hr,['NORM']
+19858,records100/19000/19858_lr,records500/19000/19858_hr,['CLBBB']
+19867,records100/19000/19867_lr,records500/19000/19867_hr,['NORM']
+19877,records100/19000/19877_lr,records500/19000/19877_hr,['IMI']
+19882,records100/19000/19882_lr,records500/19000/19882_hr,['LAFB/LPFB']
+19884,records100/19000/19884_lr,records500/19000/19884_hr,['NORM']
+19893,records100/19000/19893_lr,records500/19000/19893_hr,['NORM']
+19906,records100/19000/19906_lr,records500/19000/19906_hr,"['LAFB/LPFB', 'CRBBB', 'AMI']"
+19914,records100/19000/19914_lr,records500/19000/19914_hr,['STTC']
+19920,records100/19000/19920_lr,records500/19000/19920_hr,['WPW']
+19924,records100/19000/19924_lr,records500/19000/19924_hr,['NORM']
+19929,records100/19000/19929_lr,records500/19000/19929_hr,['NORM']
+19935,records100/19000/19935_lr,records500/19000/19935_hr,"['IVCD', 'ISCA', 'IMI', 'AMI']"
+19942,records100/19000/19942_lr,records500/19000/19942_hr,['NORM']
+19951,records100/19000/19951_lr,records500/19000/19951_hr,['IRBBB']
+19955,records100/19000/19955_lr,records500/19000/19955_hr,['NORM']
+19956,records100/19000/19956_lr,records500/19000/19956_hr,['IMI']
+19959,records100/19000/19959_lr,records500/19000/19959_hr,['NORM']
+19960,records100/19000/19960_lr,records500/19000/19960_hr,['NORM']
+19981,records100/19000/19981_lr,records500/19000/19981_hr,['NORM']
+19987,records100/19000/19987_lr,records500/19000/19987_hr,['NORM']
+19990,records100/19000/19990_lr,records500/19000/19990_hr,['ISCI']
+20023,records100/20000/20023_lr,records500/20000/20023_hr,['NORM']
+20024,records100/20000/20024_lr,records500/20000/20024_hr,['STTC']
+20037,records100/20000/20037_lr,records500/20000/20037_hr,['NORM']
+20049,records100/20000/20049_lr,records500/20000/20049_hr,['STTC']
+20068,records100/20000/20068_lr,records500/20000/20068_hr,['ISCA']
+20079,records100/20000/20079_lr,records500/20000/20079_hr,"['IMI', 'AMI']"
+20084,records100/20000/20084_lr,records500/20000/20084_hr,"['ISCA', 'ISCI']"
+20085,records100/20000/20085_lr,records500/20000/20085_hr,[]
+20100,records100/20000/20100_lr,records500/20000/20100_hr,['CLBBB']
+20117,records100/20000/20117_lr,records500/20000/20117_hr,['NORM']
+20120,records100/20000/20120_lr,records500/20000/20120_hr,['CLBBB']
+20127,records100/20000/20127_lr,records500/20000/20127_hr,['NORM']
+20141,records100/20000/20141_lr,records500/20000/20141_hr,['LAFB/LPFB']
+20149,records100/20000/20149_lr,records500/20000/20149_hr,['NORM']
+20152,records100/20000/20152_lr,records500/20000/20152_hr,['STTC']
+20198,records100/20000/20198_lr,records500/20000/20198_hr,['NORM']
+20211,records100/20000/20211_lr,records500/20000/20211_hr,['LVH']
+20214,records100/20000/20214_lr,records500/20000/20214_hr,"['ILBBB', 'ISC_', 'LVH', 'AMI']"
+20220,records100/20000/20220_lr,records500/20000/20220_hr,['NORM']
+20224,records100/20000/20224_lr,records500/20000/20224_hr,"['CLBBB', 'AMI']"
+20236,records100/20000/20236_lr,records500/20000/20236_hr,"['ISC_', 'LVH']"
+20240,records100/20000/20240_lr,records500/20000/20240_hr,"['ISCA', 'AMI']"
+20241,records100/20000/20241_lr,records500/20000/20241_hr,['NORM']
+20242,records100/20000/20242_lr,records500/20000/20242_hr,['LVH']
+20252,records100/20000/20252_lr,records500/20000/20252_hr,['CRBBB']
+20280,records100/20000/20280_lr,records500/20000/20280_hr,['NORM']
+20288,records100/20000/20288_lr,records500/20000/20288_hr,['IMI']
+20301,records100/20000/20301_lr,records500/20000/20301_hr,"['LAFB/LPFB', 'CRBBB', 'AMI']"
+20313,records100/20000/20313_lr,records500/20000/20313_hr,"['LAFB/LPFB', 'AMI']"
+20317,records100/20000/20317_lr,records500/20000/20317_hr,"['IMI', 'AMI']"
+20330,records100/20000/20330_lr,records500/20000/20330_hr,['IMI']
+20356,records100/20000/20356_lr,records500/20000/20356_hr,['NORM']
+20369,records100/20000/20369_lr,records500/20000/20369_hr,['LVH']
+20387,records100/20000/20387_lr,records500/20000/20387_hr,['NORM']
+20401,records100/20000/20401_lr,records500/20000/20401_hr,['NORM']
+20402,records100/20000/20402_lr,records500/20000/20402_hr,['NORM']
+20406,records100/20000/20406_lr,records500/20000/20406_hr,[]
+20515,records100/20000/20515_lr,records500/20000/20515_hr,"['_AVB', 'IMI', 'AMI']"
+20523,records100/20000/20523_lr,records500/20000/20523_hr,['NORM']
+20536,records100/20000/20536_lr,records500/20000/20536_hr,"['_AVB', 'AMI']"
+20549,records100/20000/20549_lr,records500/20000/20549_hr,['NORM']
+20563,records100/20000/20563_lr,records500/20000/20563_hr,['STTC']
+20566,records100/20000/20566_lr,records500/20000/20566_hr,"['ISCA', 'ISCI']"
+20576,records100/20000/20576_lr,records500/20000/20576_hr,['NORM']
+20602,records100/20000/20602_lr,records500/20000/20602_hr,"['STTC', 'LAFB/LPFB']"
+20603,records100/20000/20603_lr,records500/20000/20603_hr,['NORM']
+20624,records100/20000/20624_lr,records500/20000/20624_hr,['NORM']
+20646,records100/20000/20646_lr,records500/20000/20646_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+20671,records100/20000/20671_lr,records500/20000/20671_hr,['NORM']
+20674,records100/20000/20674_lr,records500/20000/20674_hr,['CRBBB']
+20684,records100/20000/20684_lr,records500/20000/20684_hr,['NORM']
+20724,records100/20000/20724_lr,records500/20000/20724_hr,['NORM']
+20730,records100/20000/20730_lr,records500/20000/20730_hr,['NORM']
+20753,records100/20000/20753_lr,records500/20000/20753_hr,['STTC']
+20775,records100/20000/20775_lr,records500/20000/20775_hr,['IMI']
+20776,records100/20000/20776_lr,records500/20000/20776_hr,['STTC']
+20801,records100/20000/20801_lr,records500/20000/20801_hr,['STTC']
+20831,records100/20000/20831_lr,records500/20000/20831_hr,['NORM']
+20865,records100/20000/20865_lr,records500/20000/20865_hr,"['LAFB/LPFB', 'IMI', 'AMI']"
+20873,records100/20000/20873_lr,records500/20000/20873_hr,"['ISCA', 'ISCI']"
+20887,records100/20000/20887_lr,records500/20000/20887_hr,['NORM']
+20891,records100/20000/20891_lr,records500/20000/20891_hr,['NORM']
+20893,records100/20000/20893_lr,records500/20000/20893_hr,['CLBBB']
+20902,records100/20000/20902_lr,records500/20000/20902_hr,"['LAFB/LPFB', '_AVB', 'IMI', 'CRBBB']"
+20905,records100/20000/20905_lr,records500/20000/20905_hr,['NORM']
+20939,records100/20000/20939_lr,records500/20000/20939_hr,['STTC']
+20943,records100/20000/20943_lr,records500/20000/20943_hr,['NORM']
+20950,records100/20000/20950_lr,records500/20000/20950_hr,"['CLBBB', 'LAO/LAE', '_AVB']"
+20958,records100/20000/20958_lr,records500/20000/20958_hr,"['IMI', 'AMI']"
+20966,records100/20000/20966_lr,records500/20000/20966_hr,['CLBBB']
+20974,records100/20000/20974_lr,records500/20000/20974_hr,['IMI']
+21004,records100/21000/21004_lr,records500/21000/21004_hr,"['ISCA', 'IMI']"
+21011,records100/21000/21011_lr,records500/21000/21011_hr,['IVCD']
+21017,records100/21000/21017_lr,records500/21000/21017_hr,['STTC']
+21021,records100/21000/21021_lr,records500/21000/21021_hr,"['ISC_', 'LVH']"
+21028,records100/21000/21028_lr,records500/21000/21028_hr,['AMI']
+21036,records100/21000/21036_lr,records500/21000/21036_hr,['NORM']
+21071,records100/21000/21071_lr,records500/21000/21071_hr,[]
+21085,records100/21000/21085_lr,records500/21000/21085_hr,['CLBBB']
+21093,records100/21000/21093_lr,records500/21000/21093_hr,['CLBBB']
+21099,records100/21000/21099_lr,records500/21000/21099_hr,['ISCI']
+21104,records100/21000/21104_lr,records500/21000/21104_hr,"['ISC_', 'IMI', 'LVH']"
+21111,records100/21000/21111_lr,records500/21000/21111_hr,"['LAFB/LPFB', 'CRBBB']"
+21148,records100/21000/21148_lr,records500/21000/21148_hr,['CLBBB']
+21163,records100/21000/21163_lr,records500/21000/21163_hr,"['LMI', 'CLBBB']"
+21173,records100/21000/21173_lr,records500/21000/21173_hr,"['ISC_', 'IMI', 'LVH']"
+21177,records100/21000/21177_lr,records500/21000/21177_hr,['NORM']
+21181,records100/21000/21181_lr,records500/21000/21181_hr,['CLBBB']
+21205,records100/21000/21205_lr,records500/21000/21205_hr,['AMI']
+21306,records100/21000/21306_lr,records500/21000/21306_hr,['IMI']
+21325,records100/21000/21325_lr,records500/21000/21325_hr,"['LVH', 'LAFB/LPFB']"
+21363,records100/21000/21363_lr,records500/21000/21363_hr,"['IMI', 'AMI']"
+21385,records100/21000/21385_lr,records500/21000/21385_hr,['NORM']
+21391,records100/21000/21391_lr,records500/21000/21391_hr,['NORM']
+21431,records100/21000/21431_lr,records500/21000/21431_hr,"['ISC_', 'IRBBB', 'LVH']"
+21444,records100/21000/21444_lr,records500/21000/21444_hr,['NORM']
+21555,records100/21000/21555_lr,records500/21000/21555_hr,"['ISC_', 'LVH']"
+21584,records100/21000/21584_lr,records500/21000/21584_hr,['AMI']
+21622,records100/21000/21622_lr,records500/21000/21622_hr,['NORM']
+21673,records100/21000/21673_lr,records500/21000/21673_hr,"['ISCA', 'LVH']"
+21675,records100/21000/21675_lr,records500/21000/21675_hr,"['IVCD', 'ISC_', 'LVH']"
+21764,records100/21000/21764_lr,records500/21000/21764_hr,"['LAFB/LPFB', 'AMI']"
+21796,records100/21000/21796_lr,records500/21000/21796_hr,"['IRBBB', 'IMI', 'AMI']"
+21809,records100/21000/21809_lr,records500/21000/21809_hr,['NORM']
+21812,records100/21000/21812_lr,records500/21000/21812_hr,"['LAFB/LPFB', '_AVB', 'CRBBB']"
+21818,records100/21000/21818_lr,records500/21000/21818_hr,['NORM']
+21819,records100/21000/21819_lr,records500/21000/21819_hr,"['IRBBB', 'LAFB/LPFB']"
+21826,records100/21000/21826_lr,records500/21000/21826_hr,['IMI']

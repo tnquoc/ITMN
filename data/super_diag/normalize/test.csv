@@ -1,0 +1,2159 @@
+filename_lr,filename_hr,diagnostic_superclass
+records100/00000/00009_lr,records500/00000/00009_hr,['NORM']
+records100/00000/00038_lr,records500/00000/00038_hr,['NORM']
+records100/00000/00040_lr,records500/00000/00040_hr,['NORM']
+records100/00000/00057_lr,records500/00000/00057_hr,['NORM']
+records100/00000/00059_lr,records500/00000/00059_hr,['NORM']
+records100/00000/00063_lr,records500/00000/00063_hr,['MI']
+records100/00000/00065_lr,records500/00000/00065_hr,['CD']
+records100/00000/00075_lr,records500/00000/00075_hr,['NORM']
+records100/00000/00076_lr,records500/00000/00076_hr,['NORM']
+records100/00000/00079_lr,records500/00000/00079_hr,['NORM']
+records100/00000/00093_lr,records500/00000/00093_hr,['NORM']
+records100/00000/00100_lr,records500/00000/00100_hr,['NORM']
+records100/00000/00112_lr,records500/00000/00112_hr,['NORM']
+records100/00000/00115_lr,records500/00000/00115_hr,['NORM']
+records100/00000/00116_lr,records500/00000/00116_hr,['STTC']
+records100/00000/00117_lr,records500/00000/00117_hr,['NORM']
+records100/00000/00119_lr,records500/00000/00119_hr,['NORM']
+records100/00000/00121_lr,records500/00000/00121_hr,['NORM']
+records100/00000/00122_lr,records500/00000/00122_hr,['NORM']
+records100/00000/00128_lr,records500/00000/00128_hr,['STTC']
+records100/00000/00129_lr,records500/00000/00129_hr,['NORM']
+records100/00000/00132_lr,records500/00000/00132_hr,['NORM']
+records100/00000/00157_lr,records500/00000/00157_hr,['CD']
+records100/00000/00160_lr,records500/00000/00160_hr,['STTC']
+records100/00000/00162_lr,records500/00000/00162_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/00000/00167_lr,records500/00000/00167_hr,['STTC']
+records100/00000/00172_lr,records500/00000/00172_hr,['CD']
+records100/00000/00175_lr,records500/00000/00175_hr,['MI']
+records100/00000/00180_lr,records500/00000/00180_hr,['CD']
+records100/00000/00201_lr,records500/00000/00201_hr,['NORM']
+records100/00000/00203_lr,records500/00000/00203_hr,['NORM']
+records100/00000/00208_lr,records500/00000/00208_hr,['NORM']
+records100/00000/00210_lr,records500/00000/00210_hr,['MI']
+records100/00000/00218_lr,records500/00000/00218_hr,"['NORM', 'CD']"
+records100/00000/00240_lr,records500/00000/00240_hr,['MI']
+records100/00000/00241_lr,records500/00000/00241_hr,['NORM']
+records100/00000/00243_lr,records500/00000/00243_hr,['NORM']
+records100/00000/00245_lr,records500/00000/00245_hr,['NORM']
+records100/00000/00252_lr,records500/00000/00252_hr,['NORM']
+records100/00000/00271_lr,records500/00000/00271_hr,"['HYP', 'MI', 'STTC']"
+records100/00000/00274_lr,records500/00000/00274_hr,"['HYP', 'MI', 'STTC']"
+records100/00000/00299_lr,records500/00000/00299_hr,"['HYP', 'STTC']"
+records100/00000/00318_lr,records500/00000/00318_hr,['STTC']
+records100/00000/00334_lr,records500/00000/00334_hr,['NORM']
+records100/00000/00336_lr,records500/00000/00336_hr,"['HYP', 'STTC']"
+records100/00000/00347_lr,records500/00000/00347_hr,"['HYP', 'STTC', 'CD']"
+records100/00000/00361_lr,records500/00000/00361_hr,['NORM']
+records100/00000/00364_lr,records500/00000/00364_hr,['NORM']
+records100/00000/00377_lr,records500/00000/00377_hr,['CD']
+records100/00000/00378_lr,records500/00000/00378_hr,['CD']
+records100/00000/00388_lr,records500/00000/00388_hr,['STTC']
+records100/00000/00397_lr,records500/00000/00397_hr,['NORM']
+records100/00000/00400_lr,records500/00000/00400_hr,['STTC']
+records100/00000/00405_lr,records500/00000/00405_hr,['NORM']
+records100/00000/00417_lr,records500/00000/00417_hr,['NORM']
+records100/00000/00427_lr,records500/00000/00427_hr,['STTC']
+records100/00000/00430_lr,records500/00000/00430_hr,['MI']
+records100/00000/00440_lr,records500/00000/00440_hr,['NORM']
+records100/00000/00448_lr,records500/00000/00448_hr,['CD']
+records100/00000/00452_lr,records500/00000/00452_hr,"['HYP', 'STTC']"
+records100/00000/00472_lr,records500/00000/00472_hr,['NORM']
+records100/00000/00473_lr,records500/00000/00473_hr,['NORM']
+records100/00000/00478_lr,records500/00000/00478_hr,"['NORM', 'CD']"
+records100/00000/00499_lr,records500/00000/00499_hr,['STTC']
+records100/00000/00504_lr,records500/00000/00504_hr,['NORM']
+records100/00000/00512_lr,records500/00000/00512_hr,"['MI', 'CD']"
+records100/00000/00514_lr,records500/00000/00514_hr,['MI']
+records100/00000/00516_lr,records500/00000/00516_hr,"['HYP', 'STTC']"
+records100/00000/00526_lr,records500/00000/00526_hr,['MI']
+records100/00000/00527_lr,records500/00000/00527_hr,"['STTC', 'CD']"
+records100/00000/00534_lr,records500/00000/00534_hr,"['HYP', 'STTC']"
+records100/00000/00559_lr,records500/00000/00559_hr,['NORM']
+records100/00000/00564_lr,records500/00000/00564_hr,"['MI', 'STTC']"
+records100/00000/00569_lr,records500/00000/00569_hr,"['STTC', 'CD']"
+records100/00000/00570_lr,records500/00000/00570_hr,['NORM']
+records100/00000/00573_lr,records500/00000/00573_hr,"['HYP', 'STTC']"
+records100/00000/00581_lr,records500/00000/00581_hr,"['MI', 'STTC', 'CD']"
+records100/00000/00582_lr,records500/00000/00582_hr,['NORM']
+records100/00000/00584_lr,records500/00000/00584_hr,['NORM']
+records100/00000/00598_lr,records500/00000/00598_hr,['CD']
+records100/00000/00611_lr,records500/00000/00611_hr,['NORM']
+records100/00000/00618_lr,records500/00000/00618_hr,['CD']
+records100/00000/00619_lr,records500/00000/00619_hr,['NORM']
+records100/00000/00658_lr,records500/00000/00658_hr,['CD']
+records100/00000/00685_lr,records500/00000/00685_hr,"['MI', 'CD']"
+records100/00000/00687_lr,records500/00000/00687_hr,['NORM']
+records100/00000/00688_lr,records500/00000/00688_hr,"['STTC', 'CD']"
+records100/00000/00694_lr,records500/00000/00694_hr,['NORM']
+records100/00000/00696_lr,records500/00000/00696_hr,['NORM']
+records100/00000/00707_lr,records500/00000/00707_hr,['STTC']
+records100/00000/00723_lr,records500/00000/00723_hr,"['MI', 'STTC']"
+records100/00000/00726_lr,records500/00000/00726_hr,"['NORM', 'CD']"
+records100/00000/00732_lr,records500/00000/00732_hr,['NORM']
+records100/00000/00751_lr,records500/00000/00751_hr,['NORM']
+records100/00000/00756_lr,records500/00000/00756_hr,['STTC']
+records100/00000/00758_lr,records500/00000/00758_hr,['NORM']
+records100/00000/00764_lr,records500/00000/00764_hr,['NORM']
+records100/00000/00765_lr,records500/00000/00765_hr,['MI']
+records100/00000/00775_lr,records500/00000/00775_hr,['NORM']
+records100/00000/00779_lr,records500/00000/00779_hr,['NORM']
+records100/00000/00789_lr,records500/00000/00789_hr,['CD']
+records100/00000/00795_lr,records500/00000/00795_hr,['NORM']
+records100/00000/00799_lr,records500/00000/00799_hr,['MI']
+records100/00000/00805_lr,records500/00000/00805_hr,['NORM']
+records100/00000/00806_lr,records500/00000/00806_hr,['CD']
+records100/00000/00821_lr,records500/00000/00821_hr,['MI']
+records100/00000/00848_lr,records500/00000/00848_hr,['NORM']
+records100/00000/00854_lr,records500/00000/00854_hr,"['MI', 'STTC']"
+records100/00000/00861_lr,records500/00000/00861_hr,['STTC']
+records100/00000/00886_lr,records500/00000/00886_hr,['NORM']
+records100/00000/00892_lr,records500/00000/00892_hr,['NORM']
+records100/00000/00911_lr,records500/00000/00911_hr,['NORM']
+records100/00000/00917_lr,records500/00000/00917_hr,['NORM']
+records100/00000/00928_lr,records500/00000/00928_hr,['NORM']
+records100/00000/00931_lr,records500/00000/00931_hr,"['NORM', 'CD']"
+records100/00000/00935_lr,records500/00000/00935_hr,['NORM']
+records100/00000/00943_lr,records500/00000/00943_hr,"['HYP', 'MI']"
+records100/00000/00947_lr,records500/00000/00947_hr,['MI']
+records100/00000/00949_lr,records500/00000/00949_hr,['NORM']
+records100/00000/00950_lr,records500/00000/00950_hr,['CD']
+records100/00000/00952_lr,records500/00000/00952_hr,['NORM']
+records100/00000/00958_lr,records500/00000/00958_hr,['NORM']
+records100/00000/00959_lr,records500/00000/00959_hr,"['MI', 'CD']"
+records100/00000/00963_lr,records500/00000/00963_hr,['STTC']
+records100/00000/00968_lr,records500/00000/00968_hr,['MI']
+records100/00000/00975_lr,records500/00000/00975_hr,"['MI', 'CD']"
+records100/01000/01009_lr,records500/01000/01009_hr,['STTC']
+records100/01000/01013_lr,records500/01000/01013_hr,"['HYP', 'STTC']"
+records100/01000/01014_lr,records500/01000/01014_hr,"['MI', 'CD']"
+records100/01000/01016_lr,records500/01000/01016_hr,['NORM']
+records100/01000/01031_lr,records500/01000/01031_hr,['NORM']
+records100/01000/01051_lr,records500/01000/01051_hr,['NORM']
+records100/01000/01054_lr,records500/01000/01054_hr,['NORM']
+records100/01000/01056_lr,records500/01000/01056_hr,"['MI', 'CD']"
+records100/01000/01061_lr,records500/01000/01061_hr,['NORM']
+records100/01000/01068_lr,records500/01000/01068_hr,['STTC']
+records100/01000/01078_lr,records500/01000/01078_hr,['NORM']
+records100/01000/01084_lr,records500/01000/01084_hr,['NORM']
+records100/01000/01093_lr,records500/01000/01093_hr,"['MI', 'STTC', 'CD']"
+records100/01000/01094_lr,records500/01000/01094_hr,['NORM']
+records100/01000/01100_lr,records500/01000/01100_hr,['NORM']
+records100/01000/01101_lr,records500/01000/01101_hr,['NORM']
+records100/01000/01113_lr,records500/01000/01113_hr,['NORM']
+records100/01000/01120_lr,records500/01000/01120_hr,['CD']
+records100/01000/01133_lr,records500/01000/01133_hr,['NORM']
+records100/01000/01147_lr,records500/01000/01147_hr,['NORM']
+records100/01000/01157_lr,records500/01000/01157_hr,"['MI', 'CD']"
+records100/01000/01158_lr,records500/01000/01158_hr,['NORM']
+records100/01000/01166_lr,records500/01000/01166_hr,['NORM']
+records100/01000/01169_lr,records500/01000/01169_hr,['NORM']
+records100/01000/01172_lr,records500/01000/01172_hr,['NORM']
+records100/01000/01175_lr,records500/01000/01175_hr,['STTC']
+records100/01000/01186_lr,records500/01000/01186_hr,['NORM']
+records100/01000/01197_lr,records500/01000/01197_hr,['NORM']
+records100/01000/01200_lr,records500/01000/01200_hr,"['MI', 'CD']"
+records100/01000/01219_lr,records500/01000/01219_hr,['HYP']
+records100/01000/01220_lr,records500/01000/01220_hr,"['NORM', 'CD']"
+records100/01000/01246_lr,records500/01000/01246_hr,['NORM']
+records100/01000/01251_lr,records500/01000/01251_hr,['NORM']
+records100/01000/01266_lr,records500/01000/01266_hr,['NORM']
+records100/01000/01268_lr,records500/01000/01268_hr,['STTC']
+records100/01000/01275_lr,records500/01000/01275_hr,['MI']
+records100/01000/01280_lr,records500/01000/01280_hr,['NORM']
+records100/01000/01282_lr,records500/01000/01282_hr,['NORM']
+records100/01000/01287_lr,records500/01000/01287_hr,['NORM']
+records100/01000/01307_lr,records500/01000/01307_hr,['HYP']
+records100/01000/01311_lr,records500/01000/01311_hr,['NORM']
+records100/01000/01315_lr,records500/01000/01315_hr,['NORM']
+records100/01000/01320_lr,records500/01000/01320_hr,"['HYP', 'MI', 'STTC']"
+records100/01000/01343_lr,records500/01000/01343_hr,['MI']
+records100/01000/01351_lr,records500/01000/01351_hr,['NORM']
+records100/01000/01353_lr,records500/01000/01353_hr,['NORM']
+records100/01000/01355_lr,records500/01000/01355_hr,['NORM']
+records100/01000/01377_lr,records500/01000/01377_hr,['STTC']
+records100/01000/01386_lr,records500/01000/01386_hr,['HYP']
+records100/01000/01391_lr,records500/01000/01391_hr,"['MI', 'CD']"
+records100/01000/01394_lr,records500/01000/01394_hr,['STTC']
+records100/01000/01405_lr,records500/01000/01405_hr,['MI']
+records100/01000/01416_lr,records500/01000/01416_hr,['CD']
+records100/01000/01424_lr,records500/01000/01424_hr,"['STTC', 'CD']"
+records100/01000/01426_lr,records500/01000/01426_hr,"['HYP', 'STTC']"
+records100/01000/01429_lr,records500/01000/01429_hr,['STTC']
+records100/01000/01447_lr,records500/01000/01447_hr,"['HYP', 'MI']"
+records100/01000/01456_lr,records500/01000/01456_hr,['STTC']
+records100/01000/01458_lr,records500/01000/01458_hr,['NORM']
+records100/01000/01468_lr,records500/01000/01468_hr,['NORM']
+records100/01000/01479_lr,records500/01000/01479_hr,['NORM']
+records100/01000/01480_lr,records500/01000/01480_hr,"['HYP', 'MI', 'STTC']"
+records100/01000/01487_lr,records500/01000/01487_hr,['NORM']
+records100/01000/01491_lr,records500/01000/01491_hr,['NORM']
+records100/01000/01494_lr,records500/01000/01494_hr,['NORM']
+records100/01000/01498_lr,records500/01000/01498_hr,['NORM']
+records100/01000/01522_lr,records500/01000/01522_hr,['HYP']
+records100/01000/01534_lr,records500/01000/01534_hr,['HYP']
+records100/01000/01556_lr,records500/01000/01556_hr,"['HYP', 'MI']"
+records100/01000/01564_lr,records500/01000/01564_hr,['CD']
+records100/01000/01571_lr,records500/01000/01571_hr,"['MI', 'CD']"
+records100/01000/01589_lr,records500/01000/01589_hr,['NORM']
+records100/01000/01617_lr,records500/01000/01617_hr,['NORM']
+records100/01000/01618_lr,records500/01000/01618_hr,['NORM']
+records100/01000/01624_lr,records500/01000/01624_hr,['STTC']
+records100/01000/01630_lr,records500/01000/01630_hr,['NORM']
+records100/01000/01632_lr,records500/01000/01632_hr,['NORM']
+records100/01000/01639_lr,records500/01000/01639_hr,['NORM']
+records100/01000/01655_lr,records500/01000/01655_hr,['NORM']
+records100/01000/01697_lr,records500/01000/01697_hr,['NORM']
+records100/01000/01700_lr,records500/01000/01700_hr,['NORM']
+records100/01000/01705_lr,records500/01000/01705_hr,['NORM']
+records100/01000/01708_lr,records500/01000/01708_hr,['NORM']
+records100/01000/01736_lr,records500/01000/01736_hr,['STTC']
+records100/01000/01737_lr,records500/01000/01737_hr,['MI']
+records100/01000/01741_lr,records500/01000/01741_hr,['NORM']
+records100/01000/01745_lr,records500/01000/01745_hr,['HYP']
+records100/01000/01746_lr,records500/01000/01746_hr,['NORM']
+records100/01000/01747_lr,records500/01000/01747_hr,['MI']
+records100/01000/01753_lr,records500/01000/01753_hr,['MI']
+records100/01000/01757_lr,records500/01000/01757_hr,['NORM']
+records100/01000/01769_lr,records500/01000/01769_hr,['MI']
+records100/01000/01775_lr,records500/01000/01775_hr,['NORM']
+records100/01000/01780_lr,records500/01000/01780_hr,['NORM']
+records100/01000/01785_lr,records500/01000/01785_hr,['HYP']
+records100/01000/01790_lr,records500/01000/01790_hr,['NORM']
+records100/01000/01792_lr,records500/01000/01792_hr,['STTC']
+records100/01000/01812_lr,records500/01000/01812_hr,['MI']
+records100/01000/01825_lr,records500/01000/01825_hr,['NORM']
+records100/01000/01835_lr,records500/01000/01835_hr,['NORM']
+records100/01000/01838_lr,records500/01000/01838_hr,['NORM']
+records100/01000/01843_lr,records500/01000/01843_hr,['NORM']
+records100/01000/01850_lr,records500/01000/01850_hr,['NORM']
+records100/01000/01853_lr,records500/01000/01853_hr,['MI']
+records100/01000/01857_lr,records500/01000/01857_hr,['NORM']
+records100/01000/01860_lr,records500/01000/01860_hr,['NORM']
+records100/01000/01864_lr,records500/01000/01864_hr,"['HYP', 'STTC']"
+records100/01000/01867_lr,records500/01000/01867_hr,['NORM']
+records100/01000/01870_lr,records500/01000/01870_hr,['NORM']
+records100/01000/01885_lr,records500/01000/01885_hr,['NORM']
+records100/01000/01899_lr,records500/01000/01899_hr,['NORM']
+records100/01000/01901_lr,records500/01000/01901_hr,['MI']
+records100/01000/01920_lr,records500/01000/01920_hr,['STTC']
+records100/01000/01933_lr,records500/01000/01933_hr,['NORM']
+records100/01000/01938_lr,records500/01000/01938_hr,['NORM']
+records100/01000/01940_lr,records500/01000/01940_hr,"['STTC', 'CD']"
+records100/01000/01944_lr,records500/01000/01944_hr,"['MI', 'STTC']"
+records100/01000/01946_lr,records500/01000/01946_hr,['NORM']
+records100/01000/01950_lr,records500/01000/01950_hr,['MI']
+records100/01000/01958_lr,records500/01000/01958_hr,['NORM']
+records100/01000/01961_lr,records500/01000/01961_hr,"['HYP', 'MI']"
+records100/01000/01972_lr,records500/01000/01972_hr,['NORM']
+records100/01000/01988_lr,records500/01000/01988_hr,['NORM']
+records100/01000/01993_lr,records500/01000/01993_hr,['NORM']
+records100/01000/01994_lr,records500/01000/01994_hr,['STTC']
+records100/01000/01998_lr,records500/01000/01998_hr,"['MI', 'STTC', 'CD']"
+records100/02000/02019_lr,records500/02000/02019_hr,"['MI', 'CD']"
+records100/02000/02039_lr,records500/02000/02039_hr,['STTC']
+records100/02000/02045_lr,records500/02000/02045_hr,['NORM']
+records100/02000/02050_lr,records500/02000/02050_hr,"['MI', 'STTC']"
+records100/02000/02055_lr,records500/02000/02055_hr,"['MI', 'STTC']"
+records100/02000/02064_lr,records500/02000/02064_hr,['STTC']
+records100/02000/02083_lr,records500/02000/02083_hr,['NORM']
+records100/02000/02101_lr,records500/02000/02101_hr,['STTC']
+records100/02000/02103_lr,records500/02000/02103_hr,"['HYP', 'STTC']"
+records100/02000/02104_lr,records500/02000/02104_hr,"['HYP', 'MI', 'STTC']"
+records100/02000/02110_lr,records500/02000/02110_hr,['STTC']
+records100/02000/02119_lr,records500/02000/02119_hr,['HYP']
+records100/02000/02144_lr,records500/02000/02144_hr,['NORM']
+records100/02000/02146_lr,records500/02000/02146_hr,['CD']
+records100/02000/02151_lr,records500/02000/02151_hr,['STTC']
+records100/02000/02153_lr,records500/02000/02153_hr,['CD']
+records100/02000/02158_lr,records500/02000/02158_hr,['NORM']
+records100/02000/02160_lr,records500/02000/02160_hr,['STTC']
+records100/02000/02170_lr,records500/02000/02170_hr,['STTC']
+records100/02000/02180_lr,records500/02000/02180_hr,['STTC']
+records100/02000/02192_lr,records500/02000/02192_hr,['NORM']
+records100/02000/02193_lr,records500/02000/02193_hr,['NORM']
+records100/02000/02203_lr,records500/02000/02203_hr,['NORM']
+records100/02000/02210_lr,records500/02000/02210_hr,['STTC']
+records100/02000/02213_lr,records500/02000/02213_hr,"['HYP', 'STTC']"
+records100/02000/02221_lr,records500/02000/02221_hr,"['MI', 'STTC']"
+records100/02000/02224_lr,records500/02000/02224_hr,['NORM']
+records100/02000/02226_lr,records500/02000/02226_hr,['NORM']
+records100/02000/02235_lr,records500/02000/02235_hr,['MI']
+records100/02000/02238_lr,records500/02000/02238_hr,['NORM']
+records100/02000/02252_lr,records500/02000/02252_hr,['CD']
+records100/02000/02267_lr,records500/02000/02267_hr,['NORM']
+records100/02000/02270_lr,records500/02000/02270_hr,['NORM']
+records100/02000/02277_lr,records500/02000/02277_hr,['NORM']
+records100/02000/02279_lr,records500/02000/02279_hr,"['STTC', 'CD']"
+records100/02000/02281_lr,records500/02000/02281_hr,['CD']
+records100/02000/02282_lr,records500/02000/02282_hr,['NORM']
+records100/02000/02285_lr,records500/02000/02285_hr,['CD']
+records100/02000/02293_lr,records500/02000/02293_hr,['STTC']
+records100/02000/02302_lr,records500/02000/02302_hr,['NORM']
+records100/02000/02317_lr,records500/02000/02317_hr,"['HYP', 'STTC']"
+records100/02000/02322_lr,records500/02000/02322_hr,"['HYP', 'MI', 'STTC']"
+records100/02000/02324_lr,records500/02000/02324_hr,"['HYP', 'MI', 'CD']"
+records100/02000/02341_lr,records500/02000/02341_hr,['NORM']
+records100/02000/02345_lr,records500/02000/02345_hr,"['MI', 'CD']"
+records100/02000/02355_lr,records500/02000/02355_hr,['NORM']
+records100/02000/02368_lr,records500/02000/02368_hr,"['NORM', 'CD']"
+records100/02000/02369_lr,records500/02000/02369_hr,['NORM']
+records100/02000/02370_lr,records500/02000/02370_hr,['CD']
+records100/02000/02375_lr,records500/02000/02375_hr,['CD']
+records100/02000/02379_lr,records500/02000/02379_hr,['NORM']
+records100/02000/02381_lr,records500/02000/02381_hr,['STTC']
+records100/02000/02386_lr,records500/02000/02386_hr,['NORM']
+records100/02000/02387_lr,records500/02000/02387_hr,['NORM']
+records100/02000/02390_lr,records500/02000/02390_hr,['STTC']
+records100/02000/02403_lr,records500/02000/02403_hr,['STTC']
+records100/02000/02409_lr,records500/02000/02409_hr,"['HYP', 'CD']"
+records100/02000/02416_lr,records500/02000/02416_hr,['NORM']
+records100/02000/02417_lr,records500/02000/02417_hr,['HYP']
+records100/02000/02419_lr,records500/02000/02419_hr,['CD']
+records100/02000/02422_lr,records500/02000/02422_hr,['MI']
+records100/02000/02427_lr,records500/02000/02427_hr,['NORM']
+records100/02000/02432_lr,records500/02000/02432_hr,['NORM']
+records100/02000/02433_lr,records500/02000/02433_hr,['CD']
+records100/02000/02449_lr,records500/02000/02449_hr,['NORM']
+records100/02000/02455_lr,records500/02000/02455_hr,['NORM']
+records100/02000/02473_lr,records500/02000/02473_hr,['HYP']
+records100/02000/02476_lr,records500/02000/02476_hr,['NORM']
+records100/02000/02492_lr,records500/02000/02492_hr,['MI']
+records100/02000/02507_lr,records500/02000/02507_hr,['NORM']
+records100/02000/02549_lr,records500/02000/02549_hr,"['MI', 'STTC']"
+records100/02000/02550_lr,records500/02000/02550_hr,"['NORM', 'CD']"
+records100/02000/02551_lr,records500/02000/02551_hr,['NORM']
+records100/02000/02556_lr,records500/02000/02556_hr,['STTC']
+records100/02000/02560_lr,records500/02000/02560_hr,['NORM']
+records100/02000/02561_lr,records500/02000/02561_hr,['MI']
+records100/02000/02565_lr,records500/02000/02565_hr,"['HYP', 'STTC']"
+records100/02000/02569_lr,records500/02000/02569_hr,['MI']
+records100/02000/02579_lr,records500/02000/02579_hr,['NORM']
+records100/02000/02596_lr,records500/02000/02596_hr,['NORM']
+records100/02000/02598_lr,records500/02000/02598_hr,"['MI', 'STTC']"
+records100/02000/02602_lr,records500/02000/02602_hr,"['HYP', 'STTC']"
+records100/02000/02605_lr,records500/02000/02605_hr,['MI']
+records100/02000/02606_lr,records500/02000/02606_hr,"['MI', 'CD']"
+records100/02000/02626_lr,records500/02000/02626_hr,['CD']
+records100/02000/02627_lr,records500/02000/02627_hr,['MI']
+records100/02000/02638_lr,records500/02000/02638_hr,['NORM']
+records100/02000/02649_lr,records500/02000/02649_hr,['NORM']
+records100/02000/02693_lr,records500/02000/02693_hr,['STTC']
+records100/02000/02694_lr,records500/02000/02694_hr,['NORM']
+records100/02000/02722_lr,records500/02000/02722_hr,['CD']
+records100/02000/02734_lr,records500/02000/02734_hr,['STTC']
+records100/02000/02736_lr,records500/02000/02736_hr,['MI']
+records100/02000/02764_lr,records500/02000/02764_hr,['NORM']
+records100/02000/02767_lr,records500/02000/02767_hr,"['NORM', 'CD']"
+records100/02000/02776_lr,records500/02000/02776_hr,['MI']
+records100/02000/02779_lr,records500/02000/02779_hr,['NORM']
+records100/02000/02785_lr,records500/02000/02785_hr,['NORM']
+records100/02000/02786_lr,records500/02000/02786_hr,['NORM']
+records100/02000/02789_lr,records500/02000/02789_hr,['NORM']
+records100/02000/02791_lr,records500/02000/02791_hr,['NORM']
+records100/02000/02802_lr,records500/02000/02802_hr,"['HYP', 'MI', 'STTC']"
+records100/02000/02813_lr,records500/02000/02813_hr,['NORM']
+records100/02000/02819_lr,records500/02000/02819_hr,['NORM']
+records100/02000/02830_lr,records500/02000/02830_hr,['NORM']
+records100/02000/02839_lr,records500/02000/02839_hr,['NORM']
+records100/02000/02848_lr,records500/02000/02848_hr,['NORM']
+records100/02000/02854_lr,records500/02000/02854_hr,['NORM']
+records100/02000/02865_lr,records500/02000/02865_hr,['STTC']
+records100/02000/02867_lr,records500/02000/02867_hr,['STTC']
+records100/02000/02871_lr,records500/02000/02871_hr,['NORM']
+records100/02000/02905_lr,records500/02000/02905_hr,"['NORM', 'CD']"
+records100/02000/02909_lr,records500/02000/02909_hr,"['NORM', 'CD']"
+records100/02000/02910_lr,records500/02000/02910_hr,['NORM']
+records100/02000/02913_lr,records500/02000/02913_hr,['NORM']
+records100/02000/02920_lr,records500/02000/02920_hr,['NORM']
+records100/02000/02921_lr,records500/02000/02921_hr,['NORM']
+records100/02000/02922_lr,records500/02000/02922_hr,['STTC']
+records100/02000/02928_lr,records500/02000/02928_hr,['NORM']
+records100/02000/02929_lr,records500/02000/02929_hr,['NORM']
+records100/02000/02935_lr,records500/02000/02935_hr,['NORM']
+records100/02000/02938_lr,records500/02000/02938_hr,['STTC']
+records100/02000/02939_lr,records500/02000/02939_hr,['NORM']
+records100/02000/02941_lr,records500/02000/02941_hr,['NORM']
+records100/02000/02942_lr,records500/02000/02942_hr,['NORM']
+records100/02000/02963_lr,records500/02000/02963_hr,['NORM']
+records100/02000/02965_lr,records500/02000/02965_hr,['NORM']
+records100/02000/02987_lr,records500/02000/02987_hr,['NORM']
+records100/03000/03009_lr,records500/03000/03009_hr,"['MI', 'STTC']"
+records100/03000/03022_lr,records500/03000/03022_hr,['NORM']
+records100/03000/03027_lr,records500/03000/03027_hr,['NORM']
+records100/03000/03033_lr,records500/03000/03033_hr,['STTC']
+records100/03000/03035_lr,records500/03000/03035_hr,"['NORM', 'CD']"
+records100/03000/03043_lr,records500/03000/03043_hr,['NORM']
+records100/03000/03052_lr,records500/03000/03052_hr,['MI']
+records100/03000/03060_lr,records500/03000/03060_hr,['NORM']
+records100/03000/03073_lr,records500/03000/03073_hr,['NORM']
+records100/03000/03078_lr,records500/03000/03078_hr,['STTC']
+records100/03000/03092_lr,records500/03000/03092_hr,['HYP']
+records100/03000/03103_lr,records500/03000/03103_hr,['NORM']
+records100/03000/03108_lr,records500/03000/03108_hr,['NORM']
+records100/03000/03112_lr,records500/03000/03112_hr,['NORM']
+records100/03000/03122_lr,records500/03000/03122_hr,['MI']
+records100/03000/03128_lr,records500/03000/03128_hr,['NORM']
+records100/03000/03148_lr,records500/03000/03148_hr,['NORM']
+records100/03000/03159_lr,records500/03000/03159_hr,['NORM']
+records100/03000/03164_lr,records500/03000/03164_hr,['NORM']
+records100/03000/03165_lr,records500/03000/03165_hr,['NORM']
+records100/03000/03174_lr,records500/03000/03174_hr,['NORM']
+records100/03000/03201_lr,records500/03000/03201_hr,['CD']
+records100/03000/03208_lr,records500/03000/03208_hr,"['MI', 'STTC']"
+records100/03000/03215_lr,records500/03000/03215_hr,"['HYP', 'STTC']"
+records100/03000/03220_lr,records500/03000/03220_hr,['STTC']
+records100/03000/03235_lr,records500/03000/03235_hr,['NORM']
+records100/03000/03241_lr,records500/03000/03241_hr,['MI']
+records100/03000/03246_lr,records500/03000/03246_hr,"['MI', 'CD']"
+records100/03000/03248_lr,records500/03000/03248_hr,"['NORM', 'CD']"
+records100/03000/03272_lr,records500/03000/03272_hr,"['MI', 'STTC']"
+records100/03000/03275_lr,records500/03000/03275_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/03000/03281_lr,records500/03000/03281_hr,"['HYP', 'STTC']"
+records100/03000/03282_lr,records500/03000/03282_hr,['STTC']
+records100/03000/03299_lr,records500/03000/03299_hr,"['NORM', 'CD']"
+records100/03000/03315_lr,records500/03000/03315_hr,['MI']
+records100/03000/03317_lr,records500/03000/03317_hr,['STTC']
+records100/03000/03320_lr,records500/03000/03320_hr,['NORM']
+records100/03000/03326_lr,records500/03000/03326_hr,['STTC']
+records100/03000/03336_lr,records500/03000/03336_hr,['MI']
+records100/03000/03342_lr,records500/03000/03342_hr,['STTC']
+records100/03000/03350_lr,records500/03000/03350_hr,['NORM']
+records100/03000/03356_lr,records500/03000/03356_hr,['CD']
+records100/03000/03363_lr,records500/03000/03363_hr,['STTC']
+records100/03000/03371_lr,records500/03000/03371_hr,['HYP']
+records100/03000/03384_lr,records500/03000/03384_hr,['NORM']
+records100/03000/03406_lr,records500/03000/03406_hr,['NORM']
+records100/03000/03414_lr,records500/03000/03414_hr,['NORM']
+records100/03000/03435_lr,records500/03000/03435_hr,['NORM']
+records100/03000/03452_lr,records500/03000/03452_hr,['CD']
+records100/03000/03454_lr,records500/03000/03454_hr,"['HYP', 'MI', 'STTC']"
+records100/03000/03479_lr,records500/03000/03479_hr,['CD']
+records100/03000/03484_lr,records500/03000/03484_hr,"['STTC', 'CD']"
+records100/03000/03486_lr,records500/03000/03486_hr,"['HYP', 'NORM', 'CD']"
+records100/03000/03487_lr,records500/03000/03487_hr,['NORM']
+records100/03000/03497_lr,records500/03000/03497_hr,['NORM']
+records100/03000/03507_lr,records500/03000/03507_hr,['NORM']
+records100/03000/03508_lr,records500/03000/03508_hr,['STTC']
+records100/03000/03515_lr,records500/03000/03515_hr,['NORM']
+records100/03000/03521_lr,records500/03000/03521_hr,['NORM']
+records100/03000/03522_lr,records500/03000/03522_hr,['NORM']
+records100/03000/03537_lr,records500/03000/03537_hr,['NORM']
+records100/03000/03544_lr,records500/03000/03544_hr,['MI']
+records100/03000/03558_lr,records500/03000/03558_hr,['NORM']
+records100/03000/03559_lr,records500/03000/03559_hr,"['MI', 'CD']"
+records100/03000/03568_lr,records500/03000/03568_hr,"['MI', 'CD']"
+records100/03000/03579_lr,records500/03000/03579_hr,['MI']
+records100/03000/03582_lr,records500/03000/03582_hr,"['MI', 'CD']"
+records100/03000/03585_lr,records500/03000/03585_hr,['NORM']
+records100/03000/03590_lr,records500/03000/03590_hr,['STTC']
+records100/03000/03600_lr,records500/03000/03600_hr,['MI']
+records100/03000/03603_lr,records500/03000/03603_hr,['HYP']
+records100/03000/03606_lr,records500/03000/03606_hr,"['HYP', 'MI']"
+records100/03000/03610_lr,records500/03000/03610_hr,['MI']
+records100/03000/03612_lr,records500/03000/03612_hr,['STTC']
+records100/03000/03613_lr,records500/03000/03613_hr,"['MI', 'CD']"
+records100/03000/03615_lr,records500/03000/03615_hr,['NORM']
+records100/03000/03618_lr,records500/03000/03618_hr,['NORM']
+records100/03000/03625_lr,records500/03000/03625_hr,['NORM']
+records100/03000/03629_lr,records500/03000/03629_hr,"['MI', 'CD']"
+records100/03000/03632_lr,records500/03000/03632_hr,['MI']
+records100/03000/03634_lr,records500/03000/03634_hr,['NORM']
+records100/03000/03635_lr,records500/03000/03635_hr,"['NORM', 'CD']"
+records100/03000/03641_lr,records500/03000/03641_hr,['CD']
+records100/03000/03652_lr,records500/03000/03652_hr,['NORM']
+records100/03000/03657_lr,records500/03000/03657_hr,['NORM']
+records100/03000/03660_lr,records500/03000/03660_hr,['HYP']
+records100/03000/03665_lr,records500/03000/03665_hr,['NORM']
+records100/03000/03669_lr,records500/03000/03669_hr,['NORM']
+records100/03000/03688_lr,records500/03000/03688_hr,"['HYP', 'CD']"
+records100/03000/03689_lr,records500/03000/03689_hr,"['MI', 'STTC']"
+records100/03000/03692_lr,records500/03000/03692_hr,"['MI', 'STTC']"
+records100/03000/03696_lr,records500/03000/03696_hr,['MI']
+records100/03000/03699_lr,records500/03000/03699_hr,['CD']
+records100/03000/03702_lr,records500/03000/03702_hr,['NORM']
+records100/03000/03704_lr,records500/03000/03704_hr,['NORM']
+records100/03000/03708_lr,records500/03000/03708_hr,['CD']
+records100/03000/03712_lr,records500/03000/03712_hr,['NORM']
+records100/03000/03740_lr,records500/03000/03740_hr,"['NORM', 'CD']"
+records100/03000/03755_lr,records500/03000/03755_hr,"['MI', 'CD']"
+records100/03000/03756_lr,records500/03000/03756_hr,['NORM']
+records100/03000/03785_lr,records500/03000/03785_hr,['HYP']
+records100/03000/03791_lr,records500/03000/03791_hr,['CD']
+records100/03000/03805_lr,records500/03000/03805_hr,['MI']
+records100/03000/03827_lr,records500/03000/03827_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/03000/03842_lr,records500/03000/03842_hr,"['HYP', 'STTC']"
+records100/03000/03855_lr,records500/03000/03855_hr,"['MI', 'CD']"
+records100/03000/03863_lr,records500/03000/03863_hr,['NORM']
+records100/03000/03867_lr,records500/03000/03867_hr,"['HYP', 'STTC']"
+records100/03000/03869_lr,records500/03000/03869_hr,"['HYP', 'STTC']"
+records100/03000/03872_lr,records500/03000/03872_hr,"['NORM', 'CD']"
+records100/03000/03875_lr,records500/03000/03875_hr,['MI']
+records100/03000/03878_lr,records500/03000/03878_hr,['NORM']
+records100/03000/03892_lr,records500/03000/03892_hr,['NORM']
+records100/03000/03895_lr,records500/03000/03895_hr,"['HYP', 'STTC']"
+records100/03000/03904_lr,records500/03000/03904_hr,['NORM']
+records100/03000/03908_lr,records500/03000/03908_hr,['MI']
+records100/03000/03909_lr,records500/03000/03909_hr,['NORM']
+records100/03000/03910_lr,records500/03000/03910_hr,"['HYP', 'MI', 'STTC']"
+records100/03000/03913_lr,records500/03000/03913_hr,['MI']
+records100/03000/03914_lr,records500/03000/03914_hr,['MI']
+records100/03000/03918_lr,records500/03000/03918_hr,['NORM']
+records100/03000/03923_lr,records500/03000/03923_hr,['NORM']
+records100/03000/03925_lr,records500/03000/03925_hr,"['HYP', 'CD']"
+records100/03000/03926_lr,records500/03000/03926_hr,['NORM']
+records100/03000/03937_lr,records500/03000/03937_hr,['NORM']
+records100/03000/03947_lr,records500/03000/03947_hr,['CD']
+records100/03000/03948_lr,records500/03000/03948_hr,['CD']
+records100/03000/03949_lr,records500/03000/03949_hr,['MI']
+records100/03000/03967_lr,records500/03000/03967_hr,['MI']
+records100/03000/03984_lr,records500/03000/03984_hr,['NORM']
+records100/03000/03986_lr,records500/03000/03986_hr,['NORM']
+records100/04000/04016_lr,records500/04000/04016_hr,['CD']
+records100/04000/04025_lr,records500/04000/04025_hr,['NORM']
+records100/04000/04059_lr,records500/04000/04059_hr,['NORM']
+records100/04000/04066_lr,records500/04000/04066_hr,['NORM']
+records100/04000/04070_lr,records500/04000/04070_hr,['CD']
+records100/04000/04072_lr,records500/04000/04072_hr,"['MI', 'STTC']"
+records100/04000/04079_lr,records500/04000/04079_hr,['NORM']
+records100/04000/04090_lr,records500/04000/04090_hr,['NORM']
+records100/04000/04097_lr,records500/04000/04097_hr,['NORM']
+records100/04000/04103_lr,records500/04000/04103_hr,['NORM']
+records100/04000/04110_lr,records500/04000/04110_hr,['NORM']
+records100/04000/04123_lr,records500/04000/04123_hr,['NORM']
+records100/04000/04137_lr,records500/04000/04137_hr,['MI']
+records100/04000/04149_lr,records500/04000/04149_hr,['STTC']
+records100/04000/04153_lr,records500/04000/04153_hr,['MI']
+records100/04000/04167_lr,records500/04000/04167_hr,"['HYP', 'NORM', 'CD']"
+records100/04000/04175_lr,records500/04000/04175_hr,['MI']
+records100/04000/04177_lr,records500/04000/04177_hr,['MI']
+records100/04000/04203_lr,records500/04000/04203_hr,['MI']
+records100/04000/04220_lr,records500/04000/04220_hr,['CD']
+records100/04000/04224_lr,records500/04000/04224_hr,['NORM']
+records100/04000/04225_lr,records500/04000/04225_hr,['MI']
+records100/04000/04226_lr,records500/04000/04226_hr,['CD']
+records100/04000/04229_lr,records500/04000/04229_hr,['NORM']
+records100/04000/04230_lr,records500/04000/04230_hr,['STTC']
+records100/04000/04235_lr,records500/04000/04235_hr,['NORM']
+records100/04000/04238_lr,records500/04000/04238_hr,['CD']
+records100/04000/04239_lr,records500/04000/04239_hr,['NORM']
+records100/04000/04245_lr,records500/04000/04245_hr,"['NORM', 'CD']"
+records100/04000/04254_lr,records500/04000/04254_hr,['CD']
+records100/04000/04257_lr,records500/04000/04257_hr,['MI']
+records100/04000/04261_lr,records500/04000/04261_hr,['NORM']
+records100/04000/04266_lr,records500/04000/04266_hr,['NORM']
+records100/04000/04269_lr,records500/04000/04269_hr,['MI']
+records100/04000/04278_lr,records500/04000/04278_hr,['HYP']
+records100/04000/04295_lr,records500/04000/04295_hr,['NORM']
+records100/04000/04329_lr,records500/04000/04329_hr,['STTC']
+records100/04000/04335_lr,records500/04000/04335_hr,"['HYP', 'STTC']"
+records100/04000/04336_lr,records500/04000/04336_hr,"['HYP', 'STTC', 'CD']"
+records100/04000/04342_lr,records500/04000/04342_hr,"['STTC', 'NORM']"
+records100/04000/04354_lr,records500/04000/04354_hr,['NORM']
+records100/04000/04362_lr,records500/04000/04362_hr,['MI']
+records100/04000/04363_lr,records500/04000/04363_hr,"['HYP', 'CD']"
+records100/04000/04391_lr,records500/04000/04391_hr,['MI']
+records100/04000/04410_lr,records500/04000/04410_hr,['STTC']
+records100/04000/04414_lr,records500/04000/04414_hr,['NORM']
+records100/04000/04417_lr,records500/04000/04417_hr,['NORM']
+records100/04000/04432_lr,records500/04000/04432_hr,['CD']
+records100/04000/04444_lr,records500/04000/04444_hr,['CD']
+records100/04000/04448_lr,records500/04000/04448_hr,['MI']
+records100/04000/04458_lr,records500/04000/04458_hr,['HYP']
+records100/04000/04476_lr,records500/04000/04476_hr,['STTC']
+records100/04000/04501_lr,records500/04000/04501_hr,['STTC']
+records100/04000/04506_lr,records500/04000/04506_hr,['NORM']
+records100/04000/04508_lr,records500/04000/04508_hr,['STTC']
+records100/04000/04518_lr,records500/04000/04518_hr,['MI']
+records100/04000/04542_lr,records500/04000/04542_hr,['NORM']
+records100/04000/04546_lr,records500/04000/04546_hr,"['HYP', 'CD']"
+records100/04000/04547_lr,records500/04000/04547_hr,['HYP']
+records100/04000/04556_lr,records500/04000/04556_hr,['NORM']
+records100/04000/04560_lr,records500/04000/04560_hr,['CD']
+records100/04000/04565_lr,records500/04000/04565_hr,['NORM']
+records100/04000/04576_lr,records500/04000/04576_hr,['MI']
+records100/04000/04602_lr,records500/04000/04602_hr,"['HYP', 'CD']"
+records100/04000/04609_lr,records500/04000/04609_hr,['NORM']
+records100/04000/04614_lr,records500/04000/04614_hr,"['HYP', 'MI', 'STTC']"
+records100/04000/04615_lr,records500/04000/04615_hr,['MI']
+records100/04000/04618_lr,records500/04000/04618_hr,"['MI', 'STTC', 'CD']"
+records100/04000/04619_lr,records500/04000/04619_hr,['CD']
+records100/04000/04646_lr,records500/04000/04646_hr,"['MI', 'STTC']"
+records100/04000/04656_lr,records500/04000/04656_hr,"['HYP', 'MI', 'STTC']"
+records100/04000/04672_lr,records500/04000/04672_hr,['NORM']
+records100/04000/04676_lr,records500/04000/04676_hr,"['STTC', 'CD']"
+records100/04000/04687_lr,records500/04000/04687_hr,['STTC']
+records100/04000/04704_lr,records500/04000/04704_hr,['NORM']
+records100/04000/04719_lr,records500/04000/04719_hr,['NORM']
+records100/04000/04747_lr,records500/04000/04747_hr,['NORM']
+records100/04000/04749_lr,records500/04000/04749_hr,"['HYP', 'MI', 'STTC']"
+records100/04000/04755_lr,records500/04000/04755_hr,"['MI', 'STTC']"
+records100/04000/04758_lr,records500/04000/04758_hr,['CD']
+records100/04000/04769_lr,records500/04000/04769_hr,['STTC']
+records100/04000/04771_lr,records500/04000/04771_hr,['CD']
+records100/04000/04785_lr,records500/04000/04785_hr,['STTC']
+records100/04000/04786_lr,records500/04000/04786_hr,['NORM']
+records100/04000/04797_lr,records500/04000/04797_hr,['STTC']
+records100/04000/04805_lr,records500/04000/04805_hr,['NORM']
+records100/04000/04809_lr,records500/04000/04809_hr,['STTC']
+records100/04000/04820_lr,records500/04000/04820_hr,['NORM']
+records100/04000/04822_lr,records500/04000/04822_hr,['NORM']
+records100/04000/04825_lr,records500/04000/04825_hr,['CD']
+records100/04000/04836_lr,records500/04000/04836_hr,['NORM']
+records100/04000/04866_lr,records500/04000/04866_hr,['MI']
+records100/04000/04873_lr,records500/04000/04873_hr,['NORM']
+records100/04000/04880_lr,records500/04000/04880_hr,['NORM']
+records100/04000/04893_lr,records500/04000/04893_hr,['CD']
+records100/04000/04900_lr,records500/04000/04900_hr,['NORM']
+records100/04000/04926_lr,records500/04000/04926_hr,['STTC']
+records100/04000/04945_lr,records500/04000/04945_hr,['NORM']
+records100/04000/04951_lr,records500/04000/04951_hr,['NORM']
+records100/04000/04960_lr,records500/04000/04960_hr,['NORM']
+records100/04000/04979_lr,records500/04000/04979_hr,"['STTC', 'NORM']"
+records100/04000/04995_lr,records500/04000/04995_hr,"['HYP', 'STTC', 'CD']"
+records100/05000/05000_lr,records500/05000/05000_hr,['NORM']
+records100/05000/05029_lr,records500/05000/05029_hr,"['MI', 'CD']"
+records100/05000/05054_lr,records500/05000/05054_hr,['STTC']
+records100/05000/05067_lr,records500/05000/05067_hr,['NORM']
+records100/05000/05087_lr,records500/05000/05087_hr,"['HYP', 'STTC']"
+records100/05000/05099_lr,records500/05000/05099_hr,['NORM']
+records100/05000/05117_lr,records500/05000/05117_hr,"['NORM', 'CD']"
+records100/05000/05122_lr,records500/05000/05122_hr,['STTC']
+records100/05000/05126_lr,records500/05000/05126_hr,['NORM']
+records100/05000/05147_lr,records500/05000/05147_hr,['MI']
+records100/05000/05151_lr,records500/05000/05151_hr,['NORM']
+records100/05000/05154_lr,records500/05000/05154_hr,"['MI', 'CD']"
+records100/05000/05159_lr,records500/05000/05159_hr,['MI']
+records100/05000/05163_lr,records500/05000/05163_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/05000/05170_lr,records500/05000/05170_hr,['CD']
+records100/05000/05172_lr,records500/05000/05172_hr,['NORM']
+records100/05000/05182_lr,records500/05000/05182_hr,['NORM']
+records100/05000/05185_lr,records500/05000/05185_hr,['MI']
+records100/05000/05212_lr,records500/05000/05212_hr,['CD']
+records100/05000/05217_lr,records500/05000/05217_hr,['NORM']
+records100/05000/05219_lr,records500/05000/05219_hr,"['MI', 'CD']"
+records100/05000/05251_lr,records500/05000/05251_hr,['MI']
+records100/05000/05257_lr,records500/05000/05257_hr,['MI']
+records100/05000/05269_lr,records500/05000/05269_hr,['NORM']
+records100/05000/05275_lr,records500/05000/05275_hr,['NORM']
+records100/05000/05276_lr,records500/05000/05276_hr,['MI']
+records100/05000/05278_lr,records500/05000/05278_hr,['STTC']
+records100/05000/05281_lr,records500/05000/05281_hr,['NORM']
+records100/05000/05289_lr,records500/05000/05289_hr,"['HYP', 'STTC']"
+records100/05000/05298_lr,records500/05000/05298_hr,['NORM']
+records100/05000/05299_lr,records500/05000/05299_hr,['STTC']
+records100/05000/05304_lr,records500/05000/05304_hr,['NORM']
+records100/05000/05316_lr,records500/05000/05316_hr,['NORM']
+records100/05000/05331_lr,records500/05000/05331_hr,['NORM']
+records100/05000/05336_lr,records500/05000/05336_hr,['NORM']
+records100/05000/05337_lr,records500/05000/05337_hr,['CD']
+records100/05000/05338_lr,records500/05000/05338_hr,"['HYP', 'CD']"
+records100/05000/05343_lr,records500/05000/05343_hr,"['HYP', 'MI', 'CD']"
+records100/05000/05351_lr,records500/05000/05351_hr,"['MI', 'STTC']"
+records100/05000/05360_lr,records500/05000/05360_hr,['MI']
+records100/05000/05370_lr,records500/05000/05370_hr,['NORM']
+records100/05000/05373_lr,records500/05000/05373_hr,['NORM']
+records100/05000/05383_lr,records500/05000/05383_hr,['NORM']
+records100/05000/05384_lr,records500/05000/05384_hr,['STTC']
+records100/05000/05386_lr,records500/05000/05386_hr,['MI']
+records100/05000/05395_lr,records500/05000/05395_hr,['NORM']
+records100/05000/05413_lr,records500/05000/05413_hr,['MI']
+records100/05000/05428_lr,records500/05000/05428_hr,['NORM']
+records100/05000/05452_lr,records500/05000/05452_hr,['NORM']
+records100/05000/05465_lr,records500/05000/05465_hr,['STTC']
+records100/05000/05479_lr,records500/05000/05479_hr,"['MI', 'CD']"
+records100/05000/05501_lr,records500/05000/05501_hr,"['MI', 'STTC']"
+records100/05000/05519_lr,records500/05000/05519_hr,['NORM']
+records100/05000/05530_lr,records500/05000/05530_hr,['NORM']
+records100/05000/05566_lr,records500/05000/05566_hr,['NORM']
+records100/05000/05567_lr,records500/05000/05567_hr,['NORM']
+records100/05000/05572_lr,records500/05000/05572_hr,['STTC']
+records100/05000/05600_lr,records500/05000/05600_hr,['NORM']
+records100/05000/05605_lr,records500/05000/05605_hr,['NORM']
+records100/05000/05606_lr,records500/05000/05606_hr,"['STTC', 'CD']"
+records100/05000/05628_lr,records500/05000/05628_hr,['MI']
+records100/05000/05635_lr,records500/05000/05635_hr,['MI']
+records100/05000/05725_lr,records500/05000/05725_hr,['NORM']
+records100/05000/05737_lr,records500/05000/05737_hr,['NORM']
+records100/05000/05738_lr,records500/05000/05738_hr,"['NORM', 'CD']"
+records100/05000/05743_lr,records500/05000/05743_hr,['NORM']
+records100/05000/05753_lr,records500/05000/05753_hr,['NORM']
+records100/05000/05771_lr,records500/05000/05771_hr,['NORM']
+records100/05000/05777_lr,records500/05000/05777_hr,['MI']
+records100/05000/05784_lr,records500/05000/05784_hr,['NORM']
+records100/05000/05804_lr,records500/05000/05804_hr,"['HYP', 'CD']"
+records100/05000/05806_lr,records500/05000/05806_hr,['MI']
+records100/05000/05810_lr,records500/05000/05810_hr,"['HYP', 'MI', 'STTC']"
+records100/05000/05816_lr,records500/05000/05816_hr,['NORM']
+records100/05000/05824_lr,records500/05000/05824_hr,['NORM']
+records100/05000/05826_lr,records500/05000/05826_hr,"['MI', 'CD']"
+records100/05000/05830_lr,records500/05000/05830_hr,['HYP']
+records100/05000/05831_lr,records500/05000/05831_hr,['NORM']
+records100/05000/05835_lr,records500/05000/05835_hr,['NORM']
+records100/05000/05837_lr,records500/05000/05837_hr,['NORM']
+records100/05000/05841_lr,records500/05000/05841_hr,['STTC']
+records100/05000/05855_lr,records500/05000/05855_hr,['NORM']
+records100/05000/05856_lr,records500/05000/05856_hr,"['MI', 'CD']"
+records100/05000/05868_lr,records500/05000/05868_hr,"['HYP', 'STTC']"
+records100/05000/05873_lr,records500/05000/05873_hr,['STTC']
+records100/05000/05881_lr,records500/05000/05881_hr,['STTC']
+records100/05000/05885_lr,records500/05000/05885_hr,"['MI', 'STTC']"
+records100/05000/05911_lr,records500/05000/05911_hr,['HYP']
+records100/05000/05914_lr,records500/05000/05914_hr,['NORM']
+records100/05000/05915_lr,records500/05000/05915_hr,['NORM']
+records100/05000/05916_lr,records500/05000/05916_hr,['NORM']
+records100/05000/05918_lr,records500/05000/05918_hr,['NORM']
+records100/05000/05924_lr,records500/05000/05924_hr,['NORM']
+records100/05000/05946_lr,records500/05000/05946_hr,['NORM']
+records100/05000/05947_lr,records500/05000/05947_hr,['NORM']
+records100/05000/05951_lr,records500/05000/05951_hr,"['HYP', 'CD']"
+records100/05000/05953_lr,records500/05000/05953_hr,['CD']
+records100/05000/05973_lr,records500/05000/05973_hr,['NORM']
+records100/05000/05975_lr,records500/05000/05975_hr,['NORM']
+records100/05000/05977_lr,records500/05000/05977_hr,['NORM']
+records100/05000/05992_lr,records500/05000/05992_hr,['NORM']
+records100/06000/06000_lr,records500/06000/06000_hr,['NORM']
+records100/06000/06004_lr,records500/06000/06004_hr,['NORM']
+records100/06000/06042_lr,records500/06000/06042_hr,"['MI', 'CD']"
+records100/06000/06046_lr,records500/06000/06046_hr,['NORM']
+records100/06000/06047_lr,records500/06000/06047_hr,['NORM']
+records100/06000/06050_lr,records500/06000/06050_hr,['NORM']
+records100/06000/06056_lr,records500/06000/06056_hr,"['MI', 'CD']"
+records100/06000/06075_lr,records500/06000/06075_hr,['NORM']
+records100/06000/06087_lr,records500/06000/06087_hr,['NORM']
+records100/06000/06096_lr,records500/06000/06096_hr,['CD']
+records100/06000/06098_lr,records500/06000/06098_hr,"['HYP', 'STTC']"
+records100/06000/06103_lr,records500/06000/06103_hr,['NORM']
+records100/06000/06126_lr,records500/06000/06126_hr,"['MI', 'STTC', 'CD']"
+records100/06000/06131_lr,records500/06000/06131_hr,['NORM']
+records100/06000/06132_lr,records500/06000/06132_hr,['STTC']
+records100/06000/06141_lr,records500/06000/06141_hr,"['HYP', 'STTC']"
+records100/06000/06151_lr,records500/06000/06151_hr,['NORM']
+records100/06000/06154_lr,records500/06000/06154_hr,['CD']
+records100/06000/06174_lr,records500/06000/06174_hr,['CD']
+records100/06000/06180_lr,records500/06000/06180_hr,['HYP']
+records100/06000/06186_lr,records500/06000/06186_hr,"['MI', 'STTC']"
+records100/06000/06188_lr,records500/06000/06188_hr,['NORM']
+records100/06000/06189_lr,records500/06000/06189_hr,['NORM']
+records100/06000/06190_lr,records500/06000/06190_hr,['STTC']
+records100/06000/06192_lr,records500/06000/06192_hr,['STTC']
+records100/06000/06200_lr,records500/06000/06200_hr,['NORM']
+records100/06000/06201_lr,records500/06000/06201_hr,['STTC']
+records100/06000/06207_lr,records500/06000/06207_hr,['NORM']
+records100/06000/06208_lr,records500/06000/06208_hr,['NORM']
+records100/06000/06210_lr,records500/06000/06210_hr,"['MI', 'STTC']"
+records100/06000/06211_lr,records500/06000/06211_hr,['MI']
+records100/06000/06222_lr,records500/06000/06222_hr,['NORM']
+records100/06000/06224_lr,records500/06000/06224_hr,['MI']
+records100/06000/06227_lr,records500/06000/06227_hr,['NORM']
+records100/06000/06229_lr,records500/06000/06229_hr,"['HYP', 'MI', 'STTC']"
+records100/06000/06230_lr,records500/06000/06230_hr,['MI']
+records100/06000/06231_lr,records500/06000/06231_hr,['MI']
+records100/06000/06235_lr,records500/06000/06235_hr,['NORM']
+records100/06000/06239_lr,records500/06000/06239_hr,['NORM']
+records100/06000/06251_lr,records500/06000/06251_hr,"['MI', 'CD']"
+records100/06000/06262_lr,records500/06000/06262_hr,['NORM']
+records100/06000/06265_lr,records500/06000/06265_hr,['NORM']
+records100/06000/06270_lr,records500/06000/06270_hr,['STTC']
+records100/06000/06283_lr,records500/06000/06283_hr,['MI']
+records100/06000/06284_lr,records500/06000/06284_hr,['CD']
+records100/06000/06295_lr,records500/06000/06295_hr,['NORM']
+records100/06000/06304_lr,records500/06000/06304_hr,['STTC']
+records100/06000/06305_lr,records500/06000/06305_hr,['MI']
+records100/06000/06312_lr,records500/06000/06312_hr,['NORM']
+records100/06000/06313_lr,records500/06000/06313_hr,"['MI', 'STTC', 'CD']"
+records100/06000/06314_lr,records500/06000/06314_hr,['STTC']
+records100/06000/06337_lr,records500/06000/06337_hr,"['HYP', 'MI', 'STTC']"
+records100/06000/06341_lr,records500/06000/06341_hr,['NORM']
+records100/06000/06350_lr,records500/06000/06350_hr,"['MI', 'STTC']"
+records100/06000/06352_lr,records500/06000/06352_hr,"['STTC', 'CD']"
+records100/06000/06353_lr,records500/06000/06353_hr,"['HYP', 'MI', 'STTC']"
+records100/06000/06355_lr,records500/06000/06355_hr,"['MI', 'CD']"
+records100/06000/06358_lr,records500/06000/06358_hr,"['NORM', 'CD']"
+records100/06000/06375_lr,records500/06000/06375_hr,['CD']
+records100/06000/06380_lr,records500/06000/06380_hr,['HYP']
+records100/06000/06381_lr,records500/06000/06381_hr,['NORM']
+records100/06000/06404_lr,records500/06000/06404_hr,"['MI', 'CD']"
+records100/06000/06427_lr,records500/06000/06427_hr,['HYP']
+records100/06000/06428_lr,records500/06000/06428_hr,['HYP']
+records100/06000/06437_lr,records500/06000/06437_hr,['NORM']
+records100/06000/06465_lr,records500/06000/06465_hr,['NORM']
+records100/06000/06471_lr,records500/06000/06471_hr,"['HYP', 'CD']"
+records100/06000/06498_lr,records500/06000/06498_hr,['NORM']
+records100/06000/06528_lr,records500/06000/06528_hr,['NORM']
+records100/06000/06542_lr,records500/06000/06542_hr,['CD']
+records100/06000/06552_lr,records500/06000/06552_hr,['MI']
+records100/06000/06556_lr,records500/06000/06556_hr,['MI']
+records100/06000/06562_lr,records500/06000/06562_hr,['CD']
+records100/06000/06577_lr,records500/06000/06577_hr,['NORM']
+records100/06000/06579_lr,records500/06000/06579_hr,['CD']
+records100/06000/06590_lr,records500/06000/06590_hr,['STTC']
+records100/06000/06592_lr,records500/06000/06592_hr,"['STTC', 'CD']"
+records100/06000/06625_lr,records500/06000/06625_hr,"['HYP', 'MI']"
+records100/06000/06666_lr,records500/06000/06666_hr,"['HYP', 'MI', 'STTC']"
+records100/06000/06670_lr,records500/06000/06670_hr,['NORM']
+records100/06000/06672_lr,records500/06000/06672_hr,['NORM']
+records100/06000/06683_lr,records500/06000/06683_hr,['MI']
+records100/06000/06728_lr,records500/06000/06728_hr,['NORM']
+records100/06000/06735_lr,records500/06000/06735_hr,['STTC']
+records100/06000/06751_lr,records500/06000/06751_hr,['MI']
+records100/06000/06776_lr,records500/06000/06776_hr,['NORM']
+records100/06000/06788_lr,records500/06000/06788_hr,"['HYP', 'MI', 'STTC']"
+records100/06000/06794_lr,records500/06000/06794_hr,"['HYP', 'MI']"
+records100/06000/06796_lr,records500/06000/06796_hr,['STTC']
+records100/06000/06817_lr,records500/06000/06817_hr,['MI']
+records100/06000/06852_lr,records500/06000/06852_hr,"['MI', 'STTC', 'CD']"
+records100/06000/06902_lr,records500/06000/06902_hr,['NORM']
+records100/06000/06903_lr,records500/06000/06903_hr,['MI']
+records100/06000/06911_lr,records500/06000/06911_hr,['NORM']
+records100/06000/06912_lr,records500/06000/06912_hr,['STTC']
+records100/06000/06924_lr,records500/06000/06924_hr,['NORM']
+records100/06000/06925_lr,records500/06000/06925_hr,"['HYP', 'MI']"
+records100/06000/06929_lr,records500/06000/06929_hr,['MI']
+records100/06000/06951_lr,records500/06000/06951_hr,['NORM']
+records100/06000/06962_lr,records500/06000/06962_hr,['MI']
+records100/06000/06992_lr,records500/06000/06992_hr,"['HYP', 'MI', 'STTC']"
+records100/07000/07003_lr,records500/07000/07003_hr,"['MI', 'STTC', 'CD']"
+records100/07000/07007_lr,records500/07000/07007_hr,['NORM']
+records100/07000/07016_lr,records500/07000/07016_hr,['MI']
+records100/07000/07022_lr,records500/07000/07022_hr,"['STTC', 'CD']"
+records100/07000/07024_lr,records500/07000/07024_hr,['STTC']
+records100/07000/07025_lr,records500/07000/07025_hr,['STTC']
+records100/07000/07034_lr,records500/07000/07034_hr,['NORM']
+records100/07000/07053_lr,records500/07000/07053_hr,['NORM']
+records100/07000/07054_lr,records500/07000/07054_hr,['STTC']
+records100/07000/07055_lr,records500/07000/07055_hr,"['STTC', 'CD']"
+records100/07000/07069_lr,records500/07000/07069_hr,['NORM']
+records100/07000/07075_lr,records500/07000/07075_hr,['CD']
+records100/07000/07079_lr,records500/07000/07079_hr,['CD']
+records100/07000/07080_lr,records500/07000/07080_hr,['NORM']
+records100/07000/07130_lr,records500/07000/07130_hr,['MI']
+records100/07000/07161_lr,records500/07000/07161_hr,['NORM']
+records100/07000/07170_lr,records500/07000/07170_hr,['NORM']
+records100/07000/07190_lr,records500/07000/07190_hr,['NORM']
+records100/07000/07213_lr,records500/07000/07213_hr,['NORM']
+records100/07000/07217_lr,records500/07000/07217_hr,['NORM']
+records100/07000/07243_lr,records500/07000/07243_hr,"['HYP', 'STTC']"
+records100/07000/07258_lr,records500/07000/07258_hr,['NORM']
+records100/07000/07323_lr,records500/07000/07323_hr,['NORM']
+records100/07000/07328_lr,records500/07000/07328_hr,['NORM']
+records100/07000/07348_lr,records500/07000/07348_hr,['NORM']
+records100/07000/07354_lr,records500/07000/07354_hr,['HYP']
+records100/07000/07363_lr,records500/07000/07363_hr,['NORM']
+records100/07000/07374_lr,records500/07000/07374_hr,['STTC']
+records100/07000/07376_lr,records500/07000/07376_hr,['NORM']
+records100/07000/07414_lr,records500/07000/07414_hr,"['NORM', 'CD']"
+records100/07000/07438_lr,records500/07000/07438_hr,['STTC']
+records100/07000/07443_lr,records500/07000/07443_hr,['NORM']
+records100/07000/07471_lr,records500/07000/07471_hr,"['MI', 'STTC']"
+records100/07000/07491_lr,records500/07000/07491_hr,['NORM']
+records100/07000/07529_lr,records500/07000/07529_hr,"['HYP', 'MI', 'STTC']"
+records100/07000/07530_lr,records500/07000/07530_hr,['NORM']
+records100/07000/07534_lr,records500/07000/07534_hr,['STTC']
+records100/07000/07543_lr,records500/07000/07543_hr,['NORM']
+records100/07000/07560_lr,records500/07000/07560_hr,['NORM']
+records100/07000/07561_lr,records500/07000/07561_hr,['NORM']
+records100/07000/07597_lr,records500/07000/07597_hr,['NORM']
+records100/07000/07598_lr,records500/07000/07598_hr,"['HYP', 'STTC', 'CD']"
+records100/07000/07619_lr,records500/07000/07619_hr,"['HYP', 'STTC', 'CD']"
+records100/07000/07621_lr,records500/07000/07621_hr,['NORM']
+records100/07000/07644_lr,records500/07000/07644_hr,['NORM']
+records100/07000/07661_lr,records500/07000/07661_hr,"['HYP', 'MI', 'CD']"
+records100/07000/07668_lr,records500/07000/07668_hr,"['MI', 'CD']"
+records100/07000/07670_lr,records500/07000/07670_hr,['HYP']
+records100/07000/07684_lr,records500/07000/07684_hr,['HYP']
+records100/07000/07692_lr,records500/07000/07692_hr,"['MI', 'STTC']"
+records100/07000/07700_lr,records500/07000/07700_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/07000/07744_lr,records500/07000/07744_hr,['MI']
+records100/07000/07747_lr,records500/07000/07747_hr,['MI']
+records100/07000/07751_lr,records500/07000/07751_hr,['MI']
+records100/07000/07756_lr,records500/07000/07756_hr,['STTC']
+records100/07000/07769_lr,records500/07000/07769_hr,"['HYP', 'CD']"
+records100/07000/07770_lr,records500/07000/07770_hr,['NORM']
+records100/07000/07793_lr,records500/07000/07793_hr,['NORM']
+records100/07000/07797_lr,records500/07000/07797_hr,['NORM']
+records100/07000/07811_lr,records500/07000/07811_hr,['CD']
+records100/07000/07812_lr,records500/07000/07812_hr,['HYP']
+records100/07000/07813_lr,records500/07000/07813_hr,"['MI', 'CD']"
+records100/07000/07819_lr,records500/07000/07819_hr,['NORM']
+records100/07000/07822_lr,records500/07000/07822_hr,"['HYP', 'MI', 'STTC']"
+records100/07000/07837_lr,records500/07000/07837_hr,['CD']
+records100/07000/07842_lr,records500/07000/07842_hr,['NORM']
+records100/07000/07848_lr,records500/07000/07848_hr,['NORM']
+records100/07000/07861_lr,records500/07000/07861_hr,"['HYP', 'MI', 'STTC']"
+records100/07000/07865_lr,records500/07000/07865_hr,['CD']
+records100/07000/07873_lr,records500/07000/07873_hr,"['HYP', 'STTC', 'CD']"
+records100/07000/07876_lr,records500/07000/07876_hr,"['HYP', 'MI', 'STTC']"
+records100/07000/07877_lr,records500/07000/07877_hr,"['MI', 'CD']"
+records100/07000/07880_lr,records500/07000/07880_hr,['NORM']
+records100/07000/07881_lr,records500/07000/07881_hr,"['MI', 'STTC']"
+records100/07000/07882_lr,records500/07000/07882_hr,"['HYP', 'CD']"
+records100/07000/07892_lr,records500/07000/07892_hr,['NORM']
+records100/07000/07895_lr,records500/07000/07895_hr,['MI']
+records100/07000/07905_lr,records500/07000/07905_hr,['NORM']
+records100/07000/07916_lr,records500/07000/07916_hr,['HYP']
+records100/07000/07919_lr,records500/07000/07919_hr,"['HYP', 'STTC', 'CD']"
+records100/07000/07946_lr,records500/07000/07946_hr,"['STTC', 'CD']"
+records100/07000/07950_lr,records500/07000/07950_hr,['NORM']
+records100/07000/07951_lr,records500/07000/07951_hr,['STTC']
+records100/07000/07961_lr,records500/07000/07961_hr,"['HYP', 'STTC', 'CD']"
+records100/07000/07967_lr,records500/07000/07967_hr,['CD']
+records100/07000/07990_lr,records500/07000/07990_hr,['STTC']
+records100/07000/07998_lr,records500/07000/07998_hr,['MI']
+records100/08000/08000_lr,records500/08000/08000_hr,['STTC']
+records100/08000/08032_lr,records500/08000/08032_hr,"['MI', 'STTC']"
+records100/08000/08036_lr,records500/08000/08036_hr,['STTC']
+records100/08000/08041_lr,records500/08000/08041_hr,"['MI', 'CD']"
+records100/08000/08062_lr,records500/08000/08062_hr,"['HYP', 'STTC', 'CD']"
+records100/08000/08065_lr,records500/08000/08065_hr,['CD']
+records100/08000/08076_lr,records500/08000/08076_hr,['NORM']
+records100/08000/08083_lr,records500/08000/08083_hr,['HYP']
+records100/08000/08114_lr,records500/08000/08114_hr,['STTC']
+records100/08000/08116_lr,records500/08000/08116_hr,['NORM']
+records100/08000/08121_lr,records500/08000/08121_hr,['HYP']
+records100/08000/08123_lr,records500/08000/08123_hr,"['MI', 'CD']"
+records100/08000/08126_lr,records500/08000/08126_hr,['NORM']
+records100/08000/08130_lr,records500/08000/08130_hr,"['MI', 'CD']"
+records100/08000/08133_lr,records500/08000/08133_hr,['NORM']
+records100/08000/08136_lr,records500/08000/08136_hr,['STTC']
+records100/08000/08138_lr,records500/08000/08138_hr,['NORM']
+records100/08000/08139_lr,records500/08000/08139_hr,"['STTC', 'CD']"
+records100/08000/08140_lr,records500/08000/08140_hr,['NORM']
+records100/08000/08147_lr,records500/08000/08147_hr,['NORM']
+records100/08000/08153_lr,records500/08000/08153_hr,['MI']
+records100/08000/08164_lr,records500/08000/08164_hr,['NORM']
+records100/08000/08170_lr,records500/08000/08170_hr,['NORM']
+records100/08000/08178_lr,records500/08000/08178_hr,"['MI', 'CD']"
+records100/08000/08185_lr,records500/08000/08185_hr,['CD']
+records100/08000/08195_lr,records500/08000/08195_hr,['MI']
+records100/08000/08203_lr,records500/08000/08203_hr,['NORM']
+records100/08000/08208_lr,records500/08000/08208_hr,['NORM']
+records100/08000/08209_lr,records500/08000/08209_hr,"['HYP', 'STTC']"
+records100/08000/08212_lr,records500/08000/08212_hr,['STTC']
+records100/08000/08218_lr,records500/08000/08218_hr,"['MI', 'CD']"
+records100/08000/08219_lr,records500/08000/08219_hr,['NORM']
+records100/08000/08224_lr,records500/08000/08224_hr,['NORM']
+records100/08000/08241_lr,records500/08000/08241_hr,"['HYP', 'MI', 'STTC']"
+records100/08000/08242_lr,records500/08000/08242_hr,['STTC']
+records100/08000/08244_lr,records500/08000/08244_hr,"['HYP', 'CD']"
+records100/08000/08246_lr,records500/08000/08246_hr,['NORM']
+records100/08000/08254_lr,records500/08000/08254_hr,['NORM']
+records100/08000/08256_lr,records500/08000/08256_hr,['MI']
+records100/08000/08259_lr,records500/08000/08259_hr,"['HYP', 'STTC']"
+records100/08000/08261_lr,records500/08000/08261_hr,"['NORM', 'CD']"
+records100/08000/08277_lr,records500/08000/08277_hr,['NORM']
+records100/08000/08278_lr,records500/08000/08278_hr,"['MI', 'CD']"
+records100/08000/08281_lr,records500/08000/08281_hr,"['MI', 'CD']"
+records100/08000/08284_lr,records500/08000/08284_hr,['HYP']
+records100/08000/08344_lr,records500/08000/08344_hr,['MI']
+records100/08000/08406_lr,records500/08000/08406_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/08000/08410_lr,records500/08000/08410_hr,['NORM']
+records100/08000/08415_lr,records500/08000/08415_hr,['MI']
+records100/08000/08442_lr,records500/08000/08442_hr,"['MI', 'STTC']"
+records100/08000/08446_lr,records500/08000/08446_hr,"['MI', 'CD']"
+records100/08000/08450_lr,records500/08000/08450_hr,['STTC']
+records100/08000/08460_lr,records500/08000/08460_hr,['STTC']
+records100/08000/08473_lr,records500/08000/08473_hr,"['MI', 'CD']"
+records100/08000/08475_lr,records500/08000/08475_hr,"['HYP', 'STTC']"
+records100/08000/08482_lr,records500/08000/08482_hr,['CD']
+records100/08000/08492_lr,records500/08000/08492_hr,['NORM']
+records100/08000/08496_lr,records500/08000/08496_hr,['NORM']
+records100/08000/08501_lr,records500/08000/08501_hr,"['HYP', 'STTC']"
+records100/08000/08504_lr,records500/08000/08504_hr,['CD']
+records100/08000/08507_lr,records500/08000/08507_hr,['NORM']
+records100/08000/08509_lr,records500/08000/08509_hr,['MI']
+records100/08000/08524_lr,records500/08000/08524_hr,['HYP']
+records100/08000/08533_lr,records500/08000/08533_hr,['STTC']
+records100/08000/08535_lr,records500/08000/08535_hr,['NORM']
+records100/08000/08538_lr,records500/08000/08538_hr,['NORM']
+records100/08000/08541_lr,records500/08000/08541_hr,['NORM']
+records100/08000/08555_lr,records500/08000/08555_hr,['NORM']
+records100/08000/08591_lr,records500/08000/08591_hr,['STTC']
+records100/08000/08609_lr,records500/08000/08609_hr,['MI']
+records100/08000/08622_lr,records500/08000/08622_hr,['CD']
+records100/08000/08625_lr,records500/08000/08625_hr,['STTC']
+records100/08000/08632_lr,records500/08000/08632_hr,['CD']
+records100/08000/08645_lr,records500/08000/08645_hr,['NORM']
+records100/08000/08663_lr,records500/08000/08663_hr,['NORM']
+records100/08000/08680_lr,records500/08000/08680_hr,"['MI', 'CD']"
+records100/08000/08688_lr,records500/08000/08688_hr,['NORM']
+records100/08000/08704_lr,records500/08000/08704_hr,"['HYP', 'STTC']"
+records100/08000/08712_lr,records500/08000/08712_hr,['CD']
+records100/08000/08727_lr,records500/08000/08727_hr,['NORM']
+records100/08000/08733_lr,records500/08000/08733_hr,"['MI', 'STTC']"
+records100/08000/08736_lr,records500/08000/08736_hr,['STTC']
+records100/08000/08744_lr,records500/08000/08744_hr,"['HYP', 'STTC', 'CD']"
+records100/08000/08765_lr,records500/08000/08765_hr,['NORM']
+records100/08000/08772_lr,records500/08000/08772_hr,"['HYP', 'MI']"
+records100/08000/08774_lr,records500/08000/08774_hr,['NORM']
+records100/08000/08777_lr,records500/08000/08777_hr,['HYP']
+records100/08000/08778_lr,records500/08000/08778_hr,['NORM']
+records100/08000/08795_lr,records500/08000/08795_hr,['STTC']
+records100/08000/08808_lr,records500/08000/08808_hr,['STTC']
+records100/08000/08813_lr,records500/08000/08813_hr,"['STTC', 'CD']"
+records100/08000/08815_lr,records500/08000/08815_hr,"['NORM', 'CD']"
+records100/08000/08833_lr,records500/08000/08833_hr,['NORM']
+records100/08000/08834_lr,records500/08000/08834_hr,['STTC']
+records100/08000/08844_lr,records500/08000/08844_hr,['NORM']
+records100/08000/08853_lr,records500/08000/08853_hr,['NORM']
+records100/08000/08860_lr,records500/08000/08860_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/08000/08864_lr,records500/08000/08864_hr,"['HYP', 'STTC']"
+records100/08000/08873_lr,records500/08000/08873_hr,"['HYP', 'MI']"
+records100/08000/08880_lr,records500/08000/08880_hr,"['HYP', 'CD']"
+records100/08000/08902_lr,records500/08000/08902_hr,['NORM']
+records100/08000/08916_lr,records500/08000/08916_hr,['NORM']
+records100/08000/08922_lr,records500/08000/08922_hr,['NORM']
+records100/08000/08963_lr,records500/08000/08963_hr,['NORM']
+records100/08000/08981_lr,records500/08000/08981_hr,['MI']
+records100/09000/09002_lr,records500/09000/09002_hr,['NORM']
+records100/09000/09010_lr,records500/09000/09010_hr,['NORM']
+records100/09000/09021_lr,records500/09000/09021_hr,"['MI', 'STTC']"
+records100/09000/09024_lr,records500/09000/09024_hr,['HYP']
+records100/09000/09036_lr,records500/09000/09036_hr,['NORM']
+records100/09000/09056_lr,records500/09000/09056_hr,['NORM']
+records100/09000/09063_lr,records500/09000/09063_hr,"['HYP', 'CD']"
+records100/09000/09094_lr,records500/09000/09094_hr,"['MI', 'CD']"
+records100/09000/09095_lr,records500/09000/09095_hr,"['HYP', 'STTC']"
+records100/09000/09108_lr,records500/09000/09108_hr,['CD']
+records100/09000/09110_lr,records500/09000/09110_hr,"['HYP', 'CD']"
+records100/09000/09115_lr,records500/09000/09115_hr,['STTC']
+records100/09000/09133_lr,records500/09000/09133_hr,['NORM']
+records100/09000/09144_lr,records500/09000/09144_hr,"['MI', 'CD']"
+records100/09000/09164_lr,records500/09000/09164_hr,['NORM']
+records100/09000/09167_lr,records500/09000/09167_hr,['STTC']
+records100/09000/09174_lr,records500/09000/09174_hr,['NORM']
+records100/09000/09176_lr,records500/09000/09176_hr,['STTC']
+records100/09000/09178_lr,records500/09000/09178_hr,['NORM']
+records100/09000/09180_lr,records500/09000/09180_hr,"['HYP', 'MI', 'STTC']"
+records100/09000/09183_lr,records500/09000/09183_hr,['CD']
+records100/09000/09187_lr,records500/09000/09187_hr,['NORM']
+records100/09000/09196_lr,records500/09000/09196_hr,['NORM']
+records100/09000/09211_lr,records500/09000/09211_hr,['STTC']
+records100/09000/09217_lr,records500/09000/09217_hr,['CD']
+records100/09000/09229_lr,records500/09000/09229_hr,['NORM']
+records100/09000/09246_lr,records500/09000/09246_hr,['STTC']
+records100/09000/09248_lr,records500/09000/09248_hr,"['HYP', 'MI']"
+records100/09000/09260_lr,records500/09000/09260_hr,['STTC']
+records100/09000/09265_lr,records500/09000/09265_hr,"['MI', 'CD']"
+records100/09000/09272_lr,records500/09000/09272_hr,['NORM']
+records100/09000/09282_lr,records500/09000/09282_hr,['NORM']
+records100/09000/09286_lr,records500/09000/09286_hr,['NORM']
+records100/09000/09299_lr,records500/09000/09299_hr,['HYP']
+records100/09000/09301_lr,records500/09000/09301_hr,['STTC']
+records100/09000/09303_lr,records500/09000/09303_hr,['NORM']
+records100/09000/09306_lr,records500/09000/09306_hr,"['HYP', 'MI', 'CD']"
+records100/09000/09338_lr,records500/09000/09338_hr,['NORM']
+records100/09000/09346_lr,records500/09000/09346_hr,"['MI', 'CD']"
+records100/09000/09353_lr,records500/09000/09353_hr,['NORM']
+records100/09000/09366_lr,records500/09000/09366_hr,"['MI', 'STTC']"
+records100/09000/09396_lr,records500/09000/09396_hr,['NORM']
+records100/09000/09410_lr,records500/09000/09410_hr,['NORM']
+records100/09000/09416_lr,records500/09000/09416_hr,"['MI', 'CD']"
+records100/09000/09422_lr,records500/09000/09422_hr,['MI']
+records100/09000/09449_lr,records500/09000/09449_hr,['NORM']
+records100/09000/09453_lr,records500/09000/09453_hr,['MI']
+records100/09000/09458_lr,records500/09000/09458_hr,['CD']
+records100/09000/09461_lr,records500/09000/09461_hr,['NORM']
+records100/09000/09475_lr,records500/09000/09475_hr,['NORM']
+records100/09000/09543_lr,records500/09000/09543_hr,"['MI', 'STTC', 'CD']"
+records100/09000/09562_lr,records500/09000/09562_hr,['CD']
+records100/09000/09570_lr,records500/09000/09570_hr,"['MI', 'CD']"
+records100/09000/09582_lr,records500/09000/09582_hr,['NORM']
+records100/09000/09583_lr,records500/09000/09583_hr,"['MI', 'CD']"
+records100/09000/09589_lr,records500/09000/09589_hr,['NORM']
+records100/09000/09613_lr,records500/09000/09613_hr,"['MI', 'HYP', 'STTC']"
+records100/09000/09616_lr,records500/09000/09616_hr,['NORM']
+records100/09000/09689_lr,records500/09000/09689_hr,['NORM']
+records100/09000/09702_lr,records500/09000/09702_hr,['NORM']
+records100/09000/09730_lr,records500/09000/09730_hr,['STTC']
+records100/09000/09732_lr,records500/09000/09732_hr,"['MI', 'STTC']"
+records100/09000/09740_lr,records500/09000/09740_hr,['NORM']
+records100/09000/09744_lr,records500/09000/09744_hr,['NORM']
+records100/09000/09749_lr,records500/09000/09749_hr,['STTC']
+records100/09000/09752_lr,records500/09000/09752_hr,['NORM']
+records100/09000/09753_lr,records500/09000/09753_hr,['NORM']
+records100/09000/09756_lr,records500/09000/09756_hr,"['HYP', 'MI', 'STTC']"
+records100/09000/09765_lr,records500/09000/09765_hr,"['MI', 'CD']"
+records100/09000/09773_lr,records500/09000/09773_hr,['NORM']
+records100/09000/09791_lr,records500/09000/09791_hr,['STTC']
+records100/09000/09794_lr,records500/09000/09794_hr,['MI']
+records100/09000/09803_lr,records500/09000/09803_hr,['NORM']
+records100/09000/09819_lr,records500/09000/09819_hr,['MI']
+records100/09000/09823_lr,records500/09000/09823_hr,['CD']
+records100/09000/09833_lr,records500/09000/09833_hr,['STTC']
+records100/09000/09850_lr,records500/09000/09850_hr,['NORM']
+records100/09000/09860_lr,records500/09000/09860_hr,['MI']
+records100/09000/09863_lr,records500/09000/09863_hr,['STTC']
+records100/09000/09865_lr,records500/09000/09865_hr,['NORM']
+records100/09000/09867_lr,records500/09000/09867_hr,['STTC']
+records100/09000/09869_lr,records500/09000/09869_hr,"['HYP', 'STTC', 'CD']"
+records100/09000/09873_lr,records500/09000/09873_hr,['MI']
+records100/09000/09875_lr,records500/09000/09875_hr,"['MI', 'CD']"
+records100/09000/09891_lr,records500/09000/09891_hr,['MI']
+records100/09000/09892_lr,records500/09000/09892_hr,['NORM']
+records100/09000/09897_lr,records500/09000/09897_hr,['STTC']
+records100/09000/09929_lr,records500/09000/09929_hr,"['MI', 'CD']"
+records100/09000/09930_lr,records500/09000/09930_hr,['NORM']
+records100/09000/09943_lr,records500/09000/09943_hr,['STTC']
+records100/09000/09952_lr,records500/09000/09952_hr,['NORM']
+records100/09000/09953_lr,records500/09000/09953_hr,['MI']
+records100/09000/09962_lr,records500/09000/09962_hr,['CD']
+records100/09000/09979_lr,records500/09000/09979_hr,['NORM']
+records100/09000/09981_lr,records500/09000/09981_hr,['NORM']
+records100/09000/09982_lr,records500/09000/09982_hr,['NORM']
+records100/09000/09992_lr,records500/09000/09992_hr,['NORM']
+records100/09000/09994_lr,records500/09000/09994_hr,['NORM']
+records100/09000/09995_lr,records500/09000/09995_hr,['NORM']
+records100/10000/10029_lr,records500/10000/10029_hr,['NORM']
+records100/10000/10054_lr,records500/10000/10054_hr,['STTC']
+records100/10000/10061_lr,records500/10000/10061_hr,"['HYP', 'STTC', 'CD']"
+records100/10000/10076_lr,records500/10000/10076_hr,"['MI', 'STTC']"
+records100/10000/10093_lr,records500/10000/10093_hr,['NORM']
+records100/10000/10102_lr,records500/10000/10102_hr,['STTC']
+records100/10000/10115_lr,records500/10000/10115_hr,"['HYP', 'STTC']"
+records100/10000/10130_lr,records500/10000/10130_hr,['CD']
+records100/10000/10131_lr,records500/10000/10131_hr,['CD']
+records100/10000/10141_lr,records500/10000/10141_hr,['NORM']
+records100/10000/10143_lr,records500/10000/10143_hr,['NORM']
+records100/10000/10151_lr,records500/10000/10151_hr,['NORM']
+records100/10000/10152_lr,records500/10000/10152_hr,['NORM']
+records100/10000/10160_lr,records500/10000/10160_hr,['STTC']
+records100/10000/10177_lr,records500/10000/10177_hr,"['HYP', 'STTC']"
+records100/10000/10180_lr,records500/10000/10180_hr,['HYP']
+records100/10000/10181_lr,records500/10000/10181_hr,['NORM']
+records100/10000/10196_lr,records500/10000/10196_hr,['STTC']
+records100/10000/10200_lr,records500/10000/10200_hr,['STTC']
+records100/10000/10205_lr,records500/10000/10205_hr,['HYP']
+records100/10000/10206_lr,records500/10000/10206_hr,['NORM']
+records100/10000/10207_lr,records500/10000/10207_hr,"['MI', 'CD']"
+records100/10000/10210_lr,records500/10000/10210_hr,['MI']
+records100/10000/10214_lr,records500/10000/10214_hr,['NORM']
+records100/10000/10215_lr,records500/10000/10215_hr,['NORM']
+records100/10000/10238_lr,records500/10000/10238_hr,['NORM']
+records100/10000/10240_lr,records500/10000/10240_hr,['NORM']
+records100/10000/10244_lr,records500/10000/10244_hr,['MI']
+records100/10000/10250_lr,records500/10000/10250_hr,['NORM']
+records100/10000/10255_lr,records500/10000/10255_hr,"['NORM', 'CD']"
+records100/10000/10261_lr,records500/10000/10261_hr,['NORM']
+records100/10000/10268_lr,records500/10000/10268_hr,['NORM']
+records100/10000/10272_lr,records500/10000/10272_hr,['NORM']
+records100/10000/10283_lr,records500/10000/10283_hr,['CD']
+records100/10000/10318_lr,records500/10000/10318_hr,['NORM']
+records100/10000/10327_lr,records500/10000/10327_hr,['NORM']
+records100/10000/10336_lr,records500/10000/10336_hr,"['STTC', 'CD']"
+records100/10000/10342_lr,records500/10000/10342_hr,['STTC']
+records100/10000/10344_lr,records500/10000/10344_hr,"['HYP', 'STTC', 'CD']"
+records100/10000/10356_lr,records500/10000/10356_hr,['NORM']
+records100/10000/10358_lr,records500/10000/10358_hr,['NORM']
+records100/10000/10359_lr,records500/10000/10359_hr,['CD']
+records100/10000/10380_lr,records500/10000/10380_hr,['NORM']
+records100/10000/10383_lr,records500/10000/10383_hr,['CD']
+records100/10000/10388_lr,records500/10000/10388_hr,['HYP']
+records100/10000/10401_lr,records500/10000/10401_hr,"['STTC', 'CD']"
+records100/10000/10431_lr,records500/10000/10431_hr,['NORM']
+records100/10000/10484_lr,records500/10000/10484_hr,['NORM']
+records100/10000/10489_lr,records500/10000/10489_hr,"['NORM', 'CD']"
+records100/10000/10501_lr,records500/10000/10501_hr,['CD']
+records100/10000/10517_lr,records500/10000/10517_hr,['STTC']
+records100/10000/10519_lr,records500/10000/10519_hr,['NORM']
+records100/10000/10537_lr,records500/10000/10537_hr,['NORM']
+records100/10000/10547_lr,records500/10000/10547_hr,['NORM']
+records100/10000/10563_lr,records500/10000/10563_hr,"['HYP', 'STTC', 'CD']"
+records100/10000/10585_lr,records500/10000/10585_hr,['NORM']
+records100/10000/10589_lr,records500/10000/10589_hr,['NORM']
+records100/10000/10594_lr,records500/10000/10594_hr,"['HYP', 'STTC']"
+records100/10000/10596_lr,records500/10000/10596_hr,['NORM']
+records100/10000/10614_lr,records500/10000/10614_hr,['MI']
+records100/10000/10615_lr,records500/10000/10615_hr,"['MI', 'STTC']"
+records100/10000/10624_lr,records500/10000/10624_hr,['STTC']
+records100/10000/10640_lr,records500/10000/10640_hr,"['HYP', 'STTC']"
+records100/10000/10660_lr,records500/10000/10660_hr,"['MI', 'CD']"
+records100/10000/10661_lr,records500/10000/10661_hr,"['STTC', 'CD']"
+records100/10000/10666_lr,records500/10000/10666_hr,['NORM']
+records100/10000/10675_lr,records500/10000/10675_hr,['STTC']
+records100/10000/10687_lr,records500/10000/10687_hr,['NORM']
+records100/10000/10691_lr,records500/10000/10691_hr,['NORM']
+records100/10000/10731_lr,records500/10000/10731_hr,['NORM']
+records100/10000/10743_lr,records500/10000/10743_hr,['STTC']
+records100/10000/10755_lr,records500/10000/10755_hr,"['MI', 'STTC']"
+records100/10000/10760_lr,records500/10000/10760_hr,['NORM']
+records100/10000/10766_lr,records500/10000/10766_hr,"['HYP', 'STTC', 'CD']"
+records100/10000/10806_lr,records500/10000/10806_hr,['NORM']
+records100/10000/10807_lr,records500/10000/10807_hr,"['MI', 'CD']"
+records100/10000/10822_lr,records500/10000/10822_hr,['CD']
+records100/10000/10824_lr,records500/10000/10824_hr,['NORM']
+records100/10000/10828_lr,records500/10000/10828_hr,['MI']
+records100/10000/10837_lr,records500/10000/10837_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/10000/10846_lr,records500/10000/10846_hr,['NORM']
+records100/10000/10847_lr,records500/10000/10847_hr,['NORM']
+records100/10000/10860_lr,records500/10000/10860_hr,['CD']
+records100/10000/10878_lr,records500/10000/10878_hr,"['MI', 'CD']"
+records100/10000/10887_lr,records500/10000/10887_hr,['NORM']
+records100/10000/10888_lr,records500/10000/10888_hr,"['MI', 'CD']"
+records100/10000/10902_lr,records500/10000/10902_hr,"['MI', 'STTC', 'CD']"
+records100/10000/10925_lr,records500/10000/10925_hr,['STTC']
+records100/10000/10950_lr,records500/10000/10950_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/10000/10965_lr,records500/10000/10965_hr,"['MI', 'CD']"
+records100/10000/10970_lr,records500/10000/10970_hr,['NORM']
+records100/10000/10984_lr,records500/10000/10984_hr,"['MI', 'STTC']"
+records100/10000/10990_lr,records500/10000/10990_hr,['NORM']
+records100/11000/11010_lr,records500/11000/11010_hr,['MI']
+records100/11000/11020_lr,records500/11000/11020_hr,"['HYP', 'CD']"
+records100/11000/11030_lr,records500/11000/11030_hr,['STTC']
+records100/11000/11055_lr,records500/11000/11055_hr,['NORM']
+records100/11000/11077_lr,records500/11000/11077_hr,['NORM']
+records100/11000/11102_lr,records500/11000/11102_hr,['NORM']
+records100/11000/11103_lr,records500/11000/11103_hr,['CD']
+records100/11000/11108_lr,records500/11000/11108_hr,"['MI', 'STTC', 'CD']"
+records100/11000/11113_lr,records500/11000/11113_hr,['NORM']
+records100/11000/11124_lr,records500/11000/11124_hr,['NORM']
+records100/11000/11125_lr,records500/11000/11125_hr,['MI']
+records100/11000/11126_lr,records500/11000/11126_hr,['NORM']
+records100/11000/11129_lr,records500/11000/11129_hr,['NORM']
+records100/11000/11132_lr,records500/11000/11132_hr,"['HYP', 'STTC']"
+records100/11000/11139_lr,records500/11000/11139_hr,"['HYP', 'MI', 'STTC']"
+records100/11000/11144_lr,records500/11000/11144_hr,['NORM']
+records100/11000/11152_lr,records500/11000/11152_hr,['NORM']
+records100/11000/11170_lr,records500/11000/11170_hr,"['MI', 'CD']"
+records100/11000/11182_lr,records500/11000/11182_hr,['NORM']
+records100/11000/11212_lr,records500/11000/11212_hr,['MI']
+records100/11000/11226_lr,records500/11000/11226_hr,"['STTC', 'CD']"
+records100/11000/11230_lr,records500/11000/11230_hr,['NORM']
+records100/11000/11238_lr,records500/11000/11238_hr,['MI']
+records100/11000/11285_lr,records500/11000/11285_hr,['MI']
+records100/11000/11286_lr,records500/11000/11286_hr,['MI']
+records100/11000/11319_lr,records500/11000/11319_hr,['MI']
+records100/11000/11336_lr,records500/11000/11336_hr,"['MI', 'CD']"
+records100/11000/11359_lr,records500/11000/11359_hr,['MI']
+records100/11000/11364_lr,records500/11000/11364_hr,['NORM']
+records100/11000/11372_lr,records500/11000/11372_hr,['NORM']
+records100/11000/11406_lr,records500/11000/11406_hr,['MI']
+records100/11000/11411_lr,records500/11000/11411_hr,['NORM']
+records100/11000/11418_lr,records500/11000/11418_hr,['CD']
+records100/11000/11420_lr,records500/11000/11420_hr,['STTC']
+records100/11000/11441_lr,records500/11000/11441_hr,"['HYP', 'CD']"
+records100/11000/11453_lr,records500/11000/11453_hr,['MI']
+records100/11000/11474_lr,records500/11000/11474_hr,['CD']
+records100/11000/11477_lr,records500/11000/11477_hr,['MI']
+records100/11000/11489_lr,records500/11000/11489_hr,['NORM']
+records100/11000/11490_lr,records500/11000/11490_hr,['NORM']
+records100/11000/11500_lr,records500/11000/11500_hr,"['MI', 'CD']"
+records100/11000/11520_lr,records500/11000/11520_hr,['NORM']
+records100/11000/11530_lr,records500/11000/11530_hr,['NORM']
+records100/11000/11532_lr,records500/11000/11532_hr,['NORM']
+records100/11000/11533_lr,records500/11000/11533_hr,['NORM']
+records100/11000/11550_lr,records500/11000/11550_hr,['STTC']
+records100/11000/11564_lr,records500/11000/11564_hr,['NORM']
+records100/11000/11575_lr,records500/11000/11575_hr,['NORM']
+records100/11000/11601_lr,records500/11000/11601_hr,['NORM']
+records100/11000/11605_lr,records500/11000/11605_hr,"['MI', 'CD']"
+records100/11000/11616_lr,records500/11000/11616_hr,"['MI', 'STTC']"
+records100/11000/11644_lr,records500/11000/11644_hr,['STTC']
+records100/11000/11645_lr,records500/11000/11645_hr,['MI']
+records100/11000/11664_lr,records500/11000/11664_hr,['MI']
+records100/11000/11679_lr,records500/11000/11679_hr,['NORM']
+records100/11000/11681_lr,records500/11000/11681_hr,"['HYP', 'STTC', 'CD']"
+records100/11000/11686_lr,records500/11000/11686_hr,"['MI', 'STTC', 'CD']"
+records100/11000/11705_lr,records500/11000/11705_hr,['NORM']
+records100/11000/11711_lr,records500/11000/11711_hr,['NORM']
+records100/11000/11723_lr,records500/11000/11723_hr,['NORM']
+records100/11000/11727_lr,records500/11000/11727_hr,['NORM']
+records100/11000/11738_lr,records500/11000/11738_hr,['CD']
+records100/11000/11739_lr,records500/11000/11739_hr,['NORM']
+records100/11000/11755_lr,records500/11000/11755_hr,"['HYP', 'MI', 'STTC']"
+records100/11000/11758_lr,records500/11000/11758_hr,['STTC']
+records100/11000/11788_lr,records500/11000/11788_hr,['STTC']
+records100/11000/11789_lr,records500/11000/11789_hr,['NORM']
+records100/11000/11799_lr,records500/11000/11799_hr,['MI']
+records100/11000/11802_lr,records500/11000/11802_hr,"['NORM', 'CD']"
+records100/11000/11803_lr,records500/11000/11803_hr,['NORM']
+records100/11000/11805_lr,records500/11000/11805_hr,['NORM']
+records100/11000/11832_lr,records500/11000/11832_hr,"['MI', 'CD']"
+records100/11000/11834_lr,records500/11000/11834_hr,['CD']
+records100/11000/11842_lr,records500/11000/11842_hr,['NORM']
+records100/11000/11843_lr,records500/11000/11843_hr,['NORM']
+records100/11000/11853_lr,records500/11000/11853_hr,['NORM']
+records100/11000/11855_lr,records500/11000/11855_hr,"['MI', 'STTC']"
+records100/11000/11868_lr,records500/11000/11868_hr,['STTC']
+records100/11000/11872_lr,records500/11000/11872_hr,"['HYP', 'MI']"
+records100/11000/11884_lr,records500/11000/11884_hr,['NORM']
+records100/11000/11885_lr,records500/11000/11885_hr,['NORM']
+records100/11000/11896_lr,records500/11000/11896_hr,['MI']
+records100/11000/11899_lr,records500/11000/11899_hr,['MI']
+records100/11000/11901_lr,records500/11000/11901_hr,"['HYP', 'STTC']"
+records100/11000/11916_lr,records500/11000/11916_hr,['STTC']
+records100/11000/11932_lr,records500/11000/11932_hr,"['NORM', 'CD']"
+records100/11000/11933_lr,records500/11000/11933_hr,['NORM']
+records100/11000/11934_lr,records500/11000/11934_hr,['NORM']
+records100/11000/11937_lr,records500/11000/11937_hr,"['MI', 'STTC', 'CD']"
+records100/11000/11956_lr,records500/11000/11956_hr,['NORM']
+records100/12000/12028_lr,records500/12000/12028_hr,"['STTC', 'CD']"
+records100/12000/12031_lr,records500/12000/12031_hr,['HYP']
+records100/12000/12033_lr,records500/12000/12033_hr,['NORM']
+records100/12000/12034_lr,records500/12000/12034_hr,['NORM']
+records100/12000/12074_lr,records500/12000/12074_hr,['NORM']
+records100/12000/12082_lr,records500/12000/12082_hr,"['NORM', 'CD']"
+records100/12000/12112_lr,records500/12000/12112_hr,['MI']
+records100/12000/12122_lr,records500/12000/12122_hr,['HYP']
+records100/12000/12124_lr,records500/12000/12124_hr,['MI']
+records100/12000/12126_lr,records500/12000/12126_hr,['STTC']
+records100/12000/12137_lr,records500/12000/12137_hr,['MI']
+records100/12000/12143_lr,records500/12000/12143_hr,"['MI', 'CD']"
+records100/12000/12144_lr,records500/12000/12144_hr,['NORM']
+records100/12000/12147_lr,records500/12000/12147_hr,['NORM']
+records100/12000/12156_lr,records500/12000/12156_hr,['MI']
+records100/12000/12169_lr,records500/12000/12169_hr,['MI']
+records100/12000/12172_lr,records500/12000/12172_hr,['NORM']
+records100/12000/12176_lr,records500/12000/12176_hr,"['MI', 'CD']"
+records100/12000/12178_lr,records500/12000/12178_hr,['CD']
+records100/12000/12179_lr,records500/12000/12179_hr,"['NORM', 'CD']"
+records100/12000/12181_lr,records500/12000/12181_hr,['NORM']
+records100/12000/12189_lr,records500/12000/12189_hr,"['MI', 'CD']"
+records100/12000/12190_lr,records500/12000/12190_hr,['MI']
+records100/12000/12192_lr,records500/12000/12192_hr,"['HYP', 'CD']"
+records100/12000/12195_lr,records500/12000/12195_hr,['CD']
+records100/12000/12197_lr,records500/12000/12197_hr,['MI']
+records100/12000/12199_lr,records500/12000/12199_hr,['NORM']
+records100/12000/12201_lr,records500/12000/12201_hr,['MI']
+records100/12000/12216_lr,records500/12000/12216_hr,['NORM']
+records100/12000/12220_lr,records500/12000/12220_hr,['NORM']
+records100/12000/12221_lr,records500/12000/12221_hr,"['MI', 'CD']"
+records100/12000/12223_lr,records500/12000/12223_hr,"['MI', 'CD']"
+records100/12000/12224_lr,records500/12000/12224_hr,['MI']
+records100/12000/12230_lr,records500/12000/12230_hr,['NORM']
+records100/12000/12235_lr,records500/12000/12235_hr,"['MI', 'CD']"
+records100/12000/12241_lr,records500/12000/12241_hr,"['MI', 'CD']"
+records100/12000/12252_lr,records500/12000/12252_hr,"['HYP', 'STTC']"
+records100/12000/12254_lr,records500/12000/12254_hr,['NORM']
+records100/12000/12262_lr,records500/12000/12262_hr,"['MI', 'CD']"
+records100/12000/12276_lr,records500/12000/12276_hr,"['NORM', 'CD']"
+records100/12000/12277_lr,records500/12000/12277_hr,['NORM']
+records100/12000/12281_lr,records500/12000/12281_hr,"['STTC', 'CD']"
+records100/12000/12285_lr,records500/12000/12285_hr,['MI']
+records100/12000/12301_lr,records500/12000/12301_hr,['HYP']
+records100/12000/12310_lr,records500/12000/12310_hr,['NORM']
+records100/12000/12328_lr,records500/12000/12328_hr,['MI']
+records100/12000/12336_lr,records500/12000/12336_hr,['NORM']
+records100/12000/12338_lr,records500/12000/12338_hr,"['HYP', 'STTC']"
+records100/12000/12340_lr,records500/12000/12340_hr,['MI']
+records100/12000/12345_lr,records500/12000/12345_hr,['NORM']
+records100/12000/12348_lr,records500/12000/12348_hr,['NORM']
+records100/12000/12353_lr,records500/12000/12353_hr,['STTC']
+records100/12000/12355_lr,records500/12000/12355_hr,['NORM']
+records100/12000/12376_lr,records500/12000/12376_hr,['NORM']
+records100/12000/12400_lr,records500/12000/12400_hr,['CD']
+records100/12000/12407_lr,records500/12000/12407_hr,['NORM']
+records100/12000/12409_lr,records500/12000/12409_hr,['NORM']
+records100/12000/12426_lr,records500/12000/12426_hr,['MI']
+records100/12000/12451_lr,records500/12000/12451_hr,['NORM']
+records100/12000/12475_lr,records500/12000/12475_hr,['NORM']
+records100/12000/12478_lr,records500/12000/12478_hr,['NORM']
+records100/12000/12480_lr,records500/12000/12480_hr,['NORM']
+records100/12000/12519_lr,records500/12000/12519_hr,['STTC']
+records100/12000/12520_lr,records500/12000/12520_hr,['NORM']
+records100/12000/12521_lr,records500/12000/12521_hr,['MI']
+records100/12000/12528_lr,records500/12000/12528_hr,['NORM']
+records100/12000/12529_lr,records500/12000/12529_hr,['NORM']
+records100/12000/12533_lr,records500/12000/12533_hr,"['MI', 'STTC']"
+records100/12000/12545_lr,records500/12000/12545_hr,"['MI', 'STTC']"
+records100/12000/12552_lr,records500/12000/12552_hr,['CD']
+records100/12000/12568_lr,records500/12000/12568_hr,['STTC']
+records100/12000/12576_lr,records500/12000/12576_hr,['CD']
+records100/12000/12577_lr,records500/12000/12577_hr,['NORM']
+records100/12000/12585_lr,records500/12000/12585_hr,"['HYP', 'STTC']"
+records100/12000/12596_lr,records500/12000/12596_hr,['STTC']
+records100/12000/12607_lr,records500/12000/12607_hr,['NORM']
+records100/12000/12609_lr,records500/12000/12609_hr,['NORM']
+records100/12000/12618_lr,records500/12000/12618_hr,['MI']
+records100/12000/12619_lr,records500/12000/12619_hr,['NORM']
+records100/12000/12620_lr,records500/12000/12620_hr,['NORM']
+records100/12000/12631_lr,records500/12000/12631_hr,['MI']
+records100/12000/12641_lr,records500/12000/12641_hr,"['MI', 'CD']"
+records100/12000/12646_lr,records500/12000/12646_hr,"['HYP', 'STTC']"
+records100/12000/12649_lr,records500/12000/12649_hr,"['HYP', 'STTC']"
+records100/12000/12677_lr,records500/12000/12677_hr,['NORM']
+records100/12000/12679_lr,records500/12000/12679_hr,"['HYP', 'STTC', 'CD']"
+records100/12000/12692_lr,records500/12000/12692_hr,['HYP']
+records100/12000/12699_lr,records500/12000/12699_hr,['NORM']
+records100/12000/12702_lr,records500/12000/12702_hr,['NORM']
+records100/12000/12703_lr,records500/12000/12703_hr,['CD']
+records100/12000/12709_lr,records500/12000/12709_hr,['NORM']
+records100/12000/12710_lr,records500/12000/12710_hr,"['MI', 'CD']"
+records100/12000/12711_lr,records500/12000/12711_hr,['NORM']
+records100/12000/12715_lr,records500/12000/12715_hr,['NORM']
+records100/12000/12719_lr,records500/12000/12719_hr,"['HYP', 'MI']"
+records100/12000/12720_lr,records500/12000/12720_hr,['NORM']
+records100/12000/12742_lr,records500/12000/12742_hr,['NORM']
+records100/12000/12758_lr,records500/12000/12758_hr,"['MI', 'STTC']"
+records100/12000/12770_lr,records500/12000/12770_hr,"['STTC', 'CD']"
+records100/12000/12776_lr,records500/12000/12776_hr,['STTC']
+records100/12000/12785_lr,records500/12000/12785_hr,['CD']
+records100/12000/12801_lr,records500/12000/12801_hr,"['MI', 'CD']"
+records100/12000/12828_lr,records500/12000/12828_hr,['MI']
+records100/12000/12835_lr,records500/12000/12835_hr,['NORM']
+records100/12000/12841_lr,records500/12000/12841_hr,['MI']
+records100/12000/12870_lr,records500/12000/12870_hr,['MI']
+records100/12000/12886_lr,records500/12000/12886_hr,['NORM']
+records100/12000/12919_lr,records500/12000/12919_hr,"['NORM', 'CD']"
+records100/12000/12925_lr,records500/12000/12925_hr,['NORM']
+records100/12000/12936_lr,records500/12000/12936_hr,"['MI', 'CD']"
+records100/12000/12937_lr,records500/12000/12937_hr,['CD']
+records100/12000/12941_lr,records500/12000/12941_hr,['MI']
+records100/12000/12991_lr,records500/12000/12991_hr,['MI']
+records100/12000/12999_lr,records500/12000/12999_hr,['NORM']
+records100/13000/13006_lr,records500/13000/13006_hr,['NORM']
+records100/13000/13007_lr,records500/13000/13007_hr,['STTC']
+records100/13000/13014_lr,records500/13000/13014_hr,['NORM']
+records100/13000/13025_lr,records500/13000/13025_hr,['NORM']
+records100/13000/13035_lr,records500/13000/13035_hr,['NORM']
+records100/13000/13052_lr,records500/13000/13052_hr,"['NORM', 'CD']"
+records100/13000/13058_lr,records500/13000/13058_hr,['MI']
+records100/13000/13078_lr,records500/13000/13078_hr,['MI']
+records100/13000/13092_lr,records500/13000/13092_hr,['NORM']
+records100/13000/13120_lr,records500/13000/13120_hr,['NORM']
+records100/13000/13122_lr,records500/13000/13122_hr,"['HYP', 'STTC', 'CD']"
+records100/13000/13139_lr,records500/13000/13139_hr,['STTC']
+records100/13000/13143_lr,records500/13000/13143_hr,['STTC']
+records100/13000/13145_lr,records500/13000/13145_hr,['NORM']
+records100/13000/13158_lr,records500/13000/13158_hr,['MI']
+records100/13000/13166_lr,records500/13000/13166_hr,['MI']
+records100/13000/13167_lr,records500/13000/13167_hr,['CD']
+records100/13000/13212_lr,records500/13000/13212_hr,['NORM']
+records100/13000/13214_lr,records500/13000/13214_hr,['CD']
+records100/13000/13227_lr,records500/13000/13227_hr,"['MI', 'STTC']"
+records100/13000/13233_lr,records500/13000/13233_hr,"['HYP', 'MI', 'STTC']"
+records100/13000/13238_lr,records500/13000/13238_hr,['STTC']
+records100/13000/13248_lr,records500/13000/13248_hr,"['STTC', 'CD']"
+records100/13000/13267_lr,records500/13000/13267_hr,['NORM']
+records100/13000/13268_lr,records500/13000/13268_hr,['NORM']
+records100/13000/13282_lr,records500/13000/13282_hr,['NORM']
+records100/13000/13292_lr,records500/13000/13292_hr,"['HYP', 'STTC']"
+records100/13000/13301_lr,records500/13000/13301_hr,"['HYP', 'STTC']"
+records100/13000/13314_lr,records500/13000/13314_hr,"['NORM', 'CD']"
+records100/13000/13333_lr,records500/13000/13333_hr,['STTC']
+records100/13000/13335_lr,records500/13000/13335_hr,['MI']
+records100/13000/13337_lr,records500/13000/13337_hr,"['MI', 'CD']"
+records100/13000/13338_lr,records500/13000/13338_hr,"['MI', 'CD']"
+records100/13000/13349_lr,records500/13000/13349_hr,['NORM']
+records100/13000/13361_lr,records500/13000/13361_hr,['STTC']
+records100/13000/13370_lr,records500/13000/13370_hr,['NORM']
+records100/13000/13380_lr,records500/13000/13380_hr,['NORM']
+records100/13000/13397_lr,records500/13000/13397_hr,['STTC']
+records100/13000/13398_lr,records500/13000/13398_hr,['NORM']
+records100/13000/13400_lr,records500/13000/13400_hr,['NORM']
+records100/13000/13404_lr,records500/13000/13404_hr,['NORM']
+records100/13000/13405_lr,records500/13000/13405_hr,['MI']
+records100/13000/13446_lr,records500/13000/13446_hr,['STTC']
+records100/13000/13479_lr,records500/13000/13479_hr,['STTC']
+records100/13000/13494_lr,records500/13000/13494_hr,['NORM']
+records100/13000/13499_lr,records500/13000/13499_hr,"['MI', 'STTC', 'CD']"
+records100/13000/13516_lr,records500/13000/13516_hr,['MI']
+records100/13000/13556_lr,records500/13000/13556_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/13000/13577_lr,records500/13000/13577_hr,"['MI', 'STTC']"
+records100/13000/13595_lr,records500/13000/13595_hr,['NORM']
+records100/13000/13612_lr,records500/13000/13612_hr,['CD']
+records100/13000/13630_lr,records500/13000/13630_hr,['NORM']
+records100/13000/13642_lr,records500/13000/13642_hr,['NORM']
+records100/13000/13666_lr,records500/13000/13666_hr,['HYP']
+records100/13000/13711_lr,records500/13000/13711_hr,['CD']
+records100/13000/13712_lr,records500/13000/13712_hr,['NORM']
+records100/13000/13717_lr,records500/13000/13717_hr,['NORM']
+records100/13000/13744_lr,records500/13000/13744_hr,['MI']
+records100/13000/13777_lr,records500/13000/13777_hr,['NORM']
+records100/13000/13786_lr,records500/13000/13786_hr,['NORM']
+records100/13000/13812_lr,records500/13000/13812_hr,"['NORM', 'CD']"
+records100/13000/13819_lr,records500/13000/13819_hr,['MI']
+records100/13000/13835_lr,records500/13000/13835_hr,"['HYP', 'MI']"
+records100/13000/13847_lr,records500/13000/13847_hr,"['MI', 'STTC']"
+records100/13000/13848_lr,records500/13000/13848_hr,['NORM']
+records100/13000/13849_lr,records500/13000/13849_hr,"['MI', 'CD']"
+records100/13000/13853_lr,records500/13000/13853_hr,"['MI', 'CD']"
+records100/13000/13855_lr,records500/13000/13855_hr,"['MI', 'STTC', 'CD']"
+records100/13000/13860_lr,records500/13000/13860_hr,['NORM']
+records100/13000/13867_lr,records500/13000/13867_hr,['STTC']
+records100/13000/13879_lr,records500/13000/13879_hr,['NORM']
+records100/13000/13887_lr,records500/13000/13887_hr,['NORM']
+records100/13000/13895_lr,records500/13000/13895_hr,['NORM']
+records100/13000/13899_lr,records500/13000/13899_hr,"['HYP', 'STTC']"
+records100/13000/13908_lr,records500/13000/13908_hr,"['HYP', 'CD']"
+records100/13000/13912_lr,records500/13000/13912_hr,['MI']
+records100/13000/13913_lr,records500/13000/13913_hr,"['MI', 'CD']"
+records100/13000/13918_lr,records500/13000/13918_hr,['NORM']
+records100/13000/13923_lr,records500/13000/13923_hr,['NORM']
+records100/13000/13926_lr,records500/13000/13926_hr,['CD']
+records100/13000/13946_lr,records500/13000/13946_hr,"['HYP', 'STTC']"
+records100/13000/13954_lr,records500/13000/13954_hr,"['STTC', 'CD']"
+records100/13000/13955_lr,records500/13000/13955_hr,['CD']
+records100/13000/13959_lr,records500/13000/13959_hr,['NORM']
+records100/13000/13971_lr,records500/13000/13971_hr,['NORM']
+records100/13000/13993_lr,records500/13000/13993_hr,['NORM']
+records100/14000/14004_lr,records500/14000/14004_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/14000/14005_lr,records500/14000/14005_hr,"['MI', 'CD']"
+records100/14000/14018_lr,records500/14000/14018_hr,['MI']
+records100/14000/14021_lr,records500/14000/14021_hr,['NORM']
+records100/14000/14026_lr,records500/14000/14026_hr,"['HYP', 'STTC']"
+records100/14000/14027_lr,records500/14000/14027_hr,['NORM']
+records100/14000/14071_lr,records500/14000/14071_hr,['NORM']
+records100/14000/14097_lr,records500/14000/14097_hr,"['NORM', 'CD']"
+records100/14000/14107_lr,records500/14000/14107_hr,['NORM']
+records100/14000/14123_lr,records500/14000/14123_hr,['CD']
+records100/14000/14131_lr,records500/14000/14131_hr,['STTC']
+records100/14000/14138_lr,records500/14000/14138_hr,['NORM']
+records100/14000/14139_lr,records500/14000/14139_hr,['NORM']
+records100/14000/14145_lr,records500/14000/14145_hr,['NORM']
+records100/14000/14146_lr,records500/14000/14146_hr,['NORM']
+records100/14000/14149_lr,records500/14000/14149_hr,['NORM']
+records100/14000/14159_lr,records500/14000/14159_hr,['NORM']
+records100/14000/14166_lr,records500/14000/14166_hr,"['STTC', 'CD']"
+records100/14000/14167_lr,records500/14000/14167_hr,"['HYP', 'STTC']"
+records100/14000/14170_lr,records500/14000/14170_hr,['NORM']
+records100/14000/14177_lr,records500/14000/14177_hr,['NORM']
+records100/14000/14184_lr,records500/14000/14184_hr,['NORM']
+records100/14000/14187_lr,records500/14000/14187_hr,['NORM']
+records100/14000/14192_lr,records500/14000/14192_hr,"['MI', 'CD']"
+records100/14000/14194_lr,records500/14000/14194_hr,"['MI', 'CD']"
+records100/14000/14201_lr,records500/14000/14201_hr,"['HYP', 'STTC', 'CD']"
+records100/14000/14205_lr,records500/14000/14205_hr,['NORM']
+records100/14000/14217_lr,records500/14000/14217_hr,['STTC']
+records100/14000/14220_lr,records500/14000/14220_hr,['NORM']
+records100/14000/14224_lr,records500/14000/14224_hr,"['STTC', 'CD']"
+records100/14000/14238_lr,records500/14000/14238_hr,['STTC']
+records100/14000/14244_lr,records500/14000/14244_hr,['STTC']
+records100/14000/14248_lr,records500/14000/14248_hr,['NORM']
+records100/14000/14256_lr,records500/14000/14256_hr,['NORM']
+records100/14000/14288_lr,records500/14000/14288_hr,"['NORM', 'CD']"
+records100/14000/14301_lr,records500/14000/14301_hr,['NORM']
+records100/14000/14304_lr,records500/14000/14304_hr,['NORM']
+records100/14000/14314_lr,records500/14000/14314_hr,['MI']
+records100/14000/14315_lr,records500/14000/14315_hr,['HYP']
+records100/14000/14350_lr,records500/14000/14350_hr,"['HYP', 'MI', 'STTC']"
+records100/14000/14356_lr,records500/14000/14356_hr,['NORM']
+records100/14000/14375_lr,records500/14000/14375_hr,['NORM']
+records100/14000/14382_lr,records500/14000/14382_hr,['MI']
+records100/14000/14384_lr,records500/14000/14384_hr,['STTC']
+records100/14000/14392_lr,records500/14000/14392_hr,['STTC']
+records100/14000/14400_lr,records500/14000/14400_hr,"['MI', 'CD']"
+records100/14000/14409_lr,records500/14000/14409_hr,['NORM']
+records100/14000/14424_lr,records500/14000/14424_hr,['MI']
+records100/14000/14427_lr,records500/14000/14427_hr,['CD']
+records100/14000/14446_lr,records500/14000/14446_hr,"['MI', 'STTC']"
+records100/14000/14448_lr,records500/14000/14448_hr,"['HYP', 'STTC']"
+records100/14000/14457_lr,records500/14000/14457_hr,['NORM']
+records100/14000/14459_lr,records500/14000/14459_hr,['NORM']
+records100/14000/14501_lr,records500/14000/14501_hr,['NORM']
+records100/14000/14534_lr,records500/14000/14534_hr,"['MI', 'CD']"
+records100/14000/14565_lr,records500/14000/14565_hr,['NORM']
+records100/14000/14580_lr,records500/14000/14580_hr,['NORM']
+records100/14000/14585_lr,records500/14000/14585_hr,"['MI', 'STTC']"
+records100/14000/14597_lr,records500/14000/14597_hr,['NORM']
+records100/14000/14613_lr,records500/14000/14613_hr,['NORM']
+records100/14000/14620_lr,records500/14000/14620_hr,['NORM']
+records100/14000/14627_lr,records500/14000/14627_hr,['MI']
+records100/14000/14628_lr,records500/14000/14628_hr,['STTC']
+records100/14000/14634_lr,records500/14000/14634_hr,['NORM']
+records100/14000/14637_lr,records500/14000/14637_hr,['NORM']
+records100/14000/14647_lr,records500/14000/14647_hr,['MI']
+records100/14000/14653_lr,records500/14000/14653_hr,['CD']
+records100/14000/14662_lr,records500/14000/14662_hr,['NORM']
+records100/14000/14667_lr,records500/14000/14667_hr,['MI']
+records100/14000/14670_lr,records500/14000/14670_hr,"['HYP', 'STTC']"
+records100/14000/14674_lr,records500/14000/14674_hr,['STTC']
+records100/14000/14678_lr,records500/14000/14678_hr,['CD']
+records100/14000/14713_lr,records500/14000/14713_hr,['MI']
+records100/14000/14729_lr,records500/14000/14729_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/14000/14731_lr,records500/14000/14731_hr,"['MI', 'CD']"
+records100/14000/14745_lr,records500/14000/14745_hr,"['HYP', 'STTC']"
+records100/14000/14746_lr,records500/14000/14746_hr,['NORM']
+records100/14000/14762_lr,records500/14000/14762_hr,['MI']
+records100/14000/14771_lr,records500/14000/14771_hr,['NORM']
+records100/14000/14775_lr,records500/14000/14775_hr,['NORM']
+records100/14000/14781_lr,records500/14000/14781_hr,"['MI', 'CD']"
+records100/14000/14805_lr,records500/14000/14805_hr,['HYP']
+records100/14000/14814_lr,records500/14000/14814_hr,['NORM']
+records100/14000/14836_lr,records500/14000/14836_hr,"['HYP', 'STTC', 'CD']"
+records100/14000/14851_lr,records500/14000/14851_hr,['NORM']
+records100/14000/14869_lr,records500/14000/14869_hr,"['HYP', 'STTC']"
+records100/14000/14912_lr,records500/14000/14912_hr,['MI']
+records100/14000/14923_lr,records500/14000/14923_hr,['NORM']
+records100/14000/14937_lr,records500/14000/14937_hr,"['MI', 'CD']"
+records100/14000/14938_lr,records500/14000/14938_hr,['NORM']
+records100/14000/14944_lr,records500/14000/14944_hr,['NORM']
+records100/14000/14946_lr,records500/14000/14946_hr,['NORM']
+records100/14000/14965_lr,records500/14000/14965_hr,"['HYP', 'STTC']"
+records100/14000/14976_lr,records500/14000/14976_hr,['NORM']
+records100/15000/15001_lr,records500/15000/15001_hr,['NORM']
+records100/15000/15015_lr,records500/15000/15015_hr,['NORM']
+records100/15000/15024_lr,records500/15000/15024_hr,"['MI', 'STTC']"
+records100/15000/15034_lr,records500/15000/15034_hr,['MI']
+records100/15000/15057_lr,records500/15000/15057_hr,['NORM']
+records100/15000/15059_lr,records500/15000/15059_hr,"['MI', 'CD']"
+records100/15000/15064_lr,records500/15000/15064_hr,"['STTC', 'CD']"
+records100/15000/15074_lr,records500/15000/15074_hr,['NORM']
+records100/15000/15090_lr,records500/15000/15090_hr,['NORM']
+records100/15000/15094_lr,records500/15000/15094_hr,['NORM']
+records100/15000/15101_lr,records500/15000/15101_hr,['CD']
+records100/15000/15136_lr,records500/15000/15136_hr,['NORM']
+records100/15000/15139_lr,records500/15000/15139_hr,['STTC']
+records100/15000/15141_lr,records500/15000/15141_hr,['MI']
+records100/15000/15180_lr,records500/15000/15180_hr,['MI']
+records100/15000/15203_lr,records500/15000/15203_hr,"['MI', 'CD']"
+records100/15000/15207_lr,records500/15000/15207_hr,['MI']
+records100/15000/15221_lr,records500/15000/15221_hr,['NORM']
+records100/15000/15227_lr,records500/15000/15227_hr,['MI']
+records100/15000/15235_lr,records500/15000/15235_hr,['MI']
+records100/15000/15259_lr,records500/15000/15259_hr,"['MI', 'STTC']"
+records100/15000/15279_lr,records500/15000/15279_hr,"['MI', 'STTC', 'CD']"
+records100/15000/15297_lr,records500/15000/15297_hr,"['STTC', 'CD']"
+records100/15000/15377_lr,records500/15000/15377_hr,['NORM']
+records100/15000/15384_lr,records500/15000/15384_hr,"['HYP', 'STTC']"
+records100/15000/15391_lr,records500/15000/15391_hr,['NORM']
+records100/15000/15400_lr,records500/15000/15400_hr,['MI']
+records100/15000/15421_lr,records500/15000/15421_hr,"['MI', 'CD']"
+records100/15000/15438_lr,records500/15000/15438_hr,['CD']
+records100/15000/15447_lr,records500/15000/15447_hr,['CD']
+records100/15000/15461_lr,records500/15000/15461_hr,['NORM']
+records100/15000/15484_lr,records500/15000/15484_hr,['NORM']
+records100/15000/15487_lr,records500/15000/15487_hr,['NORM']
+records100/15000/15500_lr,records500/15000/15500_hr,"['HYP', 'MI', 'STTC']"
+records100/15000/15507_lr,records500/15000/15507_hr,['NORM']
+records100/15000/15526_lr,records500/15000/15526_hr,['CD']
+records100/15000/15532_lr,records500/15000/15532_hr,['CD']
+records100/15000/15548_lr,records500/15000/15548_hr,['NORM']
+records100/15000/15549_lr,records500/15000/15549_hr,['MI']
+records100/15000/15573_lr,records500/15000/15573_hr,"['MI', 'CD']"
+records100/15000/15575_lr,records500/15000/15575_hr,['NORM']
+records100/15000/15588_lr,records500/15000/15588_hr,['NORM']
+records100/15000/15631_lr,records500/15000/15631_hr,['STTC']
+records100/15000/15638_lr,records500/15000/15638_hr,['NORM']
+records100/15000/15647_lr,records500/15000/15647_hr,['MI']
+records100/15000/15652_lr,records500/15000/15652_hr,['NORM']
+records100/15000/15674_lr,records500/15000/15674_hr,['NORM']
+records100/15000/15677_lr,records500/15000/15677_hr,['NORM']
+records100/15000/15689_lr,records500/15000/15689_hr,"['NORM', 'CD']"
+records100/15000/15715_lr,records500/15000/15715_hr,['NORM']
+records100/15000/15723_lr,records500/15000/15723_hr,['NORM']
+records100/15000/15729_lr,records500/15000/15729_hr,['STTC']
+records100/15000/15732_lr,records500/15000/15732_hr,['NORM']
+records100/15000/15737_lr,records500/15000/15737_hr,['NORM']
+records100/15000/15744_lr,records500/15000/15744_hr,['STTC']
+records100/15000/15757_lr,records500/15000/15757_hr,['STTC']
+records100/15000/15787_lr,records500/15000/15787_hr,"['HYP', 'STTC']"
+records100/15000/15795_lr,records500/15000/15795_hr,['STTC']
+records100/15000/15796_lr,records500/15000/15796_hr,['NORM']
+records100/15000/15797_lr,records500/15000/15797_hr,"['HYP', 'STTC']"
+records100/15000/15798_lr,records500/15000/15798_hr,['CD']
+records100/15000/15800_lr,records500/15000/15800_hr,['STTC']
+records100/15000/15803_lr,records500/15000/15803_hr,['NORM']
+records100/15000/15809_lr,records500/15000/15809_hr,"['HYP', 'MI', 'STTC']"
+records100/15000/15810_lr,records500/15000/15810_hr,"['MI', 'CD']"
+records100/15000/15817_lr,records500/15000/15817_hr,['CD']
+records100/15000/15821_lr,records500/15000/15821_hr,['NORM']
+records100/15000/15852_lr,records500/15000/15852_hr,"['MI', 'CD']"
+records100/15000/15858_lr,records500/15000/15858_hr,['STTC']
+records100/15000/15863_lr,records500/15000/15863_hr,"['HYP', 'STTC']"
+records100/15000/15864_lr,records500/15000/15864_hr,['STTC']
+records100/15000/15865_lr,records500/15000/15865_hr,['MI']
+records100/15000/15871_lr,records500/15000/15871_hr,"['HYP', 'MI', 'STTC']"
+records100/15000/15874_lr,records500/15000/15874_hr,['STTC']
+records100/15000/15897_lr,records500/15000/15897_hr,['NORM']
+records100/15000/15898_lr,records500/15000/15898_hr,['NORM']
+records100/15000/15899_lr,records500/15000/15899_hr,['CD']
+records100/15000/15900_lr,records500/15000/15900_hr,['NORM']
+records100/15000/15901_lr,records500/15000/15901_hr,['NORM']
+records100/15000/15924_lr,records500/15000/15924_hr,['MI']
+records100/15000/15926_lr,records500/15000/15926_hr,['STTC']
+records100/15000/15930_lr,records500/15000/15930_hr,['NORM']
+records100/15000/15948_lr,records500/15000/15948_hr,['NORM']
+records100/15000/15950_lr,records500/15000/15950_hr,['MI']
+records100/15000/15954_lr,records500/15000/15954_hr,"['HYP', 'CD']"
+records100/15000/15958_lr,records500/15000/15958_hr,"['MI', 'CD']"
+records100/15000/15959_lr,records500/15000/15959_hr,['NORM']
+records100/15000/15988_lr,records500/15000/15988_hr,['NORM']
+records100/16000/16003_lr,records500/16000/16003_hr,['NORM']
+records100/16000/16010_lr,records500/16000/16010_hr,"['MI', 'STTC']"
+records100/16000/16024_lr,records500/16000/16024_hr,['NORM']
+records100/16000/16035_lr,records500/16000/16035_hr,"['NORM', 'CD']"
+records100/16000/16038_lr,records500/16000/16038_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/16000/16045_lr,records500/16000/16045_hr,['HYP']
+records100/16000/16046_lr,records500/16000/16046_hr,['CD']
+records100/16000/16061_lr,records500/16000/16061_hr,"['HYP', 'MI', 'STTC']"
+records100/16000/16077_lr,records500/16000/16077_hr,"['MI', 'CD']"
+records100/16000/16100_lr,records500/16000/16100_hr,['CD']
+records100/16000/16101_lr,records500/16000/16101_hr,['STTC']
+records100/16000/16119_lr,records500/16000/16119_hr,['STTC']
+records100/16000/16127_lr,records500/16000/16127_hr,"['MI', 'CD']"
+records100/16000/16129_lr,records500/16000/16129_hr,['NORM']
+records100/16000/16132_lr,records500/16000/16132_hr,['STTC']
+records100/16000/16135_lr,records500/16000/16135_hr,['MI']
+records100/16000/16144_lr,records500/16000/16144_hr,['NORM']
+records100/16000/16147_lr,records500/16000/16147_hr,['NORM']
+records100/16000/16149_lr,records500/16000/16149_hr,['NORM']
+records100/16000/16150_lr,records500/16000/16150_hr,['NORM']
+records100/16000/16152_lr,records500/16000/16152_hr,['MI']
+records100/16000/16168_lr,records500/16000/16168_hr,"['MI', 'CD']"
+records100/16000/16182_lr,records500/16000/16182_hr,['HYP']
+records100/16000/16187_lr,records500/16000/16187_hr,['NORM']
+records100/16000/16193_lr,records500/16000/16193_hr,['NORM']
+records100/16000/16205_lr,records500/16000/16205_hr,"['NORM', 'CD']"
+records100/16000/16214_lr,records500/16000/16214_hr,"['HYP', 'STTC']"
+records100/16000/16224_lr,records500/16000/16224_hr,"['HYP', 'STTC']"
+records100/16000/16225_lr,records500/16000/16225_hr,['MI']
+records100/16000/16233_lr,records500/16000/16233_hr,['NORM']
+records100/16000/16239_lr,records500/16000/16239_hr,['STTC']
+records100/16000/16260_lr,records500/16000/16260_hr,"['STTC', 'CD']"
+records100/16000/16261_lr,records500/16000/16261_hr,['NORM']
+records100/16000/16264_lr,records500/16000/16264_hr,['NORM']
+records100/16000/16272_lr,records500/16000/16272_hr,"['MI', 'STTC', 'CD']"
+records100/16000/16288_lr,records500/16000/16288_hr,['NORM']
+records100/16000/16340_lr,records500/16000/16340_hr,['MI']
+records100/16000/16355_lr,records500/16000/16355_hr,['NORM']
+records100/16000/16357_lr,records500/16000/16357_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/16000/16407_lr,records500/16000/16407_hr,['NORM']
+records100/16000/16425_lr,records500/16000/16425_hr,['NORM']
+records100/16000/16427_lr,records500/16000/16427_hr,"['MI', 'CD']"
+records100/16000/16463_lr,records500/16000/16463_hr,['MI']
+records100/16000/16465_lr,records500/16000/16465_hr,"['MI', 'CD']"
+records100/16000/16468_lr,records500/16000/16468_hr,['NORM']
+records100/16000/16469_lr,records500/16000/16469_hr,['NORM']
+records100/16000/16499_lr,records500/16000/16499_hr,['NORM']
+records100/16000/16511_lr,records500/16000/16511_hr,['STTC']
+records100/16000/16526_lr,records500/16000/16526_hr,['CD']
+records100/16000/16529_lr,records500/16000/16529_hr,['CD']
+records100/16000/16532_lr,records500/16000/16532_hr,['MI']
+records100/16000/16534_lr,records500/16000/16534_hr,['NORM']
+records100/16000/16535_lr,records500/16000/16535_hr,['STTC']
+records100/16000/16537_lr,records500/16000/16537_hr,['NORM']
+records100/16000/16542_lr,records500/16000/16542_hr,['NORM']
+records100/16000/16543_lr,records500/16000/16543_hr,['MI']
+records100/16000/16563_lr,records500/16000/16563_hr,['NORM']
+records100/16000/16564_lr,records500/16000/16564_hr,['MI']
+records100/16000/16566_lr,records500/16000/16566_hr,['MI']
+records100/16000/16572_lr,records500/16000/16572_hr,['NORM']
+records100/16000/16591_lr,records500/16000/16591_hr,['STTC']
+records100/16000/16596_lr,records500/16000/16596_hr,['NORM']
+records100/16000/16602_lr,records500/16000/16602_hr,"['STTC', 'CD']"
+records100/16000/16603_lr,records500/16000/16603_hr,['NORM']
+records100/16000/16609_lr,records500/16000/16609_hr,"['HYP', 'MI', 'STTC']"
+records100/16000/16637_lr,records500/16000/16637_hr,['NORM']
+records100/16000/16647_lr,records500/16000/16647_hr,['NORM']
+records100/16000/16651_lr,records500/16000/16651_hr,['NORM']
+records100/16000/16658_lr,records500/16000/16658_hr,['STTC']
+records100/16000/16674_lr,records500/16000/16674_hr,['CD']
+records100/16000/16692_lr,records500/16000/16692_hr,['MI']
+records100/16000/16700_lr,records500/16000/16700_hr,['CD']
+records100/16000/16707_lr,records500/16000/16707_hr,['STTC']
+records100/16000/16712_lr,records500/16000/16712_hr,['MI']
+records100/16000/16735_lr,records500/16000/16735_hr,"['STTC', 'CD']"
+records100/16000/16748_lr,records500/16000/16748_hr,"['HYP', 'CD']"
+records100/16000/16750_lr,records500/16000/16750_hr,['STTC']
+records100/16000/16780_lr,records500/16000/16780_hr,['NORM']
+records100/16000/16782_lr,records500/16000/16782_hr,['MI']
+records100/16000/16783_lr,records500/16000/16783_hr,"['HYP', 'STTC']"
+records100/16000/16792_lr,records500/16000/16792_hr,['NORM']
+records100/16000/16803_lr,records500/16000/16803_hr,['NORM']
+records100/16000/16807_lr,records500/16000/16807_hr,"['MI', 'STTC']"
+records100/16000/16815_lr,records500/16000/16815_hr,['NORM']
+records100/16000/16817_lr,records500/16000/16817_hr,['NORM']
+records100/16000/16861_lr,records500/16000/16861_hr,"['MI', 'CD']"
+records100/16000/16865_lr,records500/16000/16865_hr,['NORM']
+records100/16000/16871_lr,records500/16000/16871_hr,['STTC']
+records100/16000/16876_lr,records500/16000/16876_hr,"['HYP', 'STTC']"
+records100/16000/16883_lr,records500/16000/16883_hr,['CD']
+records100/16000/16898_lr,records500/16000/16898_hr,"['MI', 'CD']"
+records100/16000/16905_lr,records500/16000/16905_hr,['MI']
+records100/16000/16908_lr,records500/16000/16908_hr,['STTC']
+records100/16000/16915_lr,records500/16000/16915_hr,['STTC']
+records100/16000/16920_lr,records500/16000/16920_hr,['CD']
+records100/16000/16944_lr,records500/16000/16944_hr,['HYP']
+records100/16000/16952_lr,records500/16000/16952_hr,['MI']
+records100/16000/16955_lr,records500/16000/16955_hr,['NORM']
+records100/16000/16975_lr,records500/16000/16975_hr,"['STTC', 'NORM']"
+records100/16000/16993_lr,records500/16000/16993_hr,['NORM']
+records100/16000/16994_lr,records500/16000/16994_hr,['NORM']
+records100/17000/17000_lr,records500/17000/17000_hr,"['MI', 'CD']"
+records100/17000/17007_lr,records500/17000/17007_hr,"['MI', 'CD']"
+records100/17000/17021_lr,records500/17000/17021_hr,['NORM']
+records100/17000/17083_lr,records500/17000/17083_hr,['MI']
+records100/17000/17084_lr,records500/17000/17084_hr,['CD']
+records100/17000/17091_lr,records500/17000/17091_hr,['MI']
+records100/17000/17140_lr,records500/17000/17140_hr,['STTC']
+records100/17000/17169_lr,records500/17000/17169_hr,"['NORM', 'CD']"
+records100/17000/17176_lr,records500/17000/17176_hr,['NORM']
+records100/17000/17192_lr,records500/17000/17192_hr,"['NORM', 'CD']"
+records100/17000/17193_lr,records500/17000/17193_hr,['NORM']
+records100/17000/17202_lr,records500/17000/17202_hr,['CD']
+records100/17000/17214_lr,records500/17000/17214_hr,['NORM']
+records100/17000/17226_lr,records500/17000/17226_hr,['HYP']
+records100/17000/17244_lr,records500/17000/17244_hr,['CD']
+records100/17000/17247_lr,records500/17000/17247_hr,['CD']
+records100/17000/17252_lr,records500/17000/17252_hr,['STTC']
+records100/17000/17259_lr,records500/17000/17259_hr,['STTC']
+records100/17000/17286_lr,records500/17000/17286_hr,"['HYP', 'MI', 'STTC']"
+records100/17000/17290_lr,records500/17000/17290_hr,['NORM']
+records100/17000/17297_lr,records500/17000/17297_hr,['CD']
+records100/17000/17298_lr,records500/17000/17298_hr,"['HYP', 'STTC']"
+records100/17000/17309_lr,records500/17000/17309_hr,"['HYP', 'STTC']"
+records100/17000/17316_lr,records500/17000/17316_hr,['STTC']
+records100/17000/17323_lr,records500/17000/17323_hr,['STTC']
+records100/17000/17325_lr,records500/17000/17325_hr,['HYP']
+records100/17000/17358_lr,records500/17000/17358_hr,['NORM']
+records100/17000/17370_lr,records500/17000/17370_hr,['NORM']
+records100/17000/17371_lr,records500/17000/17371_hr,['CD']
+records100/17000/17401_lr,records500/17000/17401_hr,"['MI', 'CD']"
+records100/17000/17403_lr,records500/17000/17403_hr,['MI']
+records100/17000/17404_lr,records500/17000/17404_hr,"['MI', 'STTC']"
+records100/17000/17419_lr,records500/17000/17419_hr,['MI']
+records100/17000/17420_lr,records500/17000/17420_hr,['MI']
+records100/17000/17430_lr,records500/17000/17430_hr,['MI']
+records100/17000/17431_lr,records500/17000/17431_hr,"['MI', 'CD']"
+records100/17000/17455_lr,records500/17000/17455_hr,['NORM']
+records100/17000/17482_lr,records500/17000/17482_hr,"['MI', 'CD']"
+records100/17000/17511_lr,records500/17000/17511_hr,['NORM']
+records100/17000/17525_lr,records500/17000/17525_hr,['NORM']
+records100/17000/17536_lr,records500/17000/17536_hr,['STTC']
+records100/17000/17539_lr,records500/17000/17539_hr,['CD']
+records100/17000/17547_lr,records500/17000/17547_hr,['NORM']
+records100/17000/17575_lr,records500/17000/17575_hr,['MI']
+records100/17000/17577_lr,records500/17000/17577_hr,['NORM']
+records100/17000/17590_lr,records500/17000/17590_hr,['STTC']
+records100/17000/17592_lr,records500/17000/17592_hr,['NORM']
+records100/17000/17593_lr,records500/17000/17593_hr,['NORM']
+records100/17000/17608_lr,records500/17000/17608_hr,['NORM']
+records100/17000/17617_lr,records500/17000/17617_hr,['CD']
+records100/17000/17621_lr,records500/17000/17621_hr,['NORM']
+records100/17000/17623_lr,records500/17000/17623_hr,['NORM']
+records100/17000/17638_lr,records500/17000/17638_hr,"['HYP', 'CD']"
+records100/17000/17641_lr,records500/17000/17641_hr,['NORM']
+records100/17000/17648_lr,records500/17000/17648_hr,['STTC']
+records100/17000/17655_lr,records500/17000/17655_hr,['STTC']
+records100/17000/17658_lr,records500/17000/17658_hr,"['MI', 'STTC']"
+records100/17000/17661_lr,records500/17000/17661_hr,['NORM']
+records100/17000/17676_lr,records500/17000/17676_hr,['NORM']
+records100/17000/17689_lr,records500/17000/17689_hr,"['NORM', 'CD']"
+records100/17000/17690_lr,records500/17000/17690_hr,"['HYP', 'STTC', 'CD']"
+records100/17000/17700_lr,records500/17000/17700_hr,['CD']
+records100/17000/17701_lr,records500/17000/17701_hr,['HYP']
+records100/17000/17711_lr,records500/17000/17711_hr,['NORM']
+records100/17000/17719_lr,records500/17000/17719_hr,"['MI', 'CD']"
+records100/17000/17731_lr,records500/17000/17731_hr,['NORM']
+records100/17000/17737_lr,records500/17000/17737_hr,['NORM']
+records100/17000/17739_lr,records500/17000/17739_hr,['NORM']
+records100/17000/17744_lr,records500/17000/17744_hr,['MI']
+records100/17000/17748_lr,records500/17000/17748_hr,['NORM']
+records100/17000/17749_lr,records500/17000/17749_hr,['NORM']
+records100/17000/17780_lr,records500/17000/17780_hr,['NORM']
+records100/17000/17805_lr,records500/17000/17805_hr,['NORM']
+records100/17000/17808_lr,records500/17000/17808_hr,['MI']
+records100/17000/17818_lr,records500/17000/17818_hr,['STTC']
+records100/17000/17827_lr,records500/17000/17827_hr,['NORM']
+records100/17000/17839_lr,records500/17000/17839_hr,['STTC']
+records100/17000/17860_lr,records500/17000/17860_hr,"['STTC', 'CD']"
+records100/17000/17865_lr,records500/17000/17865_hr,['NORM']
+records100/17000/17866_lr,records500/17000/17866_hr,"['HYP', 'MI']"
+records100/17000/17868_lr,records500/17000/17868_hr,"['HYP', 'MI']"
+records100/17000/17870_lr,records500/17000/17870_hr,"['STTC', 'CD']"
+records100/17000/17885_lr,records500/17000/17885_hr,['CD']
+records100/17000/17888_lr,records500/17000/17888_hr,"['NORM', 'CD']"
+records100/17000/17891_lr,records500/17000/17891_hr,['NORM']
+records100/17000/17904_lr,records500/17000/17904_hr,['MI']
+records100/17000/17906_lr,records500/17000/17906_hr,['CD']
+records100/17000/17909_lr,records500/17000/17909_hr,['CD']
+records100/17000/17910_lr,records500/17000/17910_hr,['MI']
+records100/17000/17918_lr,records500/17000/17918_hr,['NORM']
+records100/17000/17919_lr,records500/17000/17919_hr,['NORM']
+records100/17000/17920_lr,records500/17000/17920_hr,['CD']
+records100/17000/17921_lr,records500/17000/17921_hr,['NORM']
+records100/17000/17935_lr,records500/17000/17935_hr,['NORM']
+records100/17000/17936_lr,records500/17000/17936_hr,['CD']
+records100/17000/17937_lr,records500/17000/17937_hr,"['HYP', 'CD']"
+records100/17000/17951_lr,records500/17000/17951_hr,['MI']
+records100/17000/17959_lr,records500/17000/17959_hr,['STTC']
+records100/17000/17970_lr,records500/17000/17970_hr,['NORM']
+records100/17000/17983_lr,records500/17000/17983_hr,['STTC']
+records100/17000/17995_lr,records500/17000/17995_hr,"['HYP', 'STTC', 'CD']"
+records100/17000/17996_lr,records500/17000/17996_hr,['NORM']
+records100/18000/18017_lr,records500/18000/18017_hr,['HYP']
+records100/18000/18019_lr,records500/18000/18019_hr,"['MI', 'STTC']"
+records100/18000/18055_lr,records500/18000/18055_hr,['NORM']
+records100/18000/18056_lr,records500/18000/18056_hr,['MI']
+records100/18000/18057_lr,records500/18000/18057_hr,"['MI', 'STTC']"
+records100/18000/18068_lr,records500/18000/18068_hr,['NORM']
+records100/18000/18111_lr,records500/18000/18111_hr,['NORM']
+records100/18000/18121_lr,records500/18000/18121_hr,['CD']
+records100/18000/18131_lr,records500/18000/18131_hr,"['MI', 'CD']"
+records100/18000/18132_lr,records500/18000/18132_hr,['NORM']
+records100/18000/18134_lr,records500/18000/18134_hr,['NORM']
+records100/18000/18140_lr,records500/18000/18140_hr,"['STTC', 'CD']"
+records100/18000/18162_lr,records500/18000/18162_hr,"['HYP', 'STTC']"
+records100/18000/18172_lr,records500/18000/18172_hr,['NORM']
+records100/18000/18175_lr,records500/18000/18175_hr,['NORM']
+records100/18000/18200_lr,records500/18000/18200_hr,['NORM']
+records100/18000/18202_lr,records500/18000/18202_hr,['CD']
+records100/18000/18232_lr,records500/18000/18232_hr,['NORM']
+records100/18000/18234_lr,records500/18000/18234_hr,"['HYP', 'STTC']"
+records100/18000/18240_lr,records500/18000/18240_hr,['CD']
+records100/18000/18256_lr,records500/18000/18256_hr,"['MI', 'STTC']"
+records100/18000/18266_lr,records500/18000/18266_hr,"['STTC', 'NORM']"
+records100/18000/18295_lr,records500/18000/18295_hr,"['MI', 'CD']"
+records100/18000/18296_lr,records500/18000/18296_hr,['STTC']
+records100/18000/18332_lr,records500/18000/18332_hr,"['NORM', 'CD']"
+records100/18000/18363_lr,records500/18000/18363_hr,"['MI', 'STTC']"
+records100/18000/18364_lr,records500/18000/18364_hr,['MI']
+records100/18000/18365_lr,records500/18000/18365_hr,['NORM']
+records100/18000/18367_lr,records500/18000/18367_hr,['NORM']
+records100/18000/18392_lr,records500/18000/18392_hr,['NORM']
+records100/18000/18416_lr,records500/18000/18416_hr,['NORM']
+records100/18000/18421_lr,records500/18000/18421_hr,"['MI', 'CD']"
+records100/18000/18422_lr,records500/18000/18422_hr,['STTC']
+records100/18000/18425_lr,records500/18000/18425_hr,['STTC']
+records100/18000/18432_lr,records500/18000/18432_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/18000/18464_lr,records500/18000/18464_hr,['STTC']
+records100/18000/18473_lr,records500/18000/18473_hr,['NORM']
+records100/18000/18490_lr,records500/18000/18490_hr,['MI']
+records100/18000/18499_lr,records500/18000/18499_hr,['CD']
+records100/18000/18501_lr,records500/18000/18501_hr,['NORM']
+records100/18000/18506_lr,records500/18000/18506_hr,['MI']
+records100/18000/18519_lr,records500/18000/18519_hr,['NORM']
+records100/18000/18520_lr,records500/18000/18520_hr,"['MI', 'STTC', 'CD']"
+records100/18000/18548_lr,records500/18000/18548_hr,['CD']
+records100/18000/18592_lr,records500/18000/18592_hr,['MI']
+records100/18000/18612_lr,records500/18000/18612_hr,['NORM']
+records100/18000/18620_lr,records500/18000/18620_hr,['NORM']
+records100/18000/18638_lr,records500/18000/18638_hr,['CD']
+records100/18000/18639_lr,records500/18000/18639_hr,['NORM']
+records100/18000/18644_lr,records500/18000/18644_hr,"['HYP', 'MI']"
+records100/18000/18656_lr,records500/18000/18656_hr,['NORM']
+records100/18000/18661_lr,records500/18000/18661_hr,['NORM']
+records100/18000/18671_lr,records500/18000/18671_hr,['CD']
+records100/18000/18673_lr,records500/18000/18673_hr,['NORM']
+records100/18000/18676_lr,records500/18000/18676_hr,"['HYP', 'STTC']"
+records100/18000/18708_lr,records500/18000/18708_hr,['STTC']
+records100/18000/18710_lr,records500/18000/18710_hr,"['MI', 'CD']"
+records100/18000/18712_lr,records500/18000/18712_hr,"['HYP', 'MI', 'STTC']"
+records100/18000/18737_lr,records500/18000/18737_hr,['MI']
+records100/18000/18739_lr,records500/18000/18739_hr,['MI']
+records100/18000/18740_lr,records500/18000/18740_hr,['MI']
+records100/18000/18742_lr,records500/18000/18742_hr,['NORM']
+records100/18000/18752_lr,records500/18000/18752_hr,"['MI', 'STTC', 'CD']"
+records100/18000/18756_lr,records500/18000/18756_hr,"['MI', 'STTC']"
+records100/18000/18758_lr,records500/18000/18758_hr,['MI']
+records100/18000/18761_lr,records500/18000/18761_hr,['NORM']
+records100/18000/18762_lr,records500/18000/18762_hr,['MI']
+records100/18000/18775_lr,records500/18000/18775_hr,"['MI', 'CD']"
+records100/18000/18777_lr,records500/18000/18777_hr,['CD']
+records100/18000/18797_lr,records500/18000/18797_hr,"['MI', 'CD']"
+records100/18000/18802_lr,records500/18000/18802_hr,['NORM']
+records100/18000/18808_lr,records500/18000/18808_hr,['STTC']
+records100/18000/18831_lr,records500/18000/18831_hr,['CD']
+records100/18000/18847_lr,records500/18000/18847_hr,['NORM']
+records100/18000/18859_lr,records500/18000/18859_hr,"['MI', 'STTC', 'CD']"
+records100/18000/18882_lr,records500/18000/18882_hr,['NORM']
+records100/18000/18888_lr,records500/18000/18888_hr,['NORM']
+records100/18000/18891_lr,records500/18000/18891_hr,['CD']
+records100/18000/18914_lr,records500/18000/18914_hr,['CD']
+records100/18000/18916_lr,records500/18000/18916_hr,['CD']
+records100/18000/18937_lr,records500/18000/18937_hr,['STTC']
+records100/18000/18974_lr,records500/18000/18974_hr,['CD']
+records100/18000/18982_lr,records500/18000/18982_hr,['NORM']
+records100/19000/19017_lr,records500/19000/19017_hr,['MI']
+records100/19000/19042_lr,records500/19000/19042_hr,['NORM']
+records100/19000/19053_lr,records500/19000/19053_hr,['MI']
+records100/19000/19054_lr,records500/19000/19054_hr,['MI']
+records100/19000/19067_lr,records500/19000/19067_hr,['MI']
+records100/19000/19074_lr,records500/19000/19074_hr,"['MI', 'CD']"
+records100/19000/19077_lr,records500/19000/19077_hr,['NORM']
+records100/19000/19081_lr,records500/19000/19081_hr,['CD']
+records100/19000/19097_lr,records500/19000/19097_hr,"['MI', 'STTC']"
+records100/19000/19104_lr,records500/19000/19104_hr,['MI']
+records100/19000/19134_lr,records500/19000/19134_hr,['CD']
+records100/19000/19147_lr,records500/19000/19147_hr,['CD']
+records100/19000/19164_lr,records500/19000/19164_hr,"['STTC', 'CD']"
+records100/19000/19187_lr,records500/19000/19187_hr,['MI']
+records100/19000/19208_lr,records500/19000/19208_hr,['NORM']
+records100/19000/19209_lr,records500/19000/19209_hr,['STTC']
+records100/19000/19213_lr,records500/19000/19213_hr,['NORM']
+records100/19000/19217_lr,records500/19000/19217_hr,['NORM']
+records100/19000/19226_lr,records500/19000/19226_hr,['STTC']
+records100/19000/19231_lr,records500/19000/19231_hr,['NORM']
+records100/19000/19250_lr,records500/19000/19250_hr,['STTC']
+records100/19000/19251_lr,records500/19000/19251_hr,['STTC']
+records100/19000/19254_lr,records500/19000/19254_hr,['NORM']
+records100/19000/19256_lr,records500/19000/19256_hr,['NORM']
+records100/19000/19267_lr,records500/19000/19267_hr,"['HYP', 'STTC', 'CD']"
+records100/19000/19268_lr,records500/19000/19268_hr,['STTC']
+records100/19000/19271_lr,records500/19000/19271_hr,['NORM']
+records100/19000/19286_lr,records500/19000/19286_hr,['NORM']
+records100/19000/19287_lr,records500/19000/19287_hr,['NORM']
+records100/19000/19291_lr,records500/19000/19291_hr,['NORM']
+records100/19000/19293_lr,records500/19000/19293_hr,['NORM']
+records100/19000/19305_lr,records500/19000/19305_hr,['CD']
+records100/19000/19314_lr,records500/19000/19314_hr,['NORM']
+records100/19000/19316_lr,records500/19000/19316_hr,['MI']
+records100/19000/19324_lr,records500/19000/19324_hr,['NORM']
+records100/19000/19328_lr,records500/19000/19328_hr,['STTC']
+records100/19000/19330_lr,records500/19000/19330_hr,['CD']
+records100/19000/19333_lr,records500/19000/19333_hr,['NORM']
+records100/19000/19334_lr,records500/19000/19334_hr,['MI']
+records100/19000/19345_lr,records500/19000/19345_hr,['CD']
+records100/19000/19350_lr,records500/19000/19350_hr,['NORM']
+records100/19000/19353_lr,records500/19000/19353_hr,['MI']
+records100/19000/19370_lr,records500/19000/19370_hr,['MI']
+records100/19000/19376_lr,records500/19000/19376_hr,['NORM']
+records100/19000/19388_lr,records500/19000/19388_hr,"['MI', 'STTC']"
+records100/19000/19396_lr,records500/19000/19396_hr,['MI']
+records100/19000/19402_lr,records500/19000/19402_hr,['MI']
+records100/19000/19408_lr,records500/19000/19408_hr,"['STTC', 'CD']"
+records100/19000/19409_lr,records500/19000/19409_hr,['MI']
+records100/19000/19412_lr,records500/19000/19412_hr,['NORM']
+records100/19000/19424_lr,records500/19000/19424_hr,['NORM']
+records100/19000/19427_lr,records500/19000/19427_hr,['STTC']
+records100/19000/19432_lr,records500/19000/19432_hr,['NORM']
+records100/19000/19461_lr,records500/19000/19461_hr,"['NORM', 'CD']"
+records100/19000/19466_lr,records500/19000/19466_hr,['NORM']
+records100/19000/19507_lr,records500/19000/19507_hr,['MI']
+records100/19000/19517_lr,records500/19000/19517_hr,['STTC']
+records100/19000/19526_lr,records500/19000/19526_hr,"['HYP', 'MI', 'STTC']"
+records100/19000/19547_lr,records500/19000/19547_hr,['STTC']
+records100/19000/19571_lr,records500/19000/19571_hr,['MI']
+records100/19000/19572_lr,records500/19000/19572_hr,['MI']
+records100/19000/19605_lr,records500/19000/19605_hr,['NORM']
+records100/19000/19661_lr,records500/19000/19661_hr,['MI']
+records100/19000/19664_lr,records500/19000/19664_hr,"['HYP', 'CD']"
+records100/19000/19669_lr,records500/19000/19669_hr,['NORM']
+records100/19000/19670_lr,records500/19000/19670_hr,['NORM']
+records100/19000/19686_lr,records500/19000/19686_hr,"['HYP', 'MI', 'CD']"
+records100/19000/19695_lr,records500/19000/19695_hr,['CD']
+records100/19000/19701_lr,records500/19000/19701_hr,['CD']
+records100/19000/19703_lr,records500/19000/19703_hr,['NORM']
+records100/19000/19723_lr,records500/19000/19723_hr,['NORM']
+records100/19000/19726_lr,records500/19000/19726_hr,"['MI', 'CD']"
+records100/19000/19780_lr,records500/19000/19780_hr,"['MI', 'CD']"
+records100/19000/19848_lr,records500/19000/19848_hr,"['MI', 'CD']"
+records100/19000/19853_lr,records500/19000/19853_hr,['NORM']
+records100/19000/19858_lr,records500/19000/19858_hr,['CD']
+records100/19000/19867_lr,records500/19000/19867_hr,['NORM']
+records100/19000/19877_lr,records500/19000/19877_hr,['MI']
+records100/19000/19882_lr,records500/19000/19882_hr,['CD']
+records100/19000/19884_lr,records500/19000/19884_hr,['NORM']
+records100/19000/19893_lr,records500/19000/19893_hr,['NORM']
+records100/19000/19906_lr,records500/19000/19906_hr,"['MI', 'CD']"
+records100/19000/19914_lr,records500/19000/19914_hr,['STTC']
+records100/19000/19920_lr,records500/19000/19920_hr,['CD']
+records100/19000/19924_lr,records500/19000/19924_hr,['NORM']
+records100/19000/19929_lr,records500/19000/19929_hr,['NORM']
+records100/19000/19935_lr,records500/19000/19935_hr,"['MI', 'STTC', 'CD']"
+records100/19000/19942_lr,records500/19000/19942_hr,['NORM']
+records100/19000/19951_lr,records500/19000/19951_hr,['CD']
+records100/19000/19955_lr,records500/19000/19955_hr,['NORM']
+records100/19000/19956_lr,records500/19000/19956_hr,['MI']
+records100/19000/19959_lr,records500/19000/19959_hr,['NORM']
+records100/19000/19960_lr,records500/19000/19960_hr,['NORM']
+records100/19000/19981_lr,records500/19000/19981_hr,['NORM']
+records100/19000/19987_lr,records500/19000/19987_hr,['NORM']
+records100/19000/19990_lr,records500/19000/19990_hr,['STTC']
+records100/20000/20023_lr,records500/20000/20023_hr,['NORM']
+records100/20000/20024_lr,records500/20000/20024_hr,['STTC']
+records100/20000/20037_lr,records500/20000/20037_hr,['NORM']
+records100/20000/20049_lr,records500/20000/20049_hr,['STTC']
+records100/20000/20068_lr,records500/20000/20068_hr,['STTC']
+records100/20000/20079_lr,records500/20000/20079_hr,['MI']
+records100/20000/20084_lr,records500/20000/20084_hr,['STTC']
+records100/20000/20100_lr,records500/20000/20100_hr,['CD']
+records100/20000/20117_lr,records500/20000/20117_hr,['NORM']
+records100/20000/20120_lr,records500/20000/20120_hr,['CD']
+records100/20000/20127_lr,records500/20000/20127_hr,['NORM']
+records100/20000/20141_lr,records500/20000/20141_hr,['CD']
+records100/20000/20149_lr,records500/20000/20149_hr,['NORM']
+records100/20000/20152_lr,records500/20000/20152_hr,['STTC']
+records100/20000/20198_lr,records500/20000/20198_hr,['NORM']
+records100/20000/20211_lr,records500/20000/20211_hr,['HYP']
+records100/20000/20214_lr,records500/20000/20214_hr,"['HYP', 'MI', 'STTC', 'CD']"
+records100/20000/20220_lr,records500/20000/20220_hr,['NORM']
+records100/20000/20224_lr,records500/20000/20224_hr,"['MI', 'CD']"
+records100/20000/20236_lr,records500/20000/20236_hr,"['HYP', 'STTC']"
+records100/20000/20240_lr,records500/20000/20240_hr,"['MI', 'STTC']"
+records100/20000/20241_lr,records500/20000/20241_hr,['NORM']
+records100/20000/20242_lr,records500/20000/20242_hr,['HYP']
+records100/20000/20252_lr,records500/20000/20252_hr,['CD']
+records100/20000/20280_lr,records500/20000/20280_hr,['NORM']
+records100/20000/20288_lr,records500/20000/20288_hr,['MI']
+records100/20000/20301_lr,records500/20000/20301_hr,"['MI', 'CD']"
+records100/20000/20313_lr,records500/20000/20313_hr,"['MI', 'CD']"
+records100/20000/20317_lr,records500/20000/20317_hr,['MI']
+records100/20000/20330_lr,records500/20000/20330_hr,['MI']
+records100/20000/20356_lr,records500/20000/20356_hr,['NORM']
+records100/20000/20369_lr,records500/20000/20369_hr,['HYP']
+records100/20000/20387_lr,records500/20000/20387_hr,['NORM']
+records100/20000/20401_lr,records500/20000/20401_hr,['NORM']
+records100/20000/20402_lr,records500/20000/20402_hr,['NORM']
+records100/20000/20515_lr,records500/20000/20515_hr,"['MI', 'CD']"
+records100/20000/20523_lr,records500/20000/20523_hr,['NORM']
+records100/20000/20536_lr,records500/20000/20536_hr,"['MI', 'CD']"
+records100/20000/20549_lr,records500/20000/20549_hr,['NORM']
+records100/20000/20563_lr,records500/20000/20563_hr,['STTC']
+records100/20000/20566_lr,records500/20000/20566_hr,['STTC']
+records100/20000/20576_lr,records500/20000/20576_hr,['NORM']
+records100/20000/20602_lr,records500/20000/20602_hr,"['STTC', 'CD']"
+records100/20000/20603_lr,records500/20000/20603_hr,['NORM']
+records100/20000/20624_lr,records500/20000/20624_hr,['NORM']
+records100/20000/20646_lr,records500/20000/20646_hr,"['MI', 'CD']"
+records100/20000/20671_lr,records500/20000/20671_hr,['NORM']
+records100/20000/20674_lr,records500/20000/20674_hr,['CD']
+records100/20000/20684_lr,records500/20000/20684_hr,['NORM']
+records100/20000/20724_lr,records500/20000/20724_hr,['NORM']
+records100/20000/20730_lr,records500/20000/20730_hr,['NORM']
+records100/20000/20753_lr,records500/20000/20753_hr,['STTC']
+records100/20000/20775_lr,records500/20000/20775_hr,['MI']
+records100/20000/20776_lr,records500/20000/20776_hr,['STTC']
+records100/20000/20801_lr,records500/20000/20801_hr,['STTC']
+records100/20000/20831_lr,records500/20000/20831_hr,['NORM']
+records100/20000/20865_lr,records500/20000/20865_hr,"['MI', 'CD']"
+records100/20000/20873_lr,records500/20000/20873_hr,['STTC']
+records100/20000/20887_lr,records500/20000/20887_hr,['NORM']
+records100/20000/20891_lr,records500/20000/20891_hr,['NORM']
+records100/20000/20893_lr,records500/20000/20893_hr,['CD']
+records100/20000/20902_lr,records500/20000/20902_hr,"['MI', 'CD']"
+records100/20000/20905_lr,records500/20000/20905_hr,['NORM']
+records100/20000/20939_lr,records500/20000/20939_hr,['STTC']
+records100/20000/20943_lr,records500/20000/20943_hr,['NORM']
+records100/20000/20950_lr,records500/20000/20950_hr,"['HYP', 'CD']"
+records100/20000/20958_lr,records500/20000/20958_hr,['MI']
+records100/20000/20966_lr,records500/20000/20966_hr,['CD']
+records100/20000/20974_lr,records500/20000/20974_hr,['MI']
+records100/21000/21004_lr,records500/21000/21004_hr,"['MI', 'STTC']"
+records100/21000/21011_lr,records500/21000/21011_hr,['CD']
+records100/21000/21017_lr,records500/21000/21017_hr,['STTC']
+records100/21000/21021_lr,records500/21000/21021_hr,"['HYP', 'STTC']"
+records100/21000/21028_lr,records500/21000/21028_hr,['MI']
+records100/21000/21036_lr,records500/21000/21036_hr,['NORM']
+records100/21000/21085_lr,records500/21000/21085_hr,['CD']
+records100/21000/21093_lr,records500/21000/21093_hr,['CD']
+records100/21000/21099_lr,records500/21000/21099_hr,['STTC']
+records100/21000/21104_lr,records500/21000/21104_hr,"['HYP', 'MI', 'STTC']"
+records100/21000/21111_lr,records500/21000/21111_hr,['CD']
+records100/21000/21148_lr,records500/21000/21148_hr,['CD']
+records100/21000/21163_lr,records500/21000/21163_hr,"['MI', 'CD']"
+records100/21000/21173_lr,records500/21000/21173_hr,"['HYP', 'MI', 'STTC']"
+records100/21000/21177_lr,records500/21000/21177_hr,['NORM']
+records100/21000/21181_lr,records500/21000/21181_hr,['CD']
+records100/21000/21205_lr,records500/21000/21205_hr,['MI']
+records100/21000/21306_lr,records500/21000/21306_hr,['MI']
+records100/21000/21325_lr,records500/21000/21325_hr,"['HYP', 'CD']"
+records100/21000/21363_lr,records500/21000/21363_hr,['MI']
+records100/21000/21385_lr,records500/21000/21385_hr,['NORM']
+records100/21000/21391_lr,records500/21000/21391_hr,['NORM']
+records100/21000/21431_lr,records500/21000/21431_hr,"['HYP', 'STTC', 'CD']"
+records100/21000/21444_lr,records500/21000/21444_hr,['NORM']
+records100/21000/21555_lr,records500/21000/21555_hr,"['HYP', 'STTC']"
+records100/21000/21584_lr,records500/21000/21584_hr,['MI']
+records100/21000/21622_lr,records500/21000/21622_hr,['NORM']
+records100/21000/21673_lr,records500/21000/21673_hr,"['HYP', 'STTC']"
+records100/21000/21675_lr,records500/21000/21675_hr,"['HYP', 'STTC', 'CD']"
+records100/21000/21764_lr,records500/21000/21764_hr,"['MI', 'CD']"
+records100/21000/21796_lr,records500/21000/21796_hr,"['MI', 'CD']"
+records100/21000/21809_lr,records500/21000/21809_hr,['NORM']
+records100/21000/21812_lr,records500/21000/21812_hr,['CD']
+records100/21000/21818_lr,records500/21000/21818_hr,['NORM']
+records100/21000/21819_lr,records500/21000/21819_hr,['CD']
+records100/21000/21826_lr,records500/21000/21826_hr,['MI']

@@ -1,0 +1,52 @@
+data:
+  all:
+    base_data_path: '/absolute/path/to/ptb_xl_1.0.1/'
+    train_set_path: "data/all/normalize/train.csv"
+    valid_set_path: "data/all/normalize/validation.csv"
+    test_set_path: "data/all/normalize/test.csv"
+  diag:
+    base_data_path: '/absolute/path/to/ptb_xl_1.0.1/'
+    train_set_path: "data/diag/normalize/train.csv"
+    valid_set_path: "data/diag/normalize/validation.csv"
+    test_set_path: "data/diag/normalize/test.csv"
+  sub:
+    base_data_path: '/absolute/path/to/ptb_xl_1.0.1/'
+    train_set_path: "data/sub_diag/normalize/train.csv"
+    valid_set_path: "data/sub_diag/normalize/validation.csv"
+    test_set_path: "data/sub_diag/normalize/test.csv"
+  super:
+    base_data_path: '/absolute/path/to/ptb_xl_1.0.1/'
+    train_set_path: "data/super_diag/normalize/train.csv"
+    valid_set_path: "data/super_diag/normalize/validation.csv"
+    test_set_path: "data/super_diag/normalize/test.csv"
+  form:
+    base_data_path: '/absolute/path/to/ptb_xl_1.0.1/'
+    train_set_path: "data/form/normalize/train.csv"
+    valid_set_path: "data/form/normalize/validation.csv"
+    test_set_path: "data/form/normalize/test.csv"
+  rhythm:
+    base_data_path: '/absolute/path/to/ptb_xl_1.0.1/'
+    train_set_path: "data/rhythm/normalize/train.csv"
+    valid_set_path: "data/rhythm/normalize/validation.csv"
+    test_set_path: "data/rhythm/normalize/test.csv"
+  cpsc:
+    base_data_path: '/absolute/path/to/CPSC2018NPY/'
+    train_set_path: "data/CPSC/fold2/train.csv"
+    valid_set_path: "data/CPSC/fold2/validation.csv"
+    test_set_path: "data/CPSC/fold2/test.csv"
+
+hyperparameters:
+  epochs: 50
+  batch_size: 64
+  lr: 0.001
+  weight_decay: 0.0001
+  use_loss: "DB"  # ['DB', 'FOCAL', 'CB', 'WBCE', 'STANDARD']
+
+model:
+  d_model: 64   # 128 for rhythm
+
+aux:
+  seed: 42
+  device: 'cuda'
+
+test_ckpt_path: 'pretrained_ckpt/downloaded_checkpoint.pth'
